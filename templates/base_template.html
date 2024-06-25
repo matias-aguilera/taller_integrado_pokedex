@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}{% endblock %}</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='styles.css')}}">
+    </head>
+    <body>
+        <header>
+            <h1>UplaDex</h1>
+            <ul>
+                <li><a href="{{ url_for('index')}}">Inicio</a></li>
+                <li><a href="{{ url_for('pokedex')}}">Pokedex</a></li>
+                <li><a href="{{ url_for('items')}}">Objetos</a></li>
+                <li><a href="{{ url_for('pokemon')}}">Bayas</a></li>
+            </ul>
+        </header>
+        <main>
+            {% block content %}{% endblock %}
+        </main>
+
+        <footer>
+            <p>Todos los derechos Reservados &reg;</p>
+        </footer>
+    </body>
+</html>
