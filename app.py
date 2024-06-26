@@ -3,24 +3,16 @@ import json
 
 app = Flask(__name__)
 
-pokemon_list = [
-    {"name": "Bulbasaur", "image": "img/001.png"},
-    {"name": "Charmander", "image": "img/004.png"},
-    {"name": "Squirtle", "image": "img/007.png"},
-    
-]
-
-
 @app.route("/")
 
 def index():
-    #with open("data/pokemondb.json", "r", encoding="utf-8") as f:
-    #    datos = json.load(f)
     return render_template("index.html")
 
 @app.route("/pokedex/")
 def pokedex():
-    return render_template("pokedex.html")
+    with open("data/pokemondb.json", "r", encoding="utf-8") as f:
+        pokedexdb = json.load(f)
+    return render_template("pokedex.html", dex=pokedexdb, n = 6)
 
 @app.route("/items/")
 def items():

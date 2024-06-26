@@ -5,10 +5,10 @@
 <h2>Lista de Pokémon</h2>
 
 <ul>
-    {% for pokemon in pokemons %}
+    {% for pokemon in dex.datos[:n] %}
     <li>
-        <h3>{{ pokemon.name }}</h3>
-        <img src="{{ url_for('static', filename=pokemon.image) }}" alt="{{ pokemon.name }}" style="width:150px;">
+        <h3>{{ pokemon.names }}</h3>
+        <!--<img src="{{ url_for('static', filename=pokemon.image) }}" alt="{{ pokemon.name }}" style="width:150px;">-->
     </li>
     {% endfor %}
 </ul>
