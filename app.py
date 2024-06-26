@@ -1,18 +1,30 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, abort
 import json
 
 app = Flask(__name__)
 
-@app.route("/")
+def loaddb():
+    with open("data/pokemondb.json", "r", encoding="utf-8") as f:
+        pokedb = json.load(f)
+    return pokedb["datos"]
 
+@app.route("/")
 def index():
     return render_template("index.html")
 
+
+@app.route("/prev/<int:dex_id>")
+def poke_prev(dex_id):
+    pokedexdb = loaddb()
+    pokequery = next((item for item in pokedexdb if item["id"] == dex_id), None)
+    if pokequery is None:
+        abort(404)
+    return render_template("poke_prev.html", poke = pokequery)
+
 @app.route("/pokedex/")
 def pokedex():
-    with open("data/pokemondb.json", "r", encoding="utf-8") as f:
-        pokedexdb = json.load(f)
-    return render_template("pokedex.html", dex=pokedexdb, n = 6)
+    pokedexdb = loaddb()
+    return render_template("pokedex.html", dex=pokedexdb, n = 12)
 
 @app.route("/items/")
 def items():

@@ -1,17 +1,35 @@
 {% extends "base_template.html" %}
 
-{% block title %}pekedex {% endblock %}
+{% block title %}Pokedex{% endblock %}
 {% block content %}
 <h2>Lista de Pokémon</h2>
 
-<ul>
-    {% for pokemon in dex.datos[:n] %}
-    <li>
-        <h3>{{ pokemon.names }}</h3>
-        <!--<img src="{{ url_for('static', filename=pokemon.image) }}" alt="{{ pokemon.name }}" style="width:150px;">-->
-    </li>
-    {% endfor %}
-</ul>
+ <center>
+
+     <table >
+         <tr>
+             <th>ID</th>
+             <th>Nombre</th>
+             <th>Tipo</th>
+         </tr>
+         {% for poke in dex[:n] %}
+             <tr>
+                
+                 <td style="text-align: center;">
+                    <a href="{{ url_for('poke_prev',dex_id=poke.id) }}">
+                        {{ poke.id }}
+                    </a>
+                 </td>
+                 <td style="text-align: center;">
+                     {{ poke.names }}
+                 </td>
+                 <td style="text-align: center;">
+                     {{ poke.types }}
+                 </td>
+             </tr>
+         {% endfor %}
+     </table>
+ </center>
 
 {% endblock %}
 
