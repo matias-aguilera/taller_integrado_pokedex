@@ -1,6 +1,7 @@
 {
 "datos": [
  {
+  "nro": 1 ,
   "names": "Bulbasaur",
   "types": "Grass Poison",
   "total": 318,
@@ -9,9 +10,11 @@
   "Defense": 49,
   "SpAtk": 65,
   "SpDef": 65,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro":2 ,
   "names": "Ivysaur",
   "types": "Grass Poison",
   "total": 405,
@@ -20,9 +23,11 @@
   "Defense": 63,
   "SpAtk": 80,
   "SpDef": 80,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro":3 ,
   "names": "Venusaur",
   "types": "Grass Poison",
   "total": 525,
@@ -31,20 +36,11 @@
   "Defense": 83,
   "SpAtk": 100,
   "SpDef": 100,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
-  "names": "Venusaur Mega Venusaur",
-  "types": "Grass Poison",
-  "total": 625,
-  "hp": 80,
-  "attack": 100,
-  "Defense": 123,
-  "SpAtk": 122,
-  "SpDef": 120,
-  "Speed": 80
- },
- {
+    "nro":4 ,
   "names": "Charmander",
   "types": "Fire ",
   "total": 309,
@@ -53,9 +49,11 @@
   "Defense": 43,
   "SpAtk": 60,
   "SpDef": 50,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 5,
   "names": "Charmeleon",
   "types": "Fire ",
   "total": 405,
@@ -64,9 +62,11 @@
   "Defense": 58,
   "SpAtk": 80,
   "SpDef": 65,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro":6 ,
   "names": "Charizard",
   "types": "Fire Flying",
   "total": 534,
@@ -75,31 +75,11 @@
   "Defense": 78,
   "SpAtk": 109,
   "SpDef": 85,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
-  "names": "Charizard Mega Charizard X",
-  "types": "Fire Dragon",
-  "total": 634,
-  "hp": 78,
-  "attack": 130,
-  "Defense": 111,
-  "SpAtk": 130,
-  "SpDef": 85,
-  "Speed": 100
- },
- {
-  "names": "Charizard Mega Charizard Y",
-  "types": "Fire Flying",
-  "total": 634,
-  "hp": 78,
-  "attack": 104,
-  "Defense": 78,
-  "SpAtk": 159,
-  "SpDef": 115,
-  "Speed": 100
- },
- {
+    "nro":7 ,
   "names": "Squirtle",
   "types": "Water ",
   "total": 314,
@@ -108,9 +88,11 @@
   "Defense": 65,
   "SpAtk": 50,
   "SpDef": 64,
-  "Speed": 43
+  "Speed": 43,
+  "descrip": ""
  },
  {
+    "nro": 8,
   "names": "Wartortle",
   "types": "Water ",
   "total": 405,
@@ -119,9 +101,11 @@
   "Defense": 80,
   "SpAtk": 65,
   "SpDef": 80,
-  "Speed": 58
+  "Speed": 58,
+  "descrip": ""
  },
  {
+   "nro":9 ,
   "names": "Blastoise",
   "types": "Water ",
   "total": 530,
@@ -130,20 +114,11 @@
   "Defense": 100,
   "SpAtk": 85,
   "SpDef": 105,
-  "Speed": 78
+  "Speed": 78,
+  "descrip": ""
  },
  {
-  "names": "Blastoise Mega Blastoise",
-  "types": "Water ",
-  "total": 630,
-  "hp": 79,
-  "attack": 103,
-  "Defense": 120,
-  "SpAtk": 135,
-  "SpDef": 115,
-  "Speed": 78
- },
- {
+    "nro":10 ,
   "names": "Caterpie",
   "types": "Bug ",
   "total": 195,
@@ -152,9 +127,11 @@
   "Defense": 35,
   "SpAtk": 20,
   "SpDef": 20,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 11,
   "names": "Metapod",
   "types": "Bug ",
   "total": 205,
@@ -163,9 +140,11 @@
   "Defense": 55,
   "SpAtk": 25,
   "SpDef": 25,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 12,
   "names": "Butterfree",
   "types": "Bug Flying",
   "total": 395,
@@ -174,9 +153,11 @@
   "Defense": 50,
   "SpAtk": 90,
   "SpDef": 80,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 13,
   "names": "Weedle",
   "types": "Bug Poison",
   "total": 195,
@@ -185,9 +166,11 @@
   "Defense": 30,
   "SpAtk": 20,
   "SpDef": 20,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 14,
   "names": "Kakuna",
   "types": "Bug Poison",
   "total": 205,
@@ -196,9 +179,11 @@
   "Defense": 50,
   "SpAtk": 25,
   "SpDef": 25,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro":15 ,
   "names": "Beedrill",
   "types": "Bug Poison",
   "total": 395,
@@ -207,20 +192,11 @@
   "Defense": 40,
   "SpAtk": 45,
   "SpDef": 80,
-  "Speed": 75
+  "Speed": 75,
+  "descrip": ""
  },
  {
-  "names": "Beedrill Mega Beedrill",
-  "types": "Bug Poison",
-  "total": 495,
-  "hp": 65,
-  "attack": 150,
-  "Defense": 40,
-  "SpAtk": 15,
-  "SpDef": 80,
-  "Speed": 145
- },
- {
+    "nro": 16,
   "names": "Pidgey",
   "types": "Normal Flying",
   "total": 251,
@@ -229,9 +205,11 @@
   "Defense": 40,
   "SpAtk": 35,
   "SpDef": 35,
-  "Speed": 56
+  "Speed": 56,
+  "descrip": ""
  },
  {
+    "nro": 17,
   "names": "Pidgeotto",
   "types": "Normal Flying",
   "total": 349,
@@ -240,9 +218,11 @@
   "Defense": 55,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 71
+  "Speed": 71,
+  "descrip": ""
  },
  {
+    "nro": 18,
   "names": "Pidgeot",
   "types": "Normal Flying",
   "total": 479,
@@ -251,20 +231,11 @@
   "Defense": 75,
   "SpAtk": 70,
   "SpDef": 70,
-  "Speed": 101
+  "Speed": 101,
+  "descrip": ""
  },
  {
-  "names": "Pidgeot Mega Pidgeot",
-  "types": "Normal Flying",
-  "total": 579,
-  "hp": 83,
-  "attack": 80,
-  "Defense": 80,
-  "SpAtk": 135,
-  "SpDef": 80,
-  "Speed": 121
- },
- {
+    "nro": 19,
   "names": "Rattata",
   "types": "Normal ",
   "total": 253,
@@ -273,20 +244,11 @@
   "Defense": 35,
   "SpAtk": 25,
   "SpDef": 35,
-  "Speed": 72
+  "Speed": 72,
+  "descrip": ""
  },
  {
-  "names": "Rattata Alolan Rattata",
-  "types": "Dark Normal",
-  "total": 253,
-  "hp": 30,
-  "attack": 56,
-  "Defense": 35,
-  "SpAtk": 25,
-  "SpDef": 35,
-  "Speed": 72
- },
- {
+    "nro": 20,
   "names": "Raticate",
   "types": "Normal ",
   "total": 413,
@@ -295,20 +257,11 @@
   "Defense": 60,
   "SpAtk": 50,
   "SpDef": 70,
-  "Speed": 97
+  "Speed": 97,
+  "descrip": ""
  },
  {
-  "names": "Raticate Alolan Raticate",
-  "types": "Dark Normal",
-  "total": 413,
-  "hp": 75,
-  "attack": 71,
-  "Defense": 70,
-  "SpAtk": 40,
-  "SpDef": 80,
-  "Speed": 77
- },
- {
+    "nro": 21,
   "names": "Spearow",
   "types": "Normal Flying",
   "total": 262,
@@ -317,9 +270,11 @@
   "Defense": 30,
   "SpAtk": 31,
   "SpDef": 31,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 22,
   "names": "Fearow",
   "types": "Normal Flying",
   "total": 442,
@@ -328,9 +283,11 @@
   "Defense": 65,
   "SpAtk": 61,
   "SpDef": 61,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 23,
   "names": "Ekans",
   "types": "Poison ",
   "total": 288,
@@ -339,9 +296,11 @@
   "Defense": 44,
   "SpAtk": 40,
   "SpDef": 54,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 24,
   "names": "Arbok",
   "types": "Poison ",
   "total": 448,
@@ -350,9 +309,11 @@
   "Defense": 69,
   "SpAtk": 65,
   "SpDef": 79,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 25,
   "names": "Pikachu",
   "types": "Electric ",
   "total": 320,
@@ -361,20 +322,11 @@
   "Defense": 40,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
-  "names": "Pikachu Partner Pikachu",
-  "types": "Electric ",
-  "total": 430,
-  "hp": 45,
-  "attack": 80,
-  "Defense": 50,
-  "SpAtk": 75,
-  "SpDef": 60,
-  "Speed": 120
- },
- {
+    "nro": 26,
   "names": "Raichu",
   "types": "Electric ",
   "total": 485,
@@ -383,20 +335,11 @@
   "Defense": 55,
   "SpAtk": 90,
   "SpDef": 80,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
-  "names": "Raichu Alolan Raichu",
-  "types": "Electric Psychic",
-  "total": 485,
-  "hp": 60,
-  "attack": 85,
-  "Defense": 50,
-  "SpAtk": 95,
-  "SpDef": 85,
-  "Speed": 110
- },
- {
+    "nro": 27,
   "names": "Sandshrew",
   "types": "Ground ",
   "total": 300,
@@ -405,20 +348,11 @@
   "Defense": 85,
   "SpAtk": 20,
   "SpDef": 30,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
-  "names": "Sandshrew Alolan Sandshrew",
-  "types": "Ice Steel",
-  "total": 300,
-  "hp": 50,
-  "attack": 75,
-  "Defense": 90,
-  "SpAtk": 10,
-  "SpDef": 35,
-  "Speed": 40
- },
- {
+    "nro": 28,
   "names": "Sandslash",
   "types": "Ground ",
   "total": 450,
@@ -427,20 +361,11 @@
   "Defense": 110,
   "SpAtk": 45,
   "SpDef": 55,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
-  "names": "Sandslash Alolan Sandslash",
-  "types": "Ice Steel",
-  "total": 450,
-  "hp": 75,
-  "attack": 100,
-  "Defense": 120,
-  "SpAtk": 25,
-  "SpDef": 65,
-  "Speed": 65
- },
- {
+    "nro": 29,
   "names": "Nidoran♀",
   "types": "Poison ",
   "total": 275,
@@ -449,9 +374,11 @@
   "Defense": 52,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 41
+  "Speed": 41,
+  "descrip": ""
  },
  {
+    "nro": 30,
   "names": "Nidorina",
   "types": "Poison ",
   "total": 365,
@@ -460,9 +387,11 @@
   "Defense": 67,
   "SpAtk": 55,
   "SpDef": 55,
-  "Speed": 56
+  "Speed": 56,
+  "descrip": ""
  },
  {
+    "nro": 31,
   "names": "Nidoqueen",
   "types": "Poison Ground",
   "total": 505,
@@ -471,9 +400,11 @@
   "Defense": 87,
   "SpAtk": 75,
   "SpDef": 85,
-  "Speed": 76
+  "Speed": 76,
+  "descrip": ""
  },
  {
+    "nro": 32,
   "names": "Nidoran♂",
   "types": "Poison ",
   "total": 273,
@@ -482,9 +413,11 @@
   "Defense": 40,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 33,
   "names": "Nidorino",
   "types": "Poison ",
   "total": 365,
@@ -493,9 +426,11 @@
   "Defense": 57,
   "SpAtk": 55,
   "SpDef": 55,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 34,
   "names": "Nidoking",
   "types": "Poison Ground",
   "total": 505,
@@ -504,9 +439,11 @@
   "Defense": 77,
   "SpAtk": 85,
   "SpDef": 75,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 35,
   "names": "Clefairy",
   "types": "Fairy ",
   "total": 323,
@@ -515,9 +452,11 @@
   "Defense": 48,
   "SpAtk": 60,
   "SpDef": 65,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 36,
   "names": "Clefable",
   "types": "Fairy ",
   "total": 483,
@@ -526,9 +465,11 @@
   "Defense": 73,
   "SpAtk": 95,
   "SpDef": 90,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 37,
   "names": "Vulpix",
   "types": "Fire ",
   "total": 299,
@@ -537,20 +478,11 @@
   "Defense": 40,
   "SpAtk": 50,
   "SpDef": 65,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
-  "names": "Vulpix Alolan Vulpix",
-  "types": "Ice ",
-  "total": 299,
-  "hp": 38,
-  "attack": 41,
-  "Defense": 40,
-  "SpAtk": 50,
-  "SpDef": 65,
-  "Speed": 65
- },
- {
+   "nro":38 ,
   "names": "Ninetales",
   "types": "Fire ",
   "total": 505,
@@ -559,20 +491,11 @@
   "Defense": 75,
   "SpAtk": 81,
   "SpDef": 100,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
-  "names": "Ninetales Alolan Ninetales",
-  "types": "Ice Fairy",
-  "total": 505,
-  "hp": 73,
-  "attack": 67,
-  "Defense": 75,
-  "SpAtk": 81,
-  "SpDef": 100,
-  "Speed": 109
- },
- {
+    "nro":39 ,
   "names": "Jigglypuff",
   "types": "Normal Fairy",
   "total": 270,
@@ -581,9 +504,11 @@
   "Defense": 20,
   "SpAtk": 45,
   "SpDef": 25,
-  "Speed": 20
+  "Speed": 20,
+  "descrip": ""
  },
  {
+    "nro": 40,
   "names": "Wigglytuff",
   "types": "Normal Fairy",
   "total": 435,
@@ -592,9 +517,11 @@
   "Defense": 45,
   "SpAtk": 85,
   "SpDef": 50,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 41,
   "names": "Zubat",
   "types": "Poison Flying",
   "total": 245,
@@ -603,9 +530,11 @@
   "Defense": 35,
   "SpAtk": 30,
   "SpDef": 40,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 42,
   "names": "Golbat",
   "types": "Poison Flying",
   "total": 455,
@@ -614,9 +543,11 @@
   "Defense": 70,
   "SpAtk": 65,
   "SpDef": 75,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 43,
   "names": "Oddish",
   "types": "Grass Poison",
   "total": 320,
@@ -625,9 +556,11 @@
   "Defense": 55,
   "SpAtk": 75,
   "SpDef": 65,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 44,
   "names": "Gloom",
   "types": "Grass Poison",
   "total": 395,
@@ -636,9 +569,11 @@
   "Defense": 70,
   "SpAtk": 85,
   "SpDef": 75,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 45,
   "names": "Vileplume",
   "types": "Grass Poison",
   "total": 490,
@@ -647,9 +582,11 @@
   "Defense": 85,
   "SpAtk": 110,
   "SpDef": 90,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 46,
   "names": "Paras",
   "types": "Bug Grass",
   "total": 285,
@@ -658,9 +595,11 @@
   "Defense": 55,
   "SpAtk": 45,
   "SpDef": 55,
-  "Speed": 25
+  "Speed": 25,
+  "descrip": ""
  },
  {
+    "nro": 47,
   "names": "Parasect",
   "types": "Bug Grass",
   "total": 405,
@@ -669,9 +608,11 @@
   "Defense": 80,
   "SpAtk": 60,
   "SpDef": 80,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 48,
   "names": "Venonat",
   "types": "Bug Poison",
   "total": 305,
@@ -680,9 +621,11 @@
   "Defense": 50,
   "SpAtk": 40,
   "SpDef": 55,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 49,
   "names": "Venomoth",
   "types": "Bug Poison",
   "total": 450,
@@ -691,9 +634,11 @@
   "Defense": 60,
   "SpAtk": 90,
   "SpDef": 75,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 50,
   "names": "Diglett",
   "types": "Ground ",
   "total": 265,
@@ -702,20 +647,11 @@
   "Defense": 25,
   "SpAtk": 35,
   "SpDef": 45,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
-  "names": "Diglett Alolan Diglett",
-  "types": "Ground Steel",
-  "total": 265,
-  "hp": 10,
-  "attack": 55,
-  "Defense": 30,
-  "SpAtk": 35,
-  "SpDef": 45,
-  "Speed": 90
- },
- {
+    "nro": 51,
   "names": "Dugtrio",
   "types": "Ground ",
   "total": 425,
@@ -724,20 +660,11 @@
   "Defense": 50,
   "SpAtk": 50,
   "SpDef": 70,
-  "Speed": 120
+  "Speed": 120,
+  "descrip": ""
  },
  {
-  "names": "Dugtrio Alolan Dugtrio",
-  "types": "Ground Steel",
-  "total": 425,
-  "hp": 35,
-  "attack": 100,
-  "Defense": 60,
-  "SpAtk": 50,
-  "SpDef": 70,
-  "Speed": 110
- },
- {
+    "nro": 52,
   "names": "Meowth",
   "types": "Normal ",
   "total": 290,
@@ -746,31 +673,11 @@
   "Defense": 35,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
-  "names": "Meowth Alolan Meowth",
-  "types": "Dark ",
-  "total": 290,
-  "hp": 40,
-  "attack": 35,
-  "Defense": 35,
-  "SpAtk": 50,
-  "SpDef": 40,
-  "Speed": 90
- },
- {
-  "names": "Meowth Galarian Meowth",
-  "types": "Steel ",
-  "total": 290,
-  "hp": 50,
-  "attack": 65,
-  "Defense": 55,
-  "SpAtk": 40,
-  "SpDef": 40,
-  "Speed": 40
- },
- {
+    "nro": 53,
   "names": "Persian",
   "types": "Normal ",
   "total": 440,
@@ -779,20 +686,11 @@
   "Defense": 60,
   "SpAtk": 65,
   "SpDef": 65,
-  "Speed": 115
+  "Speed": 115,
+  "descrip": ""
  },
  {
-  "names": "Persian Alolan Persian",
-  "types": "Dark ",
-  "total": 440,
-  "hp": 65,
-  "attack": 60,
-  "Defense": 60,
-  "SpAtk": 75,
-  "SpDef": 65,
-  "Speed": 115
- },
- {
+    "nro": 54,
   "names": "Psyduck",
   "types": "Water ",
   "total": 320,
@@ -801,9 +699,11 @@
   "Defense": 48,
   "SpAtk": 65,
   "SpDef": 50,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 55,
   "names": "Golduck",
   "types": "Water ",
   "total": 500,
@@ -812,9 +712,11 @@
   "Defense": 78,
   "SpAtk": 95,
   "SpDef": 80,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 56,
   "names": "Mankey",
   "types": "Fighting ",
   "total": 305,
@@ -823,9 +725,11 @@
   "Defense": 35,
   "SpAtk": 35,
   "SpDef": 45,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 57,
   "names": "Primeape",
   "types": "Fighting ",
   "total": 455,
@@ -834,9 +738,11 @@
   "Defense": 60,
   "SpAtk": 60,
   "SpDef": 70,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 58,
   "names": "Growlithe",
   "types": "Fire ",
   "total": 350,
@@ -845,20 +751,11 @@
   "Defense": 45,
   "SpAtk": 70,
   "SpDef": 50,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
-  "names": "Growlithe Hisuian Growlithe",
-  "types": "Fire Rock",
-  "total": 350,
-  "hp": 60,
-  "attack": 75,
-  "Defense": 45,
-  "SpAtk": 65,
-  "SpDef": 50,
-  "Speed": 55
- },
- {
+    "nro": 59,
   "names": "Arcanine",
   "types": "Fire ",
   "total": 555,
@@ -867,20 +764,11 @@
   "Defense": 80,
   "SpAtk": 100,
   "SpDef": 80,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
-  "names": "Arcanine Hisuian Arcanine",
-  "types": "Fire Rock",
-  "total": 555,
-  "hp": 95,
-  "attack": 115,
-  "Defense": 80,
-  "SpAtk": 95,
-  "SpDef": 80,
-  "Speed": 90
- },
- {
+    "nro": 60,
   "names": "Poliwag",
   "types": "Water ",
   "total": 300,
@@ -889,9 +777,11 @@
   "Defense": 40,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 61,
   "names": "Poliwhirl",
   "types": "Water ",
   "total": 385,
@@ -900,9 +790,11 @@
   "Defense": 65,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 62,
   "names": "Poliwrath",
   "types": "Water Fighting",
   "total": 510,
@@ -911,9 +803,11 @@
   "Defense": 95,
   "SpAtk": 70,
   "SpDef": 90,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 63,
   "names": "Abra",
   "types": "Psychic ",
   "total": 310,
@@ -922,9 +816,11 @@
   "Defense": 15,
   "SpAtk": 105,
   "SpDef": 55,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 64,
   "names": "Kadabra",
   "types": "Psychic ",
   "total": 400,
@@ -933,9 +829,11 @@
   "Defense": 30,
   "SpAtk": 120,
   "SpDef": 70,
-  "Speed": 105
+  "Speed": 105,
+  "descrip": ""
  },
  {
+    "nro": 65,
   "names": "Alakazam",
   "types": "Psychic ",
   "total": 500,
@@ -944,20 +842,11 @@
   "Defense": 45,
   "SpAtk": 135,
   "SpDef": 95,
-  "Speed": 120
+  "Speed": 120,
+  "descrip": ""
  },
  {
-  "names": "Alakazam Mega Alakazam",
-  "types": "Psychic ",
-  "total": 600,
-  "hp": 55,
-  "attack": 50,
-  "Defense": 65,
-  "SpAtk": 175,
-  "SpDef": 105,
-  "Speed": 150
- },
- {
+    "nro": 66,
   "names": "Machop",
   "types": "Fighting ",
   "total": 305,
@@ -966,9 +855,11 @@
   "Defense": 50,
   "SpAtk": 35,
   "SpDef": 35,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 67,
   "names": "Machoke",
   "types": "Fighting ",
   "total": 405,
@@ -977,9 +868,11 @@
   "Defense": 70,
   "SpAtk": 50,
   "SpDef": 60,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 68,
   "names": "Machamp",
   "types": "Fighting ",
   "total": 505,
@@ -988,9 +881,11 @@
   "Defense": 80,
   "SpAtk": 65,
   "SpDef": 85,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 69,
   "names": "Bellsprout",
   "types": "Grass Poison",
   "total": 300,
@@ -999,9 +894,11 @@
   "Defense": 35,
   "SpAtk": 70,
   "SpDef": 30,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 70,
   "names": "Weepinbell",
   "types": "Grass Poison",
   "total": 390,
@@ -1010,9 +907,11 @@
   "Defense": 50,
   "SpAtk": 85,
   "SpDef": 45,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 71,
   "names": "Victreebel",
   "types": "Grass Poison",
   "total": 490,
@@ -1021,9 +920,11 @@
   "Defense": 65,
   "SpAtk": 100,
   "SpDef": 70,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 72,
   "names": "Tentacool",
   "types": "Water Poison",
   "total": 335,
@@ -1032,9 +933,11 @@
   "Defense": 35,
   "SpAtk": 50,
   "SpDef": 100,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 73,
   "names": "Tentacruel",
   "types": "Water Poison",
   "total": 515,
@@ -1043,9 +946,11 @@
   "Defense": 65,
   "SpAtk": 80,
   "SpDef": 120,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 74,
   "names": "Geodude",
   "types": "Rock Ground",
   "total": 300,
@@ -1054,20 +959,11 @@
   "Defense": 100,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 20
+  "Speed": 20,
+  "descrip": ""
  },
  {
-  "names": "Geodude Alolan Geodude",
-  "types": "Rock Electric",
-  "total": 300,
-  "hp": 40,
-  "attack": 80,
-  "Defense": 100,
-  "SpAtk": 30,
-  "SpDef": 30,
-  "Speed": 20
- },
- {
+    "nro": 75,
   "names": "Graveler",
   "types": "Rock Ground",
   "total": 390,
@@ -1076,20 +972,11 @@
   "Defense": 115,
   "SpAtk": 45,
   "SpDef": 45,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
-  "names": "Graveler Alolan Graveler",
-  "types": "Rock Electric",
-  "total": 390,
-  "hp": 55,
-  "attack": 95,
-  "Defense": 115,
-  "SpAtk": 45,
-  "SpDef": 45,
-  "Speed": 35
- },
- {
+    "nro": 76,
   "names": "Golem",
   "types": "Rock Ground",
   "total": 495,
@@ -1098,20 +985,11 @@
   "Defense": 130,
   "SpAtk": 55,
   "SpDef": 65,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
-  "names": "Golem Alolan Golem",
-  "types": "Rock Electric",
-  "total": 495,
-  "hp": 80,
-  "attack": 120,
-  "Defense": 130,
-  "SpAtk": 55,
-  "SpDef": 65,
-  "Speed": 45
- },
- {
+    "nro": 77,
   "names": "Ponyta",
   "types": "Fire ",
   "total": 410,
@@ -1120,20 +998,11 @@
   "Defense": 55,
   "SpAtk": 65,
   "SpDef": 65,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
-  "names": "Ponyta Galarian Ponyta",
-  "types": "Psychic ",
-  "total": 410,
-  "hp": 50,
-  "attack": 85,
-  "Defense": 55,
-  "SpAtk": 65,
-  "SpDef": 65,
-  "Speed": 90
- },
- {
+    "nro": 78,
   "names": "Rapidash",
   "types": "Fire ",
   "total": 500,
@@ -1142,20 +1011,11 @@
   "Defense": 70,
   "SpAtk": 80,
   "SpDef": 80,
-  "Speed": 105
+  "Speed": 105,
+  "descrip": ""
  },
  {
-  "names": "Rapidash Galarian Rapidash",
-  "types": "Psychic Fairy",
-  "total": 500,
-  "hp": 65,
-  "attack": 100,
-  "Defense": 70,
-  "SpAtk": 80,
-  "SpDef": 80,
-  "Speed": 105
- },
- {
+    "nro": 79,
   "names": "Slowpoke",
   "types": "Water Psychic",
   "total": 315,
@@ -1164,20 +1024,11 @@
   "Defense": 65,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 15
+  "Speed": 15,
+  "descrip": ""
  },
  {
-  "names": "Slowpoke Galarian Slowpoke",
-  "types": "Psychic ",
-  "total": 315,
-  "hp": 90,
-  "attack": 65,
-  "Defense": 65,
-  "SpAtk": 40,
-  "SpDef": 40,
-  "Speed": 15
- },
- {
+    "nro": 80,
   "names": "Slowbro",
   "types": "Water Psychic",
   "total": 490,
@@ -1186,31 +1037,11 @@
   "Defense": 110,
   "SpAtk": 100,
   "SpDef": 80,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
-  "names": "Slowbro Mega Slowbro",
-  "types": "Water Psychic",
-  "total": 590,
-  "hp": 95,
-  "attack": 75,
-  "Defense": 180,
-  "SpAtk": 130,
-  "SpDef": 80,
-  "Speed": 30
- },
- {
-  "names": "Slowbro Galarian Slowbro",
-  "types": "Poison Psychic",
-  "total": 490,
-  "hp": 95,
-  "attack": 100,
-  "Defense": 95,
-  "SpAtk": 100,
-  "SpDef": 70,
-  "Speed": 30
- },
- {
+    "nro": 81,
   "names": "Magnemite",
   "types": "Electric Steel",
   "total": 325,
@@ -1219,9 +1050,11 @@
   "Defense": 70,
   "SpAtk": 95,
   "SpDef": 55,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 82,
   "names": "Magneton",
   "types": "Electric Steel",
   "total": 465,
@@ -1230,9 +1063,11 @@
   "Defense": 95,
   "SpAtk": 120,
   "SpDef": 70,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 83,
   "names": "Farfetch'd",
   "types": "Normal Flying",
   "total": 377,
@@ -1241,20 +1076,11 @@
   "Defense": 55,
   "SpAtk": 58,
   "SpDef": 62,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
-  "names": "Farfetch'd Galarian Farfetch'd",
-  "types": "Fighting ",
-  "total": 377,
-  "hp": 52,
-  "attack": 95,
-  "Defense": 55,
-  "SpAtk": 58,
-  "SpDef": 62,
-  "Speed": 55
- },
- {
+    "nro": 84,
   "names": "Doduo",
   "types": "Normal Flying",
   "total": 310,
@@ -1263,9 +1089,11 @@
   "Defense": 45,
   "SpAtk": 35,
   "SpDef": 35,
-  "Speed": 75
+  "Speed": 75,
+  "descrip": ""
  },
  {
+    "nro": 85,
   "names": "Dodrio",
   "types": "Normal Flying",
   "total": 470,
@@ -1274,9 +1102,11 @@
   "Defense": 70,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
+    "nro": 86,
   "names": "Seel",
   "types": "Water ",
   "total": 325,
@@ -1285,9 +1115,11 @@
   "Defense": 55,
   "SpAtk": 45,
   "SpDef": 70,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 87,
   "names": "Dewgong",
   "types": "Water Ice",
   "total": 475,
@@ -1296,9 +1128,11 @@
   "Defense": 80,
   "SpAtk": 70,
   "SpDef": 95,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 88,
   "names": "Grimer",
   "types": "Poison ",
   "total": 325,
@@ -1307,20 +1141,11 @@
   "Defense": 50,
   "SpAtk": 40,
   "SpDef": 50,
-  "Speed": 25
+  "Speed": 25,
+  "descrip": ""
  },
  {
-  "names": "Grimer Alolan Grimer",
-  "types": "Poison Dark",
-  "total": 325,
-  "hp": 80,
-  "attack": 80,
-  "Defense": 50,
-  "SpAtk": 40,
-  "SpDef": 50,
-  "Speed": 25
- },
- {
+    "nro": 89,
   "names": "Muk",
   "types": "Poison ",
   "total": 500,
@@ -1329,20 +1154,11 @@
   "Defense": 75,
   "SpAtk": 65,
   "SpDef": 100,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
-  "names": "Muk Alolan Muk",
-  "types": "Poison Dark",
-  "total": 500,
-  "hp": 105,
-  "attack": 105,
-  "Defense": 75,
-  "SpAtk": 65,
-  "SpDef": 100,
-  "Speed": 50
- },
- {
+    "nro": 90,
   "names": "Shellder",
   "types": "Water ",
   "total": 305,
@@ -1351,9 +1167,11 @@
   "Defense": 100,
   "SpAtk": 45,
   "SpDef": 25,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 91,
   "names": "Cloyster",
   "types": "Water Ice",
   "total": 525,
@@ -1362,9 +1180,11 @@
   "Defense": 180,
   "SpAtk": 85,
   "SpDef": 45,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 92,
   "names": "Gastly",
   "types": "Ghost Poison",
   "total": 310,
@@ -1373,9 +1193,11 @@
   "Defense": 30,
   "SpAtk": 100,
   "SpDef": 35,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 93,
   "names": "Haunter",
   "types": "Ghost Poison",
   "total": 405,
@@ -1384,9 +1206,11 @@
   "Defense": 45,
   "SpAtk": 115,
   "SpDef": 55,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 94,
   "names": "Gengar",
   "types": "Ghost Poison",
   "total": 500,
@@ -1395,20 +1219,11 @@
   "Defense": 60,
   "SpAtk": 130,
   "SpDef": 75,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
-  "names": "Gengar Mega Gengar",
-  "types": "Ghost Poison",
-  "total": 600,
-  "hp": 60,
-  "attack": 65,
-  "Defense": 80,
-  "SpAtk": 170,
-  "SpDef": 95,
-  "Speed": 130
- },
- {
+    "nro": 95,
   "names": "Onix",
   "types": "Rock Ground",
   "total": 385,
@@ -1417,9 +1232,11 @@
   "Defense": 160,
   "SpAtk": 30,
   "SpDef": 45,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 96,
   "names": "Drowzee",
   "types": "Psychic ",
   "total": 328,
@@ -1428,9 +1245,11 @@
   "Defense": 45,
   "SpAtk": 43,
   "SpDef": 90,
-  "Speed": 42
+  "Speed": 42,
+  "descrip": ""
  },
  {
+    "nro": 97,
   "names": "Hypno",
   "types": "Psychic ",
   "total": 483,
@@ -1439,9 +1258,11 @@
   "Defense": 70,
   "SpAtk": 73,
   "SpDef": 115,
-  "Speed": 67
+  "Speed": 67,
+  "descrip": ""
  },
  {
+    "nro": 98,
   "names": "Krabby",
   "types": "Water ",
   "total": 325,
@@ -1450,9 +1271,11 @@
   "Defense": 90,
   "SpAtk": 25,
   "SpDef": 25,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 99,
   "names": "Kingler",
   "types": "Water ",
   "total": 475,
@@ -1461,9 +1284,11 @@
   "Defense": 115,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 75
+  "Speed": 75,
+  "descrip": ""
  },
  {
+    "nro": 100,
   "names": "Voltorb",
   "types": "Electric ",
   "total": 330,
@@ -1472,20 +1297,11 @@
   "Defense": 50,
   "SpAtk": 55,
   "SpDef": 55,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
-  "names": "Voltorb Hisuian Voltorb",
-  "types": "Electric Grass",
-  "total": 330,
-  "hp": 40,
-  "attack": 30,
-  "Defense": 50,
-  "SpAtk": 55,
-  "SpDef": 55,
-  "Speed": 100
- },
- {
+    "nro": 101,
   "names": "Electrode",
   "types": "Electric ",
   "total": 490,
@@ -1494,20 +1310,11 @@
   "Defense": 70,
   "SpAtk": 80,
   "SpDef": 80,
-  "Speed": 150
+  "Speed": 150,
+  "descrip": ""
  },
  {
-  "names": "Electrode Hisuian Electrode",
-  "types": "Electric Grass",
-  "total": 490,
-  "hp": 60,
-  "attack": 50,
-  "Defense": 70,
-  "SpAtk": 80,
-  "SpDef": 80,
-  "Speed": 150
- },
- {
+    "nro": 102,
   "names": "Exeggcute",
   "types": "Grass Psychic",
   "total": 325,
@@ -1516,9 +1323,11 @@
   "Defense": 80,
   "SpAtk": 60,
   "SpDef": 45,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 103,
   "names": "Exeggutor",
   "types": "Grass Psychic",
   "total": 530,
@@ -1527,20 +1336,11 @@
   "Defense": 85,
   "SpAtk": 125,
   "SpDef": 75,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
-  "names": "Exeggutor Alolan Exeggutor",
-  "types": "Grass Dragon",
-  "total": 530,
-  "hp": 95,
-  "attack": 105,
-  "Defense": 85,
-  "SpAtk": 125,
-  "SpDef": 75,
-  "Speed": 45
- },
- {
+    "nro": 104,
   "names": "Cubone",
   "types": "Ground ",
   "total": 320,
@@ -1549,9 +1349,11 @@
   "Defense": 95,
   "SpAtk": 40,
   "SpDef": 50,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 105,
   "names": "Marowak",
   "types": "Ground ",
   "total": 425,
@@ -1560,20 +1362,11 @@
   "Defense": 110,
   "SpAtk": 50,
   "SpDef": 80,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
-  "names": "Marowak Alolan Marowak",
-  "types": "Fire Ghost",
-  "total": 425,
-  "hp": 60,
-  "attack": 80,
-  "Defense": 110,
-  "SpAtk": 50,
-  "SpDef": 80,
-  "Speed": 45
- },
- {
+    "nro": 106,
   "names": "Hitmonlee",
   "types": "Fighting ",
   "total": 455,
@@ -1582,9 +1375,11 @@
   "Defense": 53,
   "SpAtk": 35,
   "SpDef": 110,
-  "Speed": 87
+  "Speed": 87,
+  "descrip": ""
  },
  {
+    "nro": 107,
   "names": "Hitmonchan",
   "types": "Fighting ",
   "total": 455,
@@ -1593,9 +1388,11 @@
   "Defense": 79,
   "SpAtk": 35,
   "SpDef": 110,
-  "Speed": 76
+  "Speed": 76,
+  "descrip": ""
  },
  {
+    "nro": 108,
   "names": "Lickitung",
   "types": "Normal ",
   "total": 385,
@@ -1604,9 +1401,11 @@
   "Defense": 75,
   "SpAtk": 60,
   "SpDef": 75,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 109,
   "names": "Koffing",
   "types": "Poison ",
   "total": 340,
@@ -1615,9 +1414,11 @@
   "Defense": 95,
   "SpAtk": 60,
   "SpDef": 45,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 110,
   "names": "Weezing",
   "types": "Poison ",
   "total": 490,
@@ -1626,20 +1427,11 @@
   "Defense": 120,
   "SpAtk": 85,
   "SpDef": 70,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
-  "names": "Weezing Galarian Weezing",
-  "types": "Poison Fairy",
-  "total": 490,
-  "hp": 65,
-  "attack": 90,
-  "Defense": 120,
-  "SpAtk": 85,
-  "SpDef": 70,
-  "Speed": 60
- },
- {
+    "nro": 111,
   "names": "Rhyhorn",
   "types": "Ground Rock",
   "total": 345,
@@ -1648,9 +1440,11 @@
   "Defense": 95,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 25
+  "Speed": 25,
+  "descrip": ""
  },
  {
+    "nro": 112,
   "names": "Rhydon",
   "types": "Ground Rock",
   "total": 485,
@@ -1659,9 +1453,11 @@
   "Defense": 120,
   "SpAtk": 45,
   "SpDef": 45,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 113,
   "names": "Chansey",
   "types": "Normal ",
   "total": 450,
@@ -1670,9 +1466,11 @@
   "Defense": 5,
   "SpAtk": 35,
   "SpDef": 105,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 114,
   "names": "Tangela",
   "types": "Grass ",
   "total": 435,
@@ -1681,9 +1479,11 @@
   "Defense": 115,
   "SpAtk": 100,
   "SpDef": 40,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 115,
   "names": "Kangaskhan",
   "types": "Normal ",
   "total": 490,
@@ -1692,20 +1492,11 @@
   "Defense": 80,
   "SpAtk": 40,
   "SpDef": 80,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
-  "names": "Kangaskhan Mega Kangaskhan",
-  "types": "Normal ",
-  "total": 590,
-  "hp": 105,
-  "attack": 125,
-  "Defense": 100,
-  "SpAtk": 60,
-  "SpDef": 100,
-  "Speed": 100
- },
- {
+    "nro": 116,
   "names": "Horsea",
   "types": "Water ",
   "total": 295,
@@ -1714,9 +1505,11 @@
   "Defense": 70,
   "SpAtk": 70,
   "SpDef": 25,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 117,
   "names": "Seadra",
   "types": "Water ",
   "total": 440,
@@ -1725,9 +1518,11 @@
   "Defense": 95,
   "SpAtk": 95,
   "SpDef": 45,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 118,
   "names": "Goldeen",
   "types": "Water ",
   "total": 320,
@@ -1736,9 +1531,11 @@
   "Defense": 60,
   "SpAtk": 35,
   "SpDef": 50,
-  "Speed": 63
+  "Speed": 63,
+  "descrip": ""
  },
  {
+    "nro": 119,
   "names": "Seaking",
   "types": "Water ",
   "total": 450,
@@ -1747,9 +1544,11 @@
   "Defense": 65,
   "SpAtk": 65,
   "SpDef": 80,
-  "Speed": 68
+  "Speed": 68,
+  "descrip": ""
  },
  {
+    "nro": 120,
   "names": "Staryu",
   "types": "Water ",
   "total": 340,
@@ -1758,9 +1557,11 @@
   "Defense": 55,
   "SpAtk": 70,
   "SpDef": 55,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 121,
   "names": "Starmie",
   "types": "Water Psychic",
   "total": 520,
@@ -1769,9 +1570,11 @@
   "Defense": 85,
   "SpAtk": 100,
   "SpDef": 85,
-  "Speed": 115
+  "Speed": 115,
+  "descrip": ""
  },
  {
+    "nro": 122,
   "names": "Mr. Mime",
   "types": "Psychic Fairy",
   "total": 460,
@@ -1780,20 +1583,11 @@
   "Defense": 65,
   "SpAtk": 100,
   "SpDef": 120,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
-  "names": "Mr. Mime Galarian Mr. Mime",
-  "types": "Ice Psychic",
-  "total": 460,
-  "hp": 50,
-  "attack": 65,
-  "Defense": 65,
-  "SpAtk": 90,
-  "SpDef": 90,
-  "Speed": 100
- },
- {
+    "nro": 123,
   "names": "Scyther",
   "types": "Bug Flying",
   "total": 500,
@@ -1802,9 +1596,11 @@
   "Defense": 80,
   "SpAtk": 55,
   "SpDef": 80,
-  "Speed": 105
+  "Speed": 105,
+  "descrip": ""
  },
  {
+    "nro": 124,
   "names": "Jynx",
   "types": "Ice Psychic",
   "total": 455,
@@ -1813,9 +1609,11 @@
   "Defense": 35,
   "SpAtk": 115,
   "SpDef": 95,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 125,
   "names": "Electabuzz",
   "types": "Electric ",
   "total": 490,
@@ -1824,9 +1622,11 @@
   "Defense": 57,
   "SpAtk": 95,
   "SpDef": 85,
-  "Speed": 105
+  "Speed": 105,
+  "descrip": ""
  },
  {
+    "nro": 126,
   "names": "Magmar",
   "types": "Fire ",
   "total": 495,
@@ -1835,9 +1635,11 @@
   "Defense": 57,
   "SpAtk": 100,
   "SpDef": 85,
-  "Speed": 93
+  "Speed": 93,
+  "descrip": ""
  },
  {
+    "nro": 127,
   "names": "Pinsir",
   "types": "Bug ",
   "total": 500,
@@ -1846,20 +1648,11 @@
   "Defense": 100,
   "SpAtk": 55,
   "SpDef": 70,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
-  "names": "Pinsir Mega Pinsir",
-  "types": "Bug Flying",
-  "total": 600,
-  "hp": 65,
-  "attack": 155,
-  "Defense": 120,
-  "SpAtk": 65,
-  "SpDef": 90,
-  "Speed": 105
- },
- {
+    "nro": 128,
   "names": "Tauros",
   "types": "Normal ",
   "total": 490,
@@ -1868,42 +1661,11 @@
   "Defense": 95,
   "SpAtk": 40,
   "SpDef": 70,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
-  "names": "Tauros Combat Breed",
-  "types": "Fighting ",
-  "total": 490,
-  "hp": 75,
-  "attack": 110,
-  "Defense": 105,
-  "SpAtk": 30,
-  "SpDef": 70,
-  "Speed": 100
- },
- {
-  "names": "Tauros Blaze Breed",
-  "types": "Fighting Fire",
-  "total": 490,
-  "hp": 75,
-  "attack": 110,
-  "Defense": 105,
-  "SpAtk": 30,
-  "SpDef": 70,
-  "Speed": 100
- },
- {
-  "names": "Tauros Aqua Breed",
-  "types": "Fighting Water",
-  "total": 490,
-  "hp": 75,
-  "attack": 110,
-  "Defense": 105,
-  "SpAtk": 30,
-  "SpDef": 70,
-  "Speed": 100
- },
- {
+    "nro": 129,
   "names": "Magikarp",
   "types": "Water ",
   "total": 200,
@@ -1912,9 +1674,11 @@
   "Defense": 55,
   "SpAtk": 15,
   "SpDef": 20,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 130,
   "names": "Gyarados",
   "types": "Water Flying",
   "total": 540,
@@ -1923,20 +1687,11 @@
   "Defense": 79,
   "SpAtk": 60,
   "SpDef": 100,
-  "Speed": 81
+  "Speed": 81,
+  "descrip": ""
  },
  {
-  "names": "Gyarados Mega Gyarados",
-  "types": "Water Dark",
-  "total": 640,
-  "hp": 95,
-  "attack": 155,
-  "Defense": 109,
-  "SpAtk": 70,
-  "SpDef": 130,
-  "Speed": 81
- },
- {
+    "nro": 131,
   "names": "Lapras",
   "types": "Water Ice",
   "total": 535,
@@ -1945,9 +1700,11 @@
   "Defense": 80,
   "SpAtk": 85,
   "SpDef": 95,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 132,
   "names": "Ditto",
   "types": "Normal ",
   "total": 288,
@@ -1956,9 +1713,11 @@
   "Defense": 48,
   "SpAtk": 48,
   "SpDef": 48,
-  "Speed": 48
+  "Speed": 48,
+  "descrip": ""
  },
  {
+    "nro": 133,
   "names": "Eevee",
   "types": "Normal ",
   "total": 325,
@@ -1967,20 +1726,11 @@
   "Defense": 50,
   "SpAtk": 45,
   "SpDef": 65,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
-  "names": "Eevee Partner Eevee",
-  "types": "Normal ",
-  "total": 435,
-  "hp": 65,
-  "attack": 75,
-  "Defense": 70,
-  "SpAtk": 65,
-  "SpDef": 85,
-  "Speed": 75
- },
- {
+    "nro": 134,
   "names": "Vaporeon",
   "types": "Water ",
   "total": 525,
@@ -1989,9 +1739,11 @@
   "Defense": 60,
   "SpAtk": 110,
   "SpDef": 95,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 135,
   "names": "Jolteon",
   "types": "Electric ",
   "total": 525,
@@ -2000,9 +1752,11 @@
   "Defense": 60,
   "SpAtk": 110,
   "SpDef": 95,
-  "Speed": 130
+  "Speed": 130,
+  "descrip": ""
  },
  {
+    "nro": 136,
   "names": "Flareon",
   "types": "Fire ",
   "total": 525,
@@ -2011,9 +1765,11 @@
   "Defense": 60,
   "SpAtk": 95,
   "SpDef": 110,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 137,
   "names": "Porygon",
   "types": "Normal ",
   "total": 395,
@@ -2022,9 +1778,11 @@
   "Defense": 70,
   "SpAtk": 85,
   "SpDef": 75,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 138,
   "names": "Omanyte",
   "types": "Rock Water",
   "total": 355,
@@ -2033,9 +1791,11 @@
   "Defense": 100,
   "SpAtk": 90,
   "SpDef": 55,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 139,
   "names": "Omastar",
   "types": "Rock Water",
   "total": 495,
@@ -2044,9 +1804,11 @@
   "Defense": 125,
   "SpAtk": 115,
   "SpDef": 70,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 140,
   "names": "Kabuto",
   "types": "Rock Water",
   "total": 355,
@@ -2055,9 +1817,11 @@
   "Defense": 90,
   "SpAtk": 55,
   "SpDef": 45,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 141,
   "names": "Kabutops",
   "types": "Rock Water",
   "total": 495,
@@ -2066,9 +1830,11 @@
   "Defense": 105,
   "SpAtk": 65,
   "SpDef": 70,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 142,
   "names": "Aerodactyl",
   "types": "Rock Flying",
   "total": 515,
@@ -2077,20 +1843,11 @@
   "Defense": 65,
   "SpAtk": 60,
   "SpDef": 75,
-  "Speed": 130
+  "Speed": 130,
+  "descrip": ""
  },
  {
-  "names": "Aerodactyl Mega Aerodactyl",
-  "types": "Rock Flying",
-  "total": 615,
-  "hp": 80,
-  "attack": 135,
-  "Defense": 85,
-  "SpAtk": 70,
-  "SpDef": 95,
-  "Speed": 150
- },
- {
+    "nro": 143,
   "names": "Snorlax",
   "types": "Normal ",
   "total": 540,
@@ -2099,9 +1856,11 @@
   "Defense": 65,
   "SpAtk": 65,
   "SpDef": 110,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 144,
   "names": "Articuno",
   "types": "Ice Flying",
   "total": 580,
@@ -2110,20 +1869,11 @@
   "Defense": 100,
   "SpAtk": 95,
   "SpDef": 125,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
-  "names": "Articuno Galarian Articuno",
-  "types": "Psychic Flying",
-  "total": 580,
-  "hp": 90,
-  "attack": 85,
-  "Defense": 85,
-  "SpAtk": 125,
-  "SpDef": 100,
-  "Speed": 95
- },
- {
+    "nro": 145,
   "names": "Zapdos",
   "types": "Electric Flying",
   "total": 580,
@@ -2132,20 +1882,11 @@
   "Defense": 85,
   "SpAtk": 125,
   "SpDef": 90,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
-  "names": "Zapdos Galarian Zapdos",
-  "types": "Fighting Flying",
-  "total": 580,
-  "hp": 90,
-  "attack": 125,
-  "Defense": 90,
-  "SpAtk": 85,
-  "SpDef": 90,
-  "Speed": 100
- },
- {
+    "nro": 146,
   "names": "Moltres",
   "types": "Fire Flying",
   "total": 580,
@@ -2154,20 +1895,11 @@
   "Defense": 90,
   "SpAtk": 125,
   "SpDef": 85,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
-  "names": "Moltres Galarian Moltres",
-  "types": "Dark Flying",
-  "total": 580,
-  "hp": 90,
-  "attack": 85,
-  "Defense": 90,
-  "SpAtk": 100,
-  "SpDef": 125,
-  "Speed": 90
- },
- {
+    "nro": 147,
   "names": "Dratini",
   "types": "Dragon ",
   "total": 300,
@@ -2176,9 +1908,11 @@
   "Defense": 45,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 148,
   "names": "Dragonair",
   "types": "Dragon ",
   "total": 420,
@@ -2187,9 +1921,11 @@
   "Defense": 65,
   "SpAtk": 70,
   "SpDef": 70,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 149,
   "names": "Dragonite",
   "types": "Dragon Flying",
   "total": 600,
@@ -2198,9 +1934,11 @@
   "Defense": 95,
   "SpAtk": 100,
   "SpDef": 100,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 150,
   "names": "Mewtwo",
   "types": "Psychic ",
   "total": 680,
@@ -2209,31 +1947,11 @@
   "Defense": 90,
   "SpAtk": 154,
   "SpDef": 90,
-  "Speed": 130
+  "Speed": 130,
+  "descrip": ""
  },
  {
-  "names": "Mewtwo Mega Mewtwo X",
-  "types": "Psychic Fighting",
-  "total": 780,
-  "hp": 106,
-  "attack": 190,
-  "Defense": 100,
-  "SpAtk": 154,
-  "SpDef": 100,
-  "Speed": 130
- },
- {
-  "names": "Mewtwo Mega Mewtwo Y",
-  "types": "Psychic ",
-  "total": 780,
-  "hp": 106,
-  "attack": 150,
-  "Defense": 70,
-  "SpAtk": 194,
-  "SpDef": 120,
-  "Speed": 140
- },
- {
+    "nro": 151,
   "names": "Mew",
   "types": "Psychic ",
   "total": 600,
@@ -2242,9 +1960,11 @@
   "Defense": 100,
   "SpAtk": 100,
   "SpDef": 100,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 152,
   "names": "Chikorita",
   "types": "Grass ",
   "total": 318,
@@ -2253,9 +1973,11 @@
   "Defense": 65,
   "SpAtk": 49,
   "SpDef": 65,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 153,
   "names": "Bayleef",
   "types": "Grass ",
   "total": 405,
@@ -2264,9 +1986,11 @@
   "Defense": 80,
   "SpAtk": 63,
   "SpDef": 80,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 154,
   "names": "Meganium",
   "types": "Grass ",
   "total": 525,
@@ -2275,9 +1999,11 @@
   "Defense": 100,
   "SpAtk": 83,
   "SpDef": 100,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 155,
   "names": "Cyndaquil",
   "types": "Fire ",
   "total": 309,
@@ -2286,9 +2012,11 @@
   "Defense": 43,
   "SpAtk": 60,
   "SpDef": 50,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 156,
   "names": "Quilava",
   "types": "Fire ",
   "total": 405,
@@ -2297,9 +2025,11 @@
   "Defense": 58,
   "SpAtk": 80,
   "SpDef": 65,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 157,
   "names": "Typhlosion",
   "types": "Fire ",
   "total": 534,
@@ -2308,20 +2038,11 @@
   "Defense": 78,
   "SpAtk": 109,
   "SpDef": 85,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
-  "names": "Typhlosion Hisuian Typhlosion",
-  "types": "Fire Ghost",
-  "total": 534,
-  "hp": 73,
-  "attack": 84,
-  "Defense": 78,
-  "SpAtk": 119,
-  "SpDef": 85,
-  "Speed": 95
- },
- {
+    "nro": 158,
   "names": "Totodile",
   "types": "Water ",
   "total": 314,
@@ -2330,9 +2051,11 @@
   "Defense": 64,
   "SpAtk": 44,
   "SpDef": 48,
-  "Speed": 43
+  "Speed": 43,
+  "descrip": ""
  },
  {
+    "nro": 159,
   "names": "Croconaw",
   "types": "Water ",
   "total": 405,
@@ -2341,9 +2064,11 @@
   "Defense": 80,
   "SpAtk": 59,
   "SpDef": 63,
-  "Speed": 58
+  "Speed": 58,
+  "descrip": ""
  },
  {
+    "nro": 160,
   "names": "Feraligatr",
   "types": "Water ",
   "total": 530,
@@ -2352,9 +2077,11 @@
   "Defense": 100,
   "SpAtk": 79,
   "SpDef": 83,
-  "Speed": 78
+  "Speed": 78,
+  "descrip": ""
  },
  {
+    "nro": 161,
   "names": "Sentret",
   "types": "Normal ",
   "total": 215,
@@ -2363,9 +2090,11 @@
   "Defense": 34,
   "SpAtk": 35,
   "SpDef": 45,
-  "Speed": 20
+  "Speed": 20,
+  "descrip": ""
  },
  {
+    "nro": 162,
   "names": "Furret",
   "types": "Normal ",
   "total": 415,
@@ -2374,9 +2103,11 @@
   "Defense": 64,
   "SpAtk": 45,
   "SpDef": 55,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 163,
   "names": "Hoothoot",
   "types": "Normal Flying",
   "total": 262,
@@ -2385,9 +2116,11 @@
   "Defense": 30,
   "SpAtk": 36,
   "SpDef": 56,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 164,
   "names": "Noctowl",
   "types": "Normal Flying",
   "total": 452,
@@ -2396,9 +2129,11 @@
   "Defense": 50,
   "SpAtk": 86,
   "SpDef": 96,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 165,
   "names": "Ledyba",
   "types": "Bug Flying",
   "total": 265,
@@ -2407,9 +2142,11 @@
   "Defense": 30,
   "SpAtk": 40,
   "SpDef": 80,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 166,
   "names": "Ledian",
   "types": "Bug Flying",
   "total": 390,
@@ -2418,9 +2155,11 @@
   "Defense": 50,
   "SpAtk": 55,
   "SpDef": 110,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 167,
   "names": "Spinarak",
   "types": "Bug Poison",
   "total": 250,
@@ -2429,9 +2168,11 @@
   "Defense": 40,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 168,
   "names": "Ariados",
   "types": "Bug Poison",
   "total": 400,
@@ -2440,9 +2181,11 @@
   "Defense": 70,
   "SpAtk": 60,
   "SpDef": 70,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 169,
   "names": "Crobat",
   "types": "Poison Flying",
   "total": 535,
@@ -2451,9 +2194,11 @@
   "Defense": 80,
   "SpAtk": 70,
   "SpDef": 80,
-  "Speed": 130
+  "Speed": 130,
+  "descrip": ""
  },
  {
+    "nro": 170,
   "names": "Chinchou",
   "types": "Water Electric",
   "total": 330,
@@ -2462,9 +2207,11 @@
   "Defense": 38,
   "SpAtk": 56,
   "SpDef": 56,
-  "Speed": 67
+  "Speed": 67,
+  "descrip": ""
  },
  {
+    "nro": 171,
   "names": "Lanturn",
   "types": "Water Electric",
   "total": 460,
@@ -2473,9 +2220,11 @@
   "Defense": 58,
   "SpAtk": 76,
   "SpDef": 76,
-  "Speed": 67
+  "Speed": 67,
+  "descrip": ""
  },
  {
+    "nro": 172,
   "names": "Pichu",
   "types": "Electric ",
   "total": 205,
@@ -2484,9 +2233,11 @@
   "Defense": 15,
   "SpAtk": 35,
   "SpDef": 35,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 173,
   "names": "Cleffa",
   "types": "Fairy ",
   "total": 218,
@@ -2495,9 +2246,11 @@
   "Defense": 28,
   "SpAtk": 45,
   "SpDef": 55,
-  "Speed": 15
+  "Speed": 15,
+  "descrip": ""
  },
  {
+    "nro": 174,
   "names": "Igglybuff",
   "types": "Normal Fairy",
   "total": 210,
@@ -2506,9 +2259,11 @@
   "Defense": 15,
   "SpAtk": 40,
   "SpDef": 20,
-  "Speed": 15
+  "Speed": 15,
+  "descrip": ""
  },
  {
+    "nro": 175,
   "names": "Togepi",
   "types": "Fairy ",
   "total": 245,
@@ -2517,9 +2272,11 @@
   "Defense": 65,
   "SpAtk": 40,
   "SpDef": 65,
-  "Speed": 20
+  "Speed": 20,
+  "descrip": ""
  },
  {
+    "nro": 176,
   "names": "Togetic",
   "types": "Fairy Flying",
   "total": 405,
@@ -2528,9 +2285,11 @@
   "Defense": 85,
   "SpAtk": 80,
   "SpDef": 105,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 177,
   "names": "Natu",
   "types": "Psychic Flying",
   "total": 320,
@@ -2539,9 +2298,11 @@
   "Defense": 45,
   "SpAtk": 70,
   "SpDef": 45,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 178,
   "names": "Xatu",
   "types": "Psychic Flying",
   "total": 470,
@@ -2550,9 +2311,11 @@
   "Defense": 70,
   "SpAtk": 95,
   "SpDef": 70,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 179,
   "names": "Mareep",
   "types": "Electric ",
   "total": 280,
@@ -2561,9 +2324,11 @@
   "Defense": 40,
   "SpAtk": 65,
   "SpDef": 45,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 180,
   "names": "Flaaffy",
   "types": "Electric ",
   "total": 365,
@@ -2572,9 +2337,11 @@
   "Defense": 55,
   "SpAtk": 80,
   "SpDef": 60,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 181,
   "names": "Ampharos",
   "types": "Electric ",
   "total": 510,
@@ -2583,20 +2350,11 @@
   "Defense": 85,
   "SpAtk": 115,
   "SpDef": 90,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
-  "names": "Ampharos Mega Ampharos",
-  "types": "Electric Dragon",
-  "total": 610,
-  "hp": 90,
-  "attack": 95,
-  "Defense": 105,
-  "SpAtk": 165,
-  "SpDef": 110,
-  "Speed": 45
- },
- {
+    "nro": 182,
   "names": "Bellossom",
   "types": "Grass ",
   "total": 490,
@@ -2605,9 +2363,11 @@
   "Defense": 95,
   "SpAtk": 90,
   "SpDef": 100,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 183,
   "names": "Marill",
   "types": "Water Fairy",
   "total": 250,
@@ -2616,9 +2376,11 @@
   "Defense": 50,
   "SpAtk": 20,
   "SpDef": 50,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 184,
   "names": "Azumarill",
   "types": "Water Fairy",
   "total": 420,
@@ -2627,9 +2389,11 @@
   "Defense": 80,
   "SpAtk": 60,
   "SpDef": 80,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 185,
   "names": "Sudowoodo",
   "types": "Rock ",
   "total": 410,
@@ -2638,9 +2402,11 @@
   "Defense": 115,
   "SpAtk": 30,
   "SpDef": 65,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 186,
   "names": "Politoed",
   "types": "Water ",
   "total": 500,
@@ -2649,9 +2415,11 @@
   "Defense": 75,
   "SpAtk": 90,
   "SpDef": 100,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 187,
   "names": "Hoppip",
   "types": "Grass Flying",
   "total": 250,
@@ -2660,9 +2428,11 @@
   "Defense": 40,
   "SpAtk": 35,
   "SpDef": 55,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 188,
   "names": "Skiploom",
   "types": "Grass Flying",
   "total": 340,
@@ -2671,9 +2441,11 @@
   "Defense": 50,
   "SpAtk": 45,
   "SpDef": 65,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 189,
   "names": "Jumpluff",
   "types": "Grass Flying",
   "total": 460,
@@ -2682,9 +2454,11 @@
   "Defense": 70,
   "SpAtk": 55,
   "SpDef": 95,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
+    "nro": 190,
   "names": "Aipom",
   "types": "Normal ",
   "total": 360,
@@ -2693,9 +2467,11 @@
   "Defense": 55,
   "SpAtk": 40,
   "SpDef": 55,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 191,
   "names": "Sunkern",
   "types": "Grass ",
   "total": 180,
@@ -2704,9 +2480,11 @@
   "Defense": 30,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 192,
   "names": "Sunflora",
   "types": "Grass ",
   "total": 425,
@@ -2715,9 +2493,11 @@
   "Defense": 55,
   "SpAtk": 105,
   "SpDef": 85,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 193,
   "names": "Yanma",
   "types": "Bug Flying",
   "total": 390,
@@ -2726,9 +2506,11 @@
   "Defense": 45,
   "SpAtk": 75,
   "SpDef": 45,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 194,
   "names": "Wooper",
   "types": "Water Ground",
   "total": 210,
@@ -2737,20 +2519,11 @@
   "Defense": 45,
   "SpAtk": 25,
   "SpDef": 25,
-  "Speed": 15
+  "Speed": 15,
+  "descrip": ""
  },
  {
-  "names": "Wooper Paldean Wooper",
-  "types": "Poison Ground",
-  "total": 210,
-  "hp": 55,
-  "attack": 45,
-  "Defense": 45,
-  "SpAtk": 25,
-  "SpDef": 25,
-  "Speed": 15
- },
- {
+    "nro": 195,
   "names": "Quagsire",
   "types": "Water Ground",
   "total": 430,
@@ -2759,9 +2532,11 @@
   "Defense": 85,
   "SpAtk": 65,
   "SpDef": 65,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 196,
   "names": "Espeon",
   "types": "Psychic ",
   "total": 525,
@@ -2770,9 +2545,11 @@
   "Defense": 60,
   "SpAtk": 130,
   "SpDef": 95,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
+    "nro": 197,
   "names": "Umbreon",
   "types": "Dark ",
   "total": 525,
@@ -2781,9 +2558,11 @@
   "Defense": 110,
   "SpAtk": 60,
   "SpDef": 130,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 198,
   "names": "Murkrow",
   "types": "Dark Flying",
   "total": 405,
@@ -2792,9 +2571,11 @@
   "Defense": 42,
   "SpAtk": 85,
   "SpDef": 42,
-  "Speed": 91
+  "Speed": 91,
+  "descrip": ""
  },
  {
+    "nro": 199,
   "names": "Slowking",
   "types": "Water Psychic",
   "total": 490,
@@ -2803,20 +2584,11 @@
   "Defense": 80,
   "SpAtk": 100,
   "SpDef": 110,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
-  "names": "Slowking Galarian Slowking",
-  "types": "Poison Psychic",
-  "total": 490,
-  "hp": 95,
-  "attack": 65,
-  "Defense": 80,
-  "SpAtk": 110,
-  "SpDef": 110,
-  "Speed": 30
- },
- {
+    "nro": 200,
   "names": "Misdreavus",
   "types": "Ghost ",
   "total": 435,
@@ -2825,9 +2597,11 @@
   "Defense": 60,
   "SpAtk": 85,
   "SpDef": 85,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 201,
   "names": "Unown",
   "types": "Psychic ",
   "total": 336,
@@ -2836,9 +2610,11 @@
   "Defense": 48,
   "SpAtk": 72,
   "SpDef": 48,
-  "Speed": 48
+  "Speed": 48,
+  "descrip": ""
  },
  {
+    "nro": 202,
   "names": "Wobbuffet",
   "types": "Psychic ",
   "total": 405,
@@ -2847,9 +2623,11 @@
   "Defense": 58,
   "SpAtk": 33,
   "SpDef": 58,
-  "Speed": 33
+  "Speed": 33,
+  "descrip": ""
  },
  {
+    "nro": 203,
   "names": "Girafarig",
   "types": "Normal Psychic",
   "total": 455,
@@ -2858,9 +2636,11 @@
   "Defense": 65,
   "SpAtk": 90,
   "SpDef": 65,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 204,
   "names": "Pineco",
   "types": "Bug ",
   "total": 290,
@@ -2869,9 +2649,11 @@
   "Defense": 90,
   "SpAtk": 35,
   "SpDef": 35,
-  "Speed": 15
+  "Speed": 15,
+  "descrip": ""
  },
  {
+    "nro": 205,
   "names": "Forretress",
   "types": "Bug Steel",
   "total": 465,
@@ -2880,9 +2662,11 @@
   "Defense": 140,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 206,
   "names": "Dunsparce",
   "types": "Normal ",
   "total": 415,
@@ -2891,9 +2675,11 @@
   "Defense": 70,
   "SpAtk": 65,
   "SpDef": 65,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 207,
   "names": "Gligar",
   "types": "Ground Flying",
   "total": 430,
@@ -2902,9 +2688,11 @@
   "Defense": 105,
   "SpAtk": 35,
   "SpDef": 65,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 208,
   "names": "Steelix",
   "types": "Steel Ground",
   "total": 510,
@@ -2913,20 +2701,11 @@
   "Defense": 200,
   "SpAtk": 55,
   "SpDef": 65,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
-  "names": "Steelix Mega Steelix",
-  "types": "Steel Ground",
-  "total": 610,
-  "hp": 75,
-  "attack": 125,
-  "Defense": 230,
-  "SpAtk": 55,
-  "SpDef": 95,
-  "Speed": 30
- },
- {
+    "nro": 209,
   "names": "Snubbull",
   "types": "Fairy ",
   "total": 300,
@@ -2935,9 +2714,11 @@
   "Defense": 50,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 210,
   "names": "Granbull",
   "types": "Fairy ",
   "total": 450,
@@ -2946,9 +2727,11 @@
   "Defense": 75,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 211,
   "names": "Qwilfish",
   "types": "Water Poison",
   "total": 440,
@@ -2957,20 +2740,11 @@
   "Defense": 85,
   "SpAtk": 55,
   "SpDef": 55,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
-  "names": "Qwilfish Hisuian Qwilfish",
-  "types": "Dark Poison",
-  "total": 440,
-  "hp": 65,
-  "attack": 95,
-  "Defense": 85,
-  "SpAtk": 55,
-  "SpDef": 55,
-  "Speed": 85
- },
- {
+    "nro": 212,
   "names": "Scizor",
   "types": "Bug Steel",
   "total": 500,
@@ -2979,20 +2753,11 @@
   "Defense": 100,
   "SpAtk": 55,
   "SpDef": 80,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
-  "names": "Scizor Mega Scizor",
-  "types": "Bug Steel",
-  "total": 600,
-  "hp": 70,
-  "attack": 150,
-  "Defense": 140,
-  "SpAtk": 65,
-  "SpDef": 100,
-  "Speed": 75
- },
- {
+    "nro": 213,
   "names": "Shuckle",
   "types": "Bug Rock",
   "total": 505,
@@ -3001,9 +2766,11 @@
   "Defense": 230,
   "SpAtk": 10,
   "SpDef": 230,
-  "Speed": 5
+  "Speed": 5,
+  "descrip": ""
  },
  {
+    "nro": 214,
   "names": "Heracross",
   "types": "Bug Fighting",
   "total": 500,
@@ -3012,20 +2779,11 @@
   "Defense": 75,
   "SpAtk": 40,
   "SpDef": 95,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
-  "names": "Heracross Mega Heracross",
-  "types": "Bug Fighting",
-  "total": 600,
-  "hp": 80,
-  "attack": 185,
-  "Defense": 115,
-  "SpAtk": 40,
-  "SpDef": 105,
-  "Speed": 75
- },
- {
+    "nro": 215,
   "names": "Sneasel",
   "types": "Dark Ice",
   "total": 430,
@@ -3034,20 +2792,11 @@
   "Defense": 55,
   "SpAtk": 35,
   "SpDef": 75,
-  "Speed": 115
+  "Speed": 115,
+  "descrip": ""
  },
  {
-  "names": "Sneasel Hisuian Sneasel",
-  "types": "Fighting Poison",
-  "total": 430,
-  "hp": 55,
-  "attack": 95,
-  "Defense": 55,
-  "SpAtk": 35,
-  "SpDef": 75,
-  "Speed": 115
- },
- {
+    "nro": 216,
   "names": "Teddiursa",
   "types": "Normal ",
   "total": 330,
@@ -3056,9 +2805,11 @@
   "Defense": 50,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 217,
   "names": "Ursaring",
   "types": "Normal ",
   "total": 500,
@@ -3067,9 +2818,11 @@
   "Defense": 75,
   "SpAtk": 75,
   "SpDef": 75,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 218,
   "names": "Slugma",
   "types": "Fire ",
   "total": 250,
@@ -3078,9 +2831,11 @@
   "Defense": 40,
   "SpAtk": 70,
   "SpDef": 40,
-  "Speed": 20
+  "Speed": 20,
+  "descrip": ""
  },
  {
+    "nro": 219,
   "names": "Magcargo",
   "types": "Fire Rock",
   "total": 430,
@@ -3089,9 +2844,11 @@
   "Defense": 120,
   "SpAtk": 90,
   "SpDef": 80,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 220,
   "names": "Swinub",
   "types": "Ice Ground",
   "total": 250,
@@ -3100,9 +2857,11 @@
   "Defense": 40,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 221,
   "names": "Piloswine",
   "types": "Ice Ground",
   "total": 450,
@@ -3111,9 +2870,11 @@
   "Defense": 80,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 222,
   "names": "Corsola",
   "types": "Water Rock",
   "total": 410,
@@ -3122,20 +2883,11 @@
   "Defense": 95,
   "SpAtk": 65,
   "SpDef": 95,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
-  "names": "Corsola Galarian Corsola",
-  "types": "Ghost ",
-  "total": 410,
-  "hp": 60,
-  "attack": 55,
-  "Defense": 100,
-  "SpAtk": 65,
-  "SpDef": 100,
-  "Speed": 30
- },
- {
+    "nro": 223,
   "names": "Remoraid",
   "types": "Water ",
   "total": 300,
@@ -3144,9 +2896,11 @@
   "Defense": 35,
   "SpAtk": 65,
   "SpDef": 35,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 224,
   "names": "Octillery",
   "types": "Water ",
   "total": 480,
@@ -3155,9 +2909,11 @@
   "Defense": 75,
   "SpAtk": 105,
   "SpDef": 75,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 225,
   "names": "Delibird",
   "types": "Ice Flying",
   "total": 330,
@@ -3166,9 +2922,11 @@
   "Defense": 45,
   "SpAtk": 65,
   "SpDef": 45,
-  "Speed": 75
+  "Speed": 75,
+  "descrip": ""
  },
  {
+    "nro": 226,
   "names": "Mantine",
   "types": "Water Flying",
   "total": 485,
@@ -3177,9 +2935,11 @@
   "Defense": 70,
   "SpAtk": 80,
   "SpDef": 140,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 227,
   "names": "Skarmory",
   "types": "Steel Flying",
   "total": 465,
@@ -3188,9 +2948,11 @@
   "Defense": 140,
   "SpAtk": 40,
   "SpDef": 70,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 228,
   "names": "Houndour",
   "types": "Dark Fire",
   "total": 330,
@@ -3199,9 +2961,11 @@
   "Defense": 30,
   "SpAtk": 80,
   "SpDef": 50,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 229,
   "names": "Houndoom",
   "types": "Dark Fire",
   "total": 500,
@@ -3210,20 +2974,11 @@
   "Defense": 50,
   "SpAtk": 110,
   "SpDef": 80,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
-  "names": "Houndoom Mega Houndoom",
-  "types": "Dark Fire",
-  "total": 600,
-  "hp": 75,
-  "attack": 90,
-  "Defense": 90,
-  "SpAtk": 140,
-  "SpDef": 90,
-  "Speed": 115
- },
- {
+    "nro": 230,
   "names": "Kingdra",
   "types": "Water Dragon",
   "total": 540,
@@ -3232,9 +2987,11 @@
   "Defense": 95,
   "SpAtk": 95,
   "SpDef": 95,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 231,
   "names": "Phanpy",
   "types": "Ground ",
   "total": 330,
@@ -3243,9 +3000,11 @@
   "Defense": 60,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 232,
   "names": "Donphan",
   "types": "Ground ",
   "total": 500,
@@ -3254,9 +3013,11 @@
   "Defense": 120,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+   "nro": 233, 
   "names": "Porygon2",
   "types": "Normal ",
   "total": 515,
@@ -3265,9 +3026,11 @@
   "Defense": 90,
   "SpAtk": 105,
   "SpDef": 95,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 234,
   "names": "Stantler",
   "types": "Normal ",
   "total": 465,
@@ -3276,9 +3039,11 @@
   "Defense": 62,
   "SpAtk": 85,
   "SpDef": 65,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 235,
   "names": "Smeargle",
   "types": "Normal ",
   "total": 250,
@@ -3287,9 +3052,11 @@
   "Defense": 35,
   "SpAtk": 20,
   "SpDef": 45,
-  "Speed": 75
+  "Speed": 75,
+  "descrip": ""
  },
  {
+    "nro": 236,
   "names": "Tyrogue",
   "types": "Fighting ",
   "total": 210,
@@ -3298,9 +3065,11 @@
   "Defense": 35,
   "SpAtk": 35,
   "SpDef": 35,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 237,
   "names": "Hitmontop",
   "types": "Fighting ",
   "total": 455,
@@ -3309,9 +3078,11 @@
   "Defense": 95,
   "SpAtk": 35,
   "SpDef": 110,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 238,
   "names": "Smoochum",
   "types": "Ice Psychic",
   "total": 305,
@@ -3320,9 +3091,11 @@
   "Defense": 15,
   "SpAtk": 85,
   "SpDef": 65,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 239,
   "names": "Elekid",
   "types": "Electric ",
   "total": 360,
@@ -3331,9 +3104,11 @@
   "Defense": 37,
   "SpAtk": 65,
   "SpDef": 55,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 240,
   "names": "Magby",
   "types": "Fire ",
   "total": 365,
@@ -3342,9 +3117,11 @@
   "Defense": 37,
   "SpAtk": 70,
   "SpDef": 55,
-  "Speed": 83
+  "Speed": 83,
+  "descrip": ""
  },
  {
+    "nro": 241,
   "names": "Miltank",
   "types": "Normal ",
   "total": 490,
@@ -3353,9 +3130,11 @@
   "Defense": 105,
   "SpAtk": 40,
   "SpDef": 70,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 242,
   "names": "Blissey",
   "types": "Normal ",
   "total": 540,
@@ -3364,9 +3143,11 @@
   "Defense": 10,
   "SpAtk": 75,
   "SpDef": 135,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 243,
   "names": "Raikou",
   "types": "Electric ",
   "total": 580,
@@ -3375,9 +3156,11 @@
   "Defense": 75,
   "SpAtk": 115,
   "SpDef": 100,
-  "Speed": 115
+  "Speed": 115,
+  "descrip": ""
  },
  {
+    "nro": 244,
   "names": "Entei",
   "types": "Fire ",
   "total": 580,
@@ -3386,9 +3169,11 @@
   "Defense": 85,
   "SpAtk": 90,
   "SpDef": 75,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 245,
   "names": "Suicune",
   "types": "Water ",
   "total": 580,
@@ -3397,9 +3182,11 @@
   "Defense": 115,
   "SpAtk": 90,
   "SpDef": 115,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 246,
   "names": "Larvitar",
   "types": "Rock Ground",
   "total": 300,
@@ -3408,9 +3195,11 @@
   "Defense": 50,
   "SpAtk": 45,
   "SpDef": 50,
-  "Speed": 41
+  "Speed": 41,
+  "descrip": ""
  },
  {
+    "nro": 247,
   "names": "Pupitar",
   "types": "Rock Ground",
   "total": 410,
@@ -3419,9 +3208,11 @@
   "Defense": 70,
   "SpAtk": 65,
   "SpDef": 70,
-  "Speed": 51
+  "Speed": 51,
+  "descrip": ""
  },
  {
+    "nro": 248,
   "names": "Tyranitar",
   "types": "Rock Dark",
   "total": 600,
@@ -3430,20 +3221,11 @@
   "Defense": 110,
   "SpAtk": 95,
   "SpDef": 100,
-  "Speed": 61
+  "Speed": 61,
+  "descrip": ""
  },
  {
-  "names": "Tyranitar Mega Tyranitar",
-  "types": "Rock Dark",
-  "total": 700,
-  "hp": 100,
-  "attack": 164,
-  "Defense": 150,
-  "SpAtk": 95,
-  "SpDef": 120,
-  "Speed": 71
- },
- {
+    "nro": 249,
   "names": "Lugia",
   "types": "Psychic Flying",
   "total": 680,
@@ -3452,9 +3234,11 @@
   "Defense": 130,
   "SpAtk": 90,
   "SpDef": 154,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
+    "nro": 250,
   "names": "Ho-oh",
   "types": "Fire Flying",
   "total": 680,
@@ -3463,9 +3247,11 @@
   "Defense": 90,
   "SpAtk": 110,
   "SpDef": 154,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 251,
   "names": "Celebi",
   "types": "Psychic Grass",
   "total": 600,
@@ -3474,9 +3260,11 @@
   "Defense": 100,
   "SpAtk": 100,
   "SpDef": 100,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 252,
   "names": "Treecko",
   "types": "Grass ",
   "total": 310,
@@ -3485,9 +3273,11 @@
   "Defense": 35,
   "SpAtk": 65,
   "SpDef": 55,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 253,
   "names": "Grovyle",
   "types": "Grass ",
   "total": 405,
@@ -3496,9 +3286,11 @@
   "Defense": 45,
   "SpAtk": 85,
   "SpDef": 65,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 254,
   "names": "Sceptile",
   "types": "Grass ",
   "total": 530,
@@ -3507,20 +3299,11 @@
   "Defense": 65,
   "SpAtk": 105,
   "SpDef": 85,
-  "Speed": 120
+  "Speed": 120,
+  "descrip": ""
  },
  {
-  "names": "Sceptile Mega Sceptile",
-  "types": "Grass Dragon",
-  "total": 630,
-  "hp": 70,
-  "attack": 110,
-  "Defense": 75,
-  "SpAtk": 145,
-  "SpDef": 85,
-  "Speed": 145
- },
- {
+    "nro": 255,
   "names": "Torchic",
   "types": "Fire ",
   "total": 310,
@@ -3529,9 +3312,11 @@
   "Defense": 40,
   "SpAtk": 70,
   "SpDef": 50,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 256,
   "names": "Combusken",
   "types": "Fire Fighting",
   "total": 405,
@@ -3540,9 +3325,11 @@
   "Defense": 60,
   "SpAtk": 85,
   "SpDef": 60,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 257,
   "names": "Blaziken",
   "types": "Fire Fighting",
   "total": 530,
@@ -3551,20 +3338,11 @@
   "Defense": 70,
   "SpAtk": 110,
   "SpDef": 70,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
-  "names": "Blaziken Mega Blaziken",
-  "types": "Fire Fighting",
-  "total": 630,
-  "hp": 80,
-  "attack": 160,
-  "Defense": 80,
-  "SpAtk": 130,
-  "SpDef": 80,
-  "Speed": 100
- },
- {
+    "nro": 258,
   "names": "Mudkip",
   "types": "Water ",
   "total": 310,
@@ -3573,9 +3351,11 @@
   "Defense": 50,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 259,
   "names": "Marshtomp",
   "types": "Water Ground",
   "total": 405,
@@ -3584,9 +3364,11 @@
   "Defense": 70,
   "SpAtk": 60,
   "SpDef": 70,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 260,
   "names": "Swampert",
   "types": "Water Ground",
   "total": 535,
@@ -3595,20 +3377,11 @@
   "Defense": 90,
   "SpAtk": 85,
   "SpDef": 90,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
-  "names": "Swampert Mega Swampert",
-  "types": "Water Ground",
-  "total": 635,
-  "hp": 100,
-  "attack": 150,
-  "Defense": 110,
-  "SpAtk": 95,
-  "SpDef": 110,
-  "Speed": 70
- },
- {
+    "nro": 261,
   "names": "Poochyena",
   "types": "Dark ",
   "total": 220,
@@ -3617,9 +3390,11 @@
   "Defense": 35,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 262,
   "names": "Mightyena",
   "types": "Dark ",
   "total": 420,
@@ -3628,9 +3403,11 @@
   "Defense": 70,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 263,
   "names": "Zigzagoon",
   "types": "Normal ",
   "total": 240,
@@ -3639,20 +3416,11 @@
   "Defense": 41,
   "SpAtk": 30,
   "SpDef": 41,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
-  "names": "Zigzagoon Galarian Zigzagoon",
-  "types": "Dark Normal",
-  "total": 240,
-  "hp": 38,
-  "attack": 30,
-  "Defense": 41,
-  "SpAtk": 30,
-  "SpDef": 41,
-  "Speed": 60
- },
- {
+    "nro": 264,
   "names": "Linoone",
   "types": "Normal ",
   "total": 420,
@@ -3661,20 +3429,11 @@
   "Defense": 61,
   "SpAtk": 50,
   "SpDef": 61,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
-  "names": "Linoone Galarian Linoone",
-  "types": "Dark Normal",
-  "total": 420,
-  "hp": 78,
-  "attack": 70,
-  "Defense": 61,
-  "SpAtk": 50,
-  "SpDef": 61,
-  "Speed": 100
- },
- {
+    "nro": 265,
   "names": "Wurmple",
   "types": "Bug ",
   "total": 195,
@@ -3683,9 +3442,11 @@
   "Defense": 35,
   "SpAtk": 20,
   "SpDef": 30,
-  "Speed": 20
+  "Speed": 20,
+  "descrip": ""
  },
  {
+    "nro": 266,
   "names": "Silcoon",
   "types": "Bug ",
   "total": 205,
@@ -3694,9 +3455,11 @@
   "Defense": 55,
   "SpAtk": 25,
   "SpDef": 25,
-  "Speed": 15
+  "Speed": 15,
+  "descrip": ""
  },
  {
+    "nro": 267,
   "names": "Beautifly",
   "types": "Bug Flying",
   "total": 395,
@@ -3705,9 +3468,11 @@
   "Defense": 50,
   "SpAtk": 100,
   "SpDef": 50,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 268,
   "names": "Cascoon",
   "types": "Bug ",
   "total": 205,
@@ -3716,9 +3481,11 @@
   "Defense": 55,
   "SpAtk": 25,
   "SpDef": 25,
-  "Speed": 15
+  "Speed": 15,
+  "descrip": ""
  },
  {
+    "nro": 269,
   "names": "Dustox",
   "types": "Bug Poison",
   "total": 385,
@@ -3727,9 +3494,11 @@
   "Defense": 70,
   "SpAtk": 50,
   "SpDef": 90,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 270,
   "names": "Lotad",
   "types": "Water Grass",
   "total": 220,
@@ -3738,9 +3507,11 @@
   "Defense": 30,
   "SpAtk": 40,
   "SpDef": 50,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 271,
   "names": "Lombre",
   "types": "Water Grass",
   "total": 340,
@@ -3749,9 +3520,11 @@
   "Defense": 50,
   "SpAtk": 60,
   "SpDef": 70,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 272,
   "names": "Ludicolo",
   "types": "Water Grass",
   "total": 480,
@@ -3760,9 +3533,11 @@
   "Defense": 70,
   "SpAtk": 90,
   "SpDef": 100,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 273,
   "names": "Seedot",
   "types": "Grass ",
   "total": 220,
@@ -3771,9 +3546,11 @@
   "Defense": 50,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 274,
   "names": "Nuzleaf",
   "types": "Grass Dark",
   "total": 340,
@@ -3782,9 +3559,11 @@
   "Defense": 40,
   "SpAtk": 60,
   "SpDef": 40,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 275,
   "names": "Shiftry",
   "types": "Grass Dark",
   "total": 480,
@@ -3793,9 +3572,11 @@
   "Defense": 60,
   "SpAtk": 90,
   "SpDef": 60,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 276,
   "names": "Taillow",
   "types": "Normal Flying",
   "total": 270,
@@ -3804,9 +3585,11 @@
   "Defense": 30,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 277,
   "names": "Swellow",
   "types": "Normal Flying",
   "total": 455,
@@ -3815,9 +3598,11 @@
   "Defense": 60,
   "SpAtk": 75,
   "SpDef": 50,
-  "Speed": 125
+  "Speed": 125,
+  "descrip": ""
  },
  {
+    "nro": 278,
   "names": "Wingull",
   "types": "Water Flying",
   "total": 270,
@@ -3826,9 +3611,11 @@
   "Defense": 30,
   "SpAtk": 55,
   "SpDef": 30,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 279,
   "names": "Pelipper",
   "types": "Water Flying",
   "total": 440,
@@ -3837,9 +3624,11 @@
   "Defense": 100,
   "SpAtk": 95,
   "SpDef": 70,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 280,
   "names": "Ralts",
   "types": "Psychic Fairy",
   "total": 198,
@@ -3848,9 +3637,11 @@
   "Defense": 25,
   "SpAtk": 45,
   "SpDef": 35,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 281,
   "names": "Kirlia",
   "types": "Psychic Fairy",
   "total": 278,
@@ -3859,9 +3650,11 @@
   "Defense": 35,
   "SpAtk": 65,
   "SpDef": 55,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 282,
   "names": "Gardevoir",
   "types": "Psychic Fairy",
   "total": 518,
@@ -3870,20 +3663,11 @@
   "Defense": 65,
   "SpAtk": 125,
   "SpDef": 115,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
-  "names": "Gardevoir Mega Gardevoir",
-  "types": "Psychic Fairy",
-  "total": 618,
-  "hp": 68,
-  "attack": 85,
-  "Defense": 65,
-  "SpAtk": 165,
-  "SpDef": 135,
-  "Speed": 100
- },
- {
+    "nro": 283,
   "names": "Surskit",
   "types": "Bug Water",
   "total": 269,
@@ -3892,9 +3676,11 @@
   "Defense": 32,
   "SpAtk": 50,
   "SpDef": 52,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 284,
   "names": "Masquerain",
   "types": "Bug Flying",
   "total": 454,
@@ -3903,9 +3689,11 @@
   "Defense": 62,
   "SpAtk": 100,
   "SpDef": 82,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 285,
   "names": "Shroomish",
   "types": "Grass ",
   "total": 295,
@@ -3914,9 +3702,11 @@
   "Defense": 60,
   "SpAtk": 40,
   "SpDef": 60,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 286,
   "names": "Breloom",
   "types": "Grass Fighting",
   "total": 460,
@@ -3925,9 +3715,11 @@
   "Defense": 80,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 287,
   "names": "Slakoth",
   "types": "Normal ",
   "total": 280,
@@ -3936,9 +3728,11 @@
   "Defense": 60,
   "SpAtk": 35,
   "SpDef": 35,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 288,
   "names": "Vigoroth",
   "types": "Normal ",
   "total": 440,
@@ -3947,9 +3741,11 @@
   "Defense": 80,
   "SpAtk": 55,
   "SpDef": 55,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 289,
   "names": "Slaking",
   "types": "Normal ",
   "total": 670,
@@ -3958,9 +3754,11 @@
   "Defense": 100,
   "SpAtk": 95,
   "SpDef": 65,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 290,
   "names": "Nincada",
   "types": "Bug Ground",
   "total": 266,
@@ -3969,9 +3767,11 @@
   "Defense": 90,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 291,
   "names": "Ninjask",
   "types": "Bug Flying",
   "total": 456,
@@ -3980,9 +3780,11 @@
   "Defense": 45,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 160
+  "Speed": 160,
+  "descrip": ""
  },
  {
+    "nro": 292,
   "names": "Shedinja",
   "types": "Bug Ghost",
   "total": 236,
@@ -3991,9 +3793,11 @@
   "Defense": 45,
   "SpAtk": 30,
   "SpDef": 30,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 293,
   "names": "Whismur",
   "types": "Normal ",
   "total": 240,
@@ -4002,9 +3806,11 @@
   "Defense": 23,
   "SpAtk": 51,
   "SpDef": 23,
-  "Speed": 28
+  "Speed": 28,
+  "descrip": ""
  },
  {
+    "nro": 294,
   "names": "Loudred",
   "types": "Normal ",
   "total": 360,
@@ -4013,9 +3819,11 @@
   "Defense": 43,
   "SpAtk": 71,
   "SpDef": 43,
-  "Speed": 48
+  "Speed": 48,
+  "descrip": ""
  },
  {
+    "nro": 295,
   "names": "Exploud",
   "types": "Normal ",
   "total": 490,
@@ -4024,9 +3832,11 @@
   "Defense": 63,
   "SpAtk": 91,
   "SpDef": 73,
-  "Speed": 68
+  "Speed": 68,
+  "descrip": ""
  },
  {
+    "nro": 296,
   "names": "Makuhita",
   "types": "Fighting ",
   "total": 237,
@@ -4035,9 +3845,11 @@
   "Defense": 30,
   "SpAtk": 20,
   "SpDef": 30,
-  "Speed": 25
+  "Speed": 25,
+  "descrip": ""
  },
  {
+    "nro": 297,
   "names": "Hariyama",
   "types": "Fighting ",
   "total": 474,
@@ -4046,9 +3858,11 @@
   "Defense": 60,
   "SpAtk": 40,
   "SpDef": 60,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 298,
   "names": "Azurill",
   "types": "Normal Fairy",
   "total": 190,
@@ -4057,9 +3871,11 @@
   "Defense": 40,
   "SpAtk": 20,
   "SpDef": 40,
-  "Speed": 20
+  "Speed": 20,
+  "descrip": ""
  },
  {
+    "nro": 299,
   "names": "Nosepass",
   "types": "Rock ",
   "total": 375,
@@ -4068,9 +3884,11 @@
   "Defense": 135,
   "SpAtk": 45,
   "SpDef": 90,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 300,
   "names": "Skitty",
   "types": "Normal ",
   "total": 260,
@@ -4079,9 +3897,11 @@
   "Defense": 45,
   "SpAtk": 35,
   "SpDef": 35,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 301,
   "names": "Delcatty",
   "types": "Normal ",
   "total": 400,
@@ -4090,9 +3910,11 @@
   "Defense": 65,
   "SpAtk": 55,
   "SpDef": 55,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 302,
   "names": "Sableye",
   "types": "Dark Ghost",
   "total": 380,
@@ -4101,20 +3923,11 @@
   "Defense": 75,
   "SpAtk": 65,
   "SpDef": 65,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
-  "names": "Sableye Mega Sableye",
-  "types": "Dark Ghost",
-  "total": 480,
-  "hp": 50,
-  "attack": 85,
-  "Defense": 125,
-  "SpAtk": 85,
-  "SpDef": 115,
-  "Speed": 20
- },
- {
+    "nro": 303,
   "names": "Mawile",
   "types": "Steel Fairy",
   "total": 380,
@@ -4123,20 +3936,11 @@
   "Defense": 85,
   "SpAtk": 55,
   "SpDef": 55,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
-  "names": "Mawile Mega Mawile",
-  "types": "Steel Fairy",
-  "total": 480,
-  "hp": 50,
-  "attack": 105,
-  "Defense": 125,
-  "SpAtk": 55,
-  "SpDef": 95,
-  "Speed": 50
- },
- {
+    "nro": 304,
   "names": "Aron",
   "types": "Steel Rock",
   "total": 330,
@@ -4145,9 +3949,11 @@
   "Defense": 100,
   "SpAtk": 40,
   "SpDef": 40,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 305,
   "names": "Lairon",
   "types": "Steel Rock",
   "total": 430,
@@ -4156,9 +3962,11 @@
   "Defense": 140,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 306,
   "names": "Aggron",
   "types": "Steel Rock",
   "total": 530,
@@ -4167,20 +3975,11 @@
   "Defense": 180,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
-  "names": "Aggron Mega Aggron",
-  "types": "Steel ",
-  "total": 630,
-  "hp": 70,
-  "attack": 140,
-  "Defense": 230,
-  "SpAtk": 60,
-  "SpDef": 80,
-  "Speed": 50
- },
- {
+    "nro": 307,
   "names": "Meditite",
   "types": "Fighting Psychic",
   "total": 280,
@@ -4189,9 +3988,11 @@
   "Defense": 55,
   "SpAtk": 40,
   "SpDef": 55,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 308,
   "names": "Medicham",
   "types": "Fighting Psychic",
   "total": 410,
@@ -4200,20 +4001,11 @@
   "Defense": 75,
   "SpAtk": 60,
   "SpDef": 75,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
-  "names": "Medicham Mega Medicham",
-  "types": "Fighting Psychic",
-  "total": 510,
-  "hp": 60,
-  "attack": 100,
-  "Defense": 85,
-  "SpAtk": 80,
-  "SpDef": 85,
-  "Speed": 100
- },
- {
+    "nro": 309,
   "names": "Electrike",
   "types": "Electric ",
   "total": 295,
@@ -4222,9 +4014,11 @@
   "Defense": 40,
   "SpAtk": 65,
   "SpDef": 40,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 310,
   "names": "Manectric",
   "types": "Electric ",
   "total": 475,
@@ -4233,20 +4027,11 @@
   "Defense": 60,
   "SpAtk": 105,
   "SpDef": 60,
-  "Speed": 105
+  "Speed": 105,
+  "descrip": ""
  },
  {
-  "names": "Manectric Mega Manectric",
-  "types": "Electric ",
-  "total": 575,
-  "hp": 70,
-  "attack": 75,
-  "Defense": 80,
-  "SpAtk": 135,
-  "SpDef": 80,
-  "Speed": 135
- },
- {
+    "nro": 311,
   "names": "Plusle",
   "types": "Electric ",
   "total": 405,
@@ -4255,9 +4040,11 @@
   "Defense": 40,
   "SpAtk": 85,
   "SpDef": 75,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 312,
   "names": "Minun",
   "types": "Electric ",
   "total": 405,
@@ -4266,9 +4053,11 @@
   "Defense": 50,
   "SpAtk": 75,
   "SpDef": 85,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
+    "nro": 313,
   "names": "Volbeat",
   "types": "Bug ",
   "total": 430,
@@ -4277,9 +4066,11 @@
   "Defense": 75,
   "SpAtk": 47,
   "SpDef": 85,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 314,
   "names": "Illumise",
   "types": "Bug ",
   "total": 430,
@@ -4288,9 +4079,11 @@
   "Defense": 75,
   "SpAtk": 73,
   "SpDef": 85,
-  "Speed": 85
+  "Speed": 85,
+  "descrip": ""
  },
  {
+    "nro": 315,
   "names": "Roselia",
   "types": "Grass Poison",
   "total": 400,
@@ -4299,9 +4092,11 @@
   "Defense": 45,
   "SpAtk": 100,
   "SpDef": 80,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 316,
   "names": "Gulpin",
   "types": "Poison ",
   "total": 302,
@@ -4310,9 +4105,11 @@
   "Defense": 53,
   "SpAtk": 43,
   "SpDef": 53,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 317,
   "names": "Swalot",
   "types": "Poison ",
   "total": 467,
@@ -4321,9 +4118,11 @@
   "Defense": 83,
   "SpAtk": 73,
   "SpDef": 83,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 318,
   "names": "Carvanha",
   "types": "Water Dark",
   "total": 305,
@@ -4332,9 +4131,11 @@
   "Defense": 20,
   "SpAtk": 65,
   "SpDef": 20,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 319,
   "names": "Sharpedo",
   "types": "Water Dark",
   "total": 460,
@@ -4343,20 +4144,11 @@
   "Defense": 40,
   "SpAtk": 95,
   "SpDef": 40,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
-  "names": "Sharpedo Mega Sharpedo",
-  "types": "Water Dark",
-  "total": 560,
-  "hp": 70,
-  "attack": 140,
-  "Defense": 70,
-  "SpAtk": 110,
-  "SpDef": 65,
-  "Speed": 105
- },
- {
+    "nro": 320,
   "names": "Wailmer",
   "types": "Water ",
   "total": 400,
@@ -4365,9 +4157,11 @@
   "Defense": 35,
   "SpAtk": 70,
   "SpDef": 35,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 321,
   "names": "Wailord",
   "types": "Water ",
   "total": 500,
@@ -4376,9 +4170,11 @@
   "Defense": 45,
   "SpAtk": 90,
   "SpDef": 45,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 322,
   "names": "Numel",
   "types": "Fire Ground",
   "total": 305,
@@ -4387,9 +4183,11 @@
   "Defense": 40,
   "SpAtk": 65,
   "SpDef": 45,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 323,
   "names": "Camerupt",
   "types": "Fire Ground",
   "total": 460,
@@ -4398,20 +4196,11 @@
   "Defense": 70,
   "SpAtk": 105,
   "SpDef": 75,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
-  "names": "Camerupt Mega Camerupt",
-  "types": "Fire Ground",
-  "total": 560,
-  "hp": 70,
-  "attack": 120,
-  "Defense": 100,
-  "SpAtk": 145,
-  "SpDef": 105,
-  "Speed": 20
- },
- {
+    "nro": 324,
   "names": "Torkoal",
   "types": "Fire ",
   "total": 470,
@@ -4420,9 +4209,11 @@
   "Defense": 140,
   "SpAtk": 85,
   "SpDef": 70,
-  "Speed": 20
+  "Speed": 20,
+  "descrip": ""
  },
  {
+    "nro": 325,
   "names": "Spoink",
   "types": "Psychic ",
   "total": 330,
@@ -4431,9 +4222,11 @@
   "Defense": 35,
   "SpAtk": 70,
   "SpDef": 80,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 326,
   "names": "Grumpig",
   "types": "Psychic ",
   "total": 470,
@@ -4442,9 +4235,11 @@
   "Defense": 65,
   "SpAtk": 90,
   "SpDef": 110,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 327,
   "names": "Spinda",
   "types": "Normal ",
   "total": 360,
@@ -4453,9 +4248,11 @@
   "Defense": 60,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 328,
   "names": "Trapinch",
   "types": "Ground ",
   "total": 290,
@@ -4464,9 +4261,11 @@
   "Defense": 45,
   "SpAtk": 45,
   "SpDef": 45,
-  "Speed": 10
+  "Speed": 10,
+  "descrip": ""
  },
  {
+    "nro": 329,
   "names": "Vibrava",
   "types": "Ground Dragon",
   "total": 340,
@@ -4475,9 +4274,11 @@
   "Defense": 50,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 330,
   "names": "Flygon",
   "types": "Ground Dragon",
   "total": 520,
@@ -4486,9 +4287,11 @@
   "Defense": 80,
   "SpAtk": 80,
   "SpDef": 80,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 331,
   "names": "Cacnea",
   "types": "Grass ",
   "total": 335,
@@ -4497,9 +4300,11 @@
   "Defense": 40,
   "SpAtk": 85,
   "SpDef": 40,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 332,
   "names": "Cacturne",
   "types": "Grass Dark",
   "total": 475,
@@ -4508,9 +4313,11 @@
   "Defense": 60,
   "SpAtk": 115,
   "SpDef": 60,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 333,
   "names": "Swablu",
   "types": "Normal Flying",
   "total": 310,
@@ -4519,9 +4326,11 @@
   "Defense": 60,
   "SpAtk": 40,
   "SpDef": 75,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 334,
   "names": "Altaria",
   "types": "Dragon Flying",
   "total": 490,
@@ -4530,20 +4339,11 @@
   "Defense": 90,
   "SpAtk": 70,
   "SpDef": 105,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
-  "names": "Altaria Mega Altaria",
-  "types": "Dragon Fairy",
-  "total": 590,
-  "hp": 75,
-  "attack": 110,
-  "Defense": 110,
-  "SpAtk": 110,
-  "SpDef": 105,
-  "Speed": 80
- },
- {
+    "nro": 335,
   "names": "Zangoose",
   "types": "Normal ",
   "total": 458,
@@ -4552,9 +4352,11 @@
   "Defense": 60,
   "SpAtk": 60,
   "SpDef": 60,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
+    "nro": 336,
   "names": "Seviper",
   "types": "Poison ",
   "total": 458,
@@ -4563,9 +4365,11 @@
   "Defense": 60,
   "SpAtk": 100,
   "SpDef": 60,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 337,
   "names": "Lunatone",
   "types": "Rock Psychic",
   "total": 460,
@@ -4574,9 +4378,11 @@
   "Defense": 65,
   "SpAtk": 95,
   "SpDef": 85,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 338,
   "names": "Solrock",
   "types": "Rock Psychic",
   "total": 460,
@@ -4585,9 +4391,11 @@
   "Defense": 85,
   "SpAtk": 55,
   "SpDef": 65,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
+    "nro": 339,
   "names": "Barboach",
   "types": "Water Ground",
   "total": 288,
@@ -4596,9 +4404,11 @@
   "Defense": 43,
   "SpAtk": 46,
   "SpDef": 41,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 340,
   "names": "Whiscash",
   "types": "Water Ground",
   "total": 468,
@@ -4607,9 +4417,11 @@
   "Defense": 73,
   "SpAtk": 76,
   "SpDef": 71,
-  "Speed": 60
+  "Speed": 60,
+  "descrip": ""
  },
  {
+    "nro": 341,
   "names": "Corphish",
   "types": "Water ",
   "total": 308,
@@ -4618,9 +4430,11 @@
   "Defense": 65,
   "SpAtk": 50,
   "SpDef": 35,
-  "Speed": 35
+  "Speed": 35,
+  "descrip": ""
  },
  {
+    "nro": 342,
   "names": "Crawdaunt",
   "types": "Water Dark",
   "total": 468,
@@ -4629,9 +4443,11 @@
   "Defense": 85,
   "SpAtk": 90,
   "SpDef": 55,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 343,
   "names": "Baltoy",
   "types": "Ground Psychic",
   "total": 300,
@@ -4640,9 +4456,11 @@
   "Defense": 55,
   "SpAtk": 40,
   "SpDef": 70,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 344,
   "names": "Claydol",
   "types": "Ground Psychic",
   "total": 500,
@@ -4651,9 +4469,11 @@
   "Defense": 105,
   "SpAtk": 70,
   "SpDef": 120,
-  "Speed": 75
+  "Speed": 75,
+  "descrip": ""
  },
  {
+    "nro": 345,
   "names": "Lileep",
   "types": "Rock Grass",
   "total": 355,
@@ -4662,9 +4482,11 @@
   "Defense": 77,
   "SpAtk": 61,
   "SpDef": 87,
-  "Speed": 23
+  "Speed": 23,
+  "descrip": ""
  },
  {
+    "nro": 346,
   "names": "Cradily",
   "types": "Rock Grass",
   "total": 495,
@@ -4673,9 +4495,11 @@
   "Defense": 97,
   "SpAtk": 81,
   "SpDef": 107,
-  "Speed": 43
+  "Speed": 43,
+  "descrip": ""
  },
  {
+    "nro": 347,
   "names": "Anorith",
   "types": "Rock Bug",
   "total": 355,
@@ -4684,9 +4508,11 @@
   "Defense": 50,
   "SpAtk": 40,
   "SpDef": 50,
-  "Speed": 75
+  "Speed": 75,
+  "descrip": ""
  },
  {
+    "nro": 348,
   "names": "Armaldo",
   "types": "Rock Bug",
   "total": 495,
@@ -4695,9 +4521,11 @@
   "Defense": 100,
   "SpAtk": 70,
   "SpDef": 80,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 349,
   "names": "Feebas",
   "types": "Water ",
   "total": 200,
@@ -4706,9 +4534,11 @@
   "Defense": 20,
   "SpAtk": 10,
   "SpDef": 55,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
+    "nro": 350,
   "names": "Milotic",
   "types": "Water ",
   "total": 540,
@@ -4717,9 +4547,11 @@
   "Defense": 79,
   "SpAtk": 100,
   "SpDef": 125,
-  "Speed": 81
+  "Speed": 81,
+  "descrip": ""
  },
  {
+    "nro": 351,
   "names": "Castform",
   "types": "Normal ",
   "total": 420,
@@ -4728,42 +4560,11 @@
   "Defense": 70,
   "SpAtk": 70,
   "SpDef": 70,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
-  "names": "Castform Sunny Form",
-  "types": "Fire ",
-  "total": 420,
-  "hp": 70,
-  "attack": 70,
-  "Defense": 70,
-  "SpAtk": 70,
-  "SpDef": 70,
-  "Speed": 70
- },
- {
-  "names": "Castform Rainy Form",
-  "types": "Water ",
-  "total": 420,
-  "hp": 70,
-  "attack": 70,
-  "Defense": 70,
-  "SpAtk": 70,
-  "SpDef": 70,
-  "Speed": 70
- },
- {
-  "names": "Castform Snowy Form",
-  "types": "Ice ",
-  "total": 420,
-  "hp": 70,
-  "attack": 70,
-  "Defense": 70,
-  "SpAtk": 70,
-  "SpDef": 70,
-  "Speed": 70
- },
- {
+    "nro": 352,
   "names": "Kecleon",
   "types": "Normal ",
   "total": 440,
@@ -4772,9 +4573,11 @@
   "Defense": 70,
   "SpAtk": 60,
   "SpDef": 120,
-  "Speed": 40
+  "Speed": 40,
+  "descrip": ""
  },
  {
+    "nro": 353,
   "names": "Shuppet",
   "types": "Ghost ",
   "total": 295,
@@ -4783,9 +4586,11 @@
   "Defense": 35,
   "SpAtk": 63,
   "SpDef": 33,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 354,
   "names": "Banette",
   "types": "Ghost ",
   "total": 455,
@@ -4794,20 +4599,11 @@
   "Defense": 65,
   "SpAtk": 83,
   "SpDef": 63,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
-  "names": "Banette Mega Banette",
-  "types": "Ghost ",
-  "total": 555,
-  "hp": 64,
-  "attack": 165,
-  "Defense": 75,
-  "SpAtk": 93,
-  "SpDef": 83,
-  "Speed": 75
- },
- {
+    "nro": 355,
   "names": "Duskull",
   "types": "Ghost ",
   "total": 295,
@@ -4816,9 +4612,11 @@
   "Defense": 90,
   "SpAtk": 30,
   "SpDef": 90,
-  "Speed": 25
+  "Speed": 25,
+  "descrip": ""
  },
  {
+    "nro": 356,
   "names": "Dusclops",
   "types": "Ghost ",
   "total": 455,
@@ -4827,9 +4625,11 @@
   "Defense": 130,
   "SpAtk": 60,
   "SpDef": 130,
-  "Speed": 25
+  "Speed": 25,
+  "descrip": ""
  },
  {
+    "nro": 357,
   "names": "Tropius",
   "types": "Grass Flying",
   "total": 460,
@@ -4838,9 +4638,11 @@
   "Defense": 83,
   "SpAtk": 72,
   "SpDef": 87,
-  "Speed": 51
+  "Speed": 51,
+  "descrip": ""
  },
  {
+    "nro": 358,
   "names": "Chimecho",
   "types": "Psychic ",
   "total": 455,
@@ -4849,9 +4651,11 @@
   "Defense": 80,
   "SpAtk": 95,
   "SpDef": 90,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 359,
   "names": "Absol",
   "types": "Dark ",
   "total": 465,
@@ -4860,20 +4664,11 @@
   "Defense": 60,
   "SpAtk": 75,
   "SpDef": 60,
-  "Speed": 75
+  "Speed": 75,
+  "descrip": ""
  },
  {
-  "names": "Absol Mega Absol",
-  "types": "Dark ",
-  "total": 565,
-  "hp": 65,
-  "attack": 150,
-  "Defense": 60,
-  "SpAtk": 115,
-  "SpDef": 60,
-  "Speed": 115
- },
- {
+    "nro": 360,
   "names": "Wynaut",
   "types": "Psychic ",
   "total": 260,
@@ -4882,9 +4677,11 @@
   "Defense": 48,
   "SpAtk": 23,
   "SpDef": 48,
-  "Speed": 23
+  "Speed": 23,
+  "descrip": ""
  },
  {
+    "nro": 361,
   "names": "Snorunt",
   "types": "Ice ",
   "total": 300,
@@ -4893,9 +4690,11 @@
   "Defense": 50,
   "SpAtk": 50,
   "SpDef": 50,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 362,
   "names": "Glalie",
   "types": "Ice ",
   "total": 480,
@@ -4904,20 +4703,11 @@
   "Defense": 80,
   "SpAtk": 80,
   "SpDef": 80,
-  "Speed": 80
+  "Speed": 80,
+  "descrip": ""
  },
  {
-  "names": "Glalie Mega Glalie",
-  "types": "Ice ",
-  "total": 580,
-  "hp": 80,
-  "attack": 120,
-  "Defense": 80,
-  "SpAtk": 120,
-  "SpDef": 80,
-  "Speed": 100
- },
- {
+    "nro": 363,
   "names": "Spheal",
   "types": "Ice Water",
   "total": 290,
@@ -4926,9 +4716,11 @@
   "Defense": 50,
   "SpAtk": 55,
   "SpDef": 50,
-  "Speed": 25
+  "Speed": 25,
+  "descrip": ""
  },
  {
+    "nro": 364,
   "names": "Sealeo",
   "types": "Ice Water",
   "total": 410,
@@ -4937,9 +4729,11 @@
   "Defense": 70,
   "SpAtk": 75,
   "SpDef": 70,
-  "Speed": 45
+  "Speed": 45,
+  "descrip": ""
  },
  {
+    "nro": 365,
   "names": "Walrein",
   "types": "Ice Water",
   "total": 530,
@@ -4948,9 +4742,11 @@
   "Defense": 90,
   "SpAtk": 95,
   "SpDef": 90,
-  "Speed": 65
+  "Speed": 65,
+  "descrip": ""
  },
  {
+    "nro": 366,
   "names": "Clamperl",
   "types": "Water ",
   "total": 345,
@@ -4959,9 +4755,11 @@
   "Defense": 85,
   "SpAtk": 74,
   "SpDef": 55,
-  "Speed": 32
+  "Speed": 32,
+  "descrip": ""
  },
  {
+    "nro": 367,
   "names": "Huntail",
   "types": "Water ",
   "total": 485,
@@ -4970,9 +4768,11 @@
   "Defense": 105,
   "SpAtk": 94,
   "SpDef": 75,
-  "Speed": 52
+  "Speed": 52,
+  "descrip": ""
  },
  {
+    "nro": 368,
   "names": "Gorebyss",
   "types": "Water ",
   "total": 485,
@@ -4981,9 +4781,11 @@
   "Defense": 105,
   "SpAtk": 114,
   "SpDef": 75,
-  "Speed": 52
+  "Speed": 52,
+  "descrip": ""
  },
  {
+    "nro": 369,
   "names": "Relicanth",
   "types": "Water Rock",
   "total": 485,
@@ -4992,9 +4794,11 @@
   "Defense": 130,
   "SpAtk": 45,
   "SpDef": 65,
-  "Speed": 55
+  "Speed": 55,
+  "descrip": ""
  },
  {
+    "nro": 370,
   "names": "Luvdisc",
   "types": "Water ",
   "total": 330,
@@ -5003,9 +4807,11 @@
   "Defense": 55,
   "SpAtk": 40,
   "SpDef": 65,
-  "Speed": 97
+  "Speed": 97,
+  "descrip": ""
  },
  {
+    "nro": 371,
   "names": "Bagon",
   "types": "Dragon ",
   "total": 300,
@@ -5014,9 +4820,11 @@
   "Defense": 60,
   "SpAtk": 40,
   "SpDef": 30,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 372,
   "names": "Shelgon",
   "types": "Dragon ",
   "total": 420,
@@ -5025,9 +4833,11 @@
   "Defense": 100,
   "SpAtk": 60,
   "SpDef": 50,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 373,
   "names": "Salamence",
   "types": "Dragon Flying",
   "total": 600,
@@ -5036,20 +4846,11 @@
   "Defense": 80,
   "SpAtk": 110,
   "SpDef": 80,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
-  "names": "Salamence Mega Salamence",
-  "types": "Dragon Flying",
-  "total": 700,
-  "hp": 95,
-  "attack": 145,
-  "Defense": 130,
-  "SpAtk": 120,
-  "SpDef": 90,
-  "Speed": 120
- },
- {
+    "nro": 374,
   "names": "Beldum",
   "types": "Steel Psychic",
   "total": 300,
@@ -5058,9 +4859,11 @@
   "Defense": 80,
   "SpAtk": 35,
   "SpDef": 60,
-  "Speed": 30
+  "Speed": 30,
+  "descrip": ""
  },
  {
+    "nro": 375,
   "names": "Metang",
   "types": "Steel Psychic",
   "total": 420,
@@ -5069,9 +4872,11 @@
   "Defense": 100,
   "SpAtk": 55,
   "SpDef": 80,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro":376 ,
   "names": "Metagross",
   "types": "Steel Psychic",
   "total": 600,
@@ -5080,20 +4885,11 @@
   "Defense": 130,
   "SpAtk": 95,
   "SpDef": 90,
-  "Speed": 70
+  "Speed": 70,
+  "descrip": ""
  },
  {
-  "names": "Metagross Mega Metagross",
-  "types": "Steel Psychic",
-  "total": 700,
-  "hp": 80,
-  "attack": 145,
-  "Defense": 150,
-  "SpAtk": 105,
-  "SpDef": 110,
-  "Speed": 110
- },
- {
+    "nro": 377,
   "names": "Regirock",
   "types": "Rock ",
   "total": 580,
@@ -5102,9 +4898,11 @@
   "Defense": 200,
   "SpAtk": 50,
   "SpDef": 100,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 378,
   "names": "Regice",
   "types": "Ice ",
   "total": 580,
@@ -5113,9 +4911,11 @@
   "Defense": 100,
   "SpAtk": 100,
   "SpDef": 200,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 379,
   "names": "Registeel",
   "types": "Steel ",
   "total": 580,
@@ -5124,9 +4924,11 @@
   "Defense": 150,
   "SpAtk": 75,
   "SpDef": 150,
-  "Speed": 50
+  "Speed": 50,
+  "descrip": ""
  },
  {
+    "nro": 380,
   "names": "Latias",
   "types": "Dragon Psychic",
   "total": 600,
@@ -5135,20 +4937,11 @@
   "Defense": 90,
   "SpAtk": 110,
   "SpDef": 130,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
-  "names": "Latias Mega Latias",
-  "types": "Dragon Psychic",
-  "total": 700,
-  "hp": 80,
-  "attack": 100,
-  "Defense": 120,
-  "SpAtk": 140,
-  "SpDef": 150,
-  "Speed": 110
- },
- {
+    "nro": 381,
   "names": "Latios",
   "types": "Dragon Psychic",
   "total": 600,
@@ -5157,20 +4950,11 @@
   "Defense": 80,
   "SpAtk": 130,
   "SpDef": 110,
-  "Speed": 110
+  "Speed": 110,
+  "descrip": ""
  },
  {
-  "names": "Latios Mega Latios",
-  "types": "Dragon Psychic",
-  "total": 700,
-  "hp": 80,
-  "attack": 130,
-  "Defense": 100,
-  "SpAtk": 160,
-  "SpDef": 120,
-  "Speed": 110
- },
- {
+    "nro": 382,
   "names": "Kyogre",
   "types": "Water ",
   "total": 670,
@@ -5179,20 +4963,11 @@
   "Defense": 90,
   "SpAtk": 150,
   "SpDef": 140,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
-  "names": "Kyogre Primal Kyogre",
-  "types": "Water ",
-  "total": 770,
-  "hp": 100,
-  "attack": 150,
-  "Defense": 90,
-  "SpAtk": 180,
-  "SpDef": 160,
-  "Speed": 90
- },
- {
+    "nro": 383,
   "names": "Groudon",
   "types": "Ground ",
   "total": 670,
@@ -5201,20 +4976,11 @@
   "Defense": 140,
   "SpAtk": 100,
   "SpDef": 90,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
-  "names": "Groudon Primal Groudon",
-  "types": "Ground Fire",
-  "total": 770,
-  "hp": 100,
-  "attack": 180,
-  "Defense": 160,
-  "SpAtk": 150,
-  "SpDef": 90,
-  "Speed": 90
- },
- {
+    "nro": 384,
   "names": "Rayquaza",
   "types": "Dragon Flying",
   "total": 680,
@@ -5223,20 +4989,11 @@
   "Defense": 90,
   "SpAtk": 150,
   "SpDef": 90,
-  "Speed": 95
+  "Speed": 95,
+  "descrip": ""
  },
  {
-  "names": "Rayquaza Mega Rayquaza",
-  "types": "Dragon Flying",
-  "total": 780,
-  "hp": 105,
-  "attack": 180,
-  "Defense": 100,
-  "SpAtk": 180,
-  "SpDef": 100,
-  "Speed": 115
- },
- {
+    "nro": 385,
   "names": "Jirachi",
   "types": "Steel Psychic",
   "total": 600,
@@ -5245,9 +5002,11 @@
   "Defense": 100,
   "SpAtk": 100,
   "SpDef": 100,
-  "Speed": 100
+  "Speed": 100,
+  "descrip": ""
  },
  {
+    "nro": 386,
   "names": "Deoxys Normal Forme",
   "types": "Psychic ",
   "total": 600,
@@ -5256,7 +5015,8 @@
   "Defense": 50,
   "SpAtk": 150,
   "SpDef": 50,
-  "Speed": 150
+  "Speed": 150,
+  "descrip": ""
  },
  {
   "names": "Deoxys Attack Forme",
@@ -5267,7 +5027,8 @@
   "Defense": 20,
   "SpAtk": 180,
   "SpDef": 20,
-  "Speed": 150
+  "Speed": 150,
+  "descrip": ""
  },
  {
   "names": "Deoxys Defense Forme",
@@ -5278,7 +5039,8 @@
   "Defense": 160,
   "SpAtk": 70,
   "SpDef": 160,
-  "Speed": 90
+  "Speed": 90,
+  "descrip": ""
  },
  {
   "names": "Deoxys Speed Forme",
@@ -5289,7 +5051,8 @@
   "Defense": 90,
   "SpAtk": 95,
   "SpDef": 90,
-  "Speed": 180
+  "Speed": 180,
+  "descrip": ""
  }
 ]
 }

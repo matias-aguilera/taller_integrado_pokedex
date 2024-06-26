@@ -3,6 +3,13 @@ import json
 
 app = Flask(__name__)
 
+pokemon_list = [
+    {"name": "Bulbasaur", "image": "img/001.png"},
+    {"name": "Charmander", "image": "img/004.png"},
+    {"name": "Squirtle", "image": "img/007.png"},
+    
+]
+
 
 @app.route("/")
 
