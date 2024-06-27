@@ -34,6 +34,10 @@ def items():
 def pokemon():
     return render_template("pokemon.html")
 
+@app.route("/bayas/")
+def bayas():
+    return render_template("bayas.html")    
+
 #@app.route("/p/<string:slug>/")
 #def show_post(slug):
 #    return render_template("post_view.html", slug_title=slug)
