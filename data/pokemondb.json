@@ -13,7 +13,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 65,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Tras nacer, crece alimentándose durante un tiempo de los nutrientes que contiene el bulbo de su lomo."
  },
  {
   "id"      : 2,
@@ -28,7 +28,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 80,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Cuanta más luz solar recibe, más aumenta su fuerza y más se desarrolla el capullo que tiene en el lomo."
  },
  {
   "id"      : 3,
@@ -43,7 +43,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 100,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Puede convertir la luz del sol en energía. Por esa razón, es más poderoso en verano."
  },
  {
   "id"      : 4,
@@ -58,7 +58,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 50,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "La llama de su cola indica su fuerza vital. Si está débil, la llama arderá más tenue."
  },
  {
   "id"      : 5,
@@ -73,7 +73,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 65,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Al agitar su ardiente cola, eleva poco a poco la temperatura a su alrededor para sofocar a sus rivales."
  },
  {
   "id"      : 6,
@@ -88,7 +88,7 @@
   "SpAtk"   : 109,
   "SpDef"   : 85,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Cuando se enfurece de verdad, la llama de la punta de su cola se vuelve de color azul claro."
  },
  {
   "id"      : 7,
@@ -103,7 +103,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 64,
   "Speed"   : 43,
-  "descrip" : ""
+  "descrip" : "Tras nacer, se le hincha el lomo y se le forma un caparazón. Escupe poderosa espuma por la boca."
  },
  {
   "id"      : 8,
@@ -118,7 +118,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 80,
   "Speed"   : 58,
-  "descrip" : ""
+  "descrip" : "Tiene una cola larga y peluda que simboliza la longevidad y lo hace popular entre los mayores."
  },
  {
   "id"      : 9,
@@ -133,7 +133,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 105,
   "Speed"   : 78,
-  "descrip" : ""
+  "descrip" : "Aumenta de peso deliberadamente para contrarrestar la fuerza de los chorros de agua que dispara."
  },
  {
   "id"      : 10,
@@ -148,7 +148,7 @@
   "SpAtk"   : 20,
   "SpDef"   : 20,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Para protegerse, despide un hedor horrible por las antenas con el que repele a sus enemigos."
  },
  {
   "id"      : 11,
@@ -163,7 +163,7 @@
   "SpAtk"   : 25,
   "SpDef"   : 25,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Como en este estado solo puede endurecer su coraza, permanece inmóvil a la espera de evolucionar."
  },
  {
   "id"      : 12,
@@ -178,7 +178,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 80,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Adora el néctar de las flores. Una pequeña cantidad de polen le basta para localizar prados floridos."
  },
  {
   "id"      : 13,
@@ -193,7 +193,7 @@
   "SpAtk"   : 20,
   "SpDef"   : 20,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "El aguijón de la cabeza es muy puntiagudo. Se alimenta de hojas oculto en la espesura de bosques y praderas."
  },
  {
   "id"      : 14,
@@ -208,7 +208,7 @@
   "SpAtk"   : 25,
   "SpDef"   : 25,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Aunque es casi incapaz de moverse, en caso de sentirse amenazado puede envenenar a los enemigos con su aguijón."
  },
  {
   "id"      : 15,
@@ -223,7 +223,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 80,
   "Speed"   : 75,
-  "descrip" : ""
+  "descrip" : "Tiene tres aguijones venenosos, dos en las patas anteriores y uno en la parte baja del abdomen, con los que ataca a sus enemigos una y otra vez."
  },
  {
   "id"      : 16,
@@ -238,7 +238,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 35,
   "Speed"   : 56,
-  "descrip" : ""
+  "descrip" : "Su docilidad es tal que suelen defenderse levantando arena en lugar de contraatacar."
  },
  {
   "id"      : 17,
@@ -253,7 +253,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 71,
-  "descrip" : ""
+  "descrip" : "Su extraordinaria vitalidad y resistencia le permiten cubrir grandes distancias del territorio que habita en busca de presas."
  },
  {
   "id"      : 18,
@@ -268,7 +268,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 70,
   "Speed"   : 101,
-  "descrip" : ""
+  "descrip" : "Este Pokémon vuela a una velocidad de 2 mach en busca de presas. Sus grandes garras son armas muy peligrosas."
  },
  {
   "id"      : 19,
@@ -283,7 +283,7 @@
   "SpAtk"   : 25,
   "SpDef"   : 35,
   "Speed"   : 72,
-  "descrip" : ""
+  "descrip" : "Es propenso a hincar los incisivos en cualquier cosa que se le ponga por delante. Si se ve alguno, seguramente haya cuarenta cerca."
  },
  {
   "id"      : 20,
@@ -298,7 +298,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 70,
   "Speed"   : 97,
-  "descrip" : ""
+  "descrip" : "Gracias a las pequeñas membranas de las patas traseras, puede nadar por los ríos para capturar presas."
  },
  {
   "id"      : 21,
@@ -313,7 +313,7 @@
   "SpAtk"   : 31,
   "SpDef"   : 31,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "A la hora de proteger su territorio, compensa su incapacidad para volar a gran altura con una increíble velocidad."
  },
  {
   "id"      : 22,
@@ -328,7 +328,7 @@
   "SpAtk"   : 61,
   "SpDef"   : 61,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Este Pokémon ha existido desde tiempos remotos. Al menor atisbo de peligro, alza el vuelo y huye."
  },
  {
   "id"      : 23,
@@ -343,7 +343,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 54,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Puede desencajar la mandíbula libremente para engullir grandes presas, aunque esto le dificulte el movimiento por pesar demasiado."
  },
  {
   "id"      : 24,
@@ -358,7 +358,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 79,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "El dibujo que tiene en el vientre parece una cara terrorífica. Los rivales más débiles salen huyendo nada más verlo."
  },
  {
   "id"      : 25,
@@ -373,7 +373,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Cuando se enfada, este Pokémon descarga la energía que almacena en el interior de las bolsas de las mejillas."
  },
  {
   "id"      : 26,
@@ -388,7 +388,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 80,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "Su cola actúa como toma de tierra y descarga electricidad al suelo, lo que le protege de los calambrazos."
  },
  {
   "id"      : 27,
@@ -403,7 +403,7 @@
   "SpAtk"   : 20,
   "SpDef"   : 30,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Excava madrigueras profundas en las que vive. Cuando lo ataca algún enemigo, se hace una bola y aguanta pacientemente sus embates."
  },
  {
   "id"      : 28,
@@ -418,7 +418,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 55,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Corre de un lado a otro a toda velocidad al tiempo que ataca hábilmente con las púas que tiene en la espalda y con sus afiladas garras."
  },
  {
   "id"      : 29,
@@ -433,7 +433,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 41,
-  "descrip" : ""
+  "descrip" : "Posee un olfato más fino que los Nidoran♂. Usa los bigotes para percibir la dirección del viento y buscar comida a sotavento de sus depredadores."
  },
  {
   "id"      : 30,
@@ -448,7 +448,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 55,
   "Speed"   : 56,
-  "descrip" : ""
+  "descrip" : "Se cree que el cuerno de la frente se le ha atrofiado para evitar herir a sus crías al alimentarlas."
  },
  {
   "id"      : 31,
@@ -463,7 +463,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 85,
   "Speed"   : 76,
-  "descrip" : ""
+  "descrip" : "Su defensa destaca sobre la capacidad ofensiva. Usa las escamas del cuerpo como una coraza para proteger a su prole de cualquier ataque."
  },
  {
   "id"      : 32,
@@ -478,7 +478,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Mantiene sus grandes orejas levantadas, siempre alerta. Si advierte peligro, ataca inoculando una potente toxina con su cuerno frontal."
  },
  {
   "id"      : 33,
@@ -493,7 +493,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 55,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Dondequiera que va, parte rocas con su cuerno, más duro que un diamante, en busca de una Piedra Lunar."
  },
  {
   "id"      : 34,
@@ -508,7 +508,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 75,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Una vez que se desboca, no hay quien lo pare. Solo se calma ante Nidoqueen, su compañera de toda la vida."
  },
  {
   "id"      : 35,
@@ -523,7 +523,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 65,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "En las noches de luna llena, Clefairy de diversos lugares se reúnen para bailar bajo su luz, la cual los hace flotar."
  },
  {
   "id"      : 36,
@@ -538,7 +538,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 90,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Se dice que este Pokémon emparentado con las hadas vive en zonas tranquilas en lo profundo de las montañas, ya que odia que lo vean."
  },
  {
   "id"      : 37,
@@ -553,7 +553,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 65,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Si lo ataca un enemigo más fuerte que él, finge estar herido para confundirlo y huir en cuanto baja la guardia."
  },
  {
   "id"      : 38,
@@ -568,7 +568,7 @@
   "SpAtk"   : 81,
   "SpDef"   : 100,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Cuentan algunas leyendas que cada una de sus nueve colas posee su propio y único poder sobrenatural."
  },
  {
   "id"      : 39,
@@ -583,7 +583,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 25,
   "Speed"   : 20,
-  "descrip" : ""
+  "descrip" : "Cuando le tiemblan sus redondos y adorables ojos, entona una melodía agradable y misteriosa con la que duerme a sus enemigos."
  },
  {
   "id"      : 40,
@@ -598,7 +598,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 50,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Tiene un pelaje muy fino. Se recomienda no enfadarlo, o se inflará y golpeará con todo su cuerpo."
  },
  {
   "id"      : 41,
@@ -613,7 +613,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 40,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Emite ondas ultrasónicas por la boca para escrutar el entorno, lo que le permite volar con pericia por cuevas angostas."
  },
  {
   "id"      : 42,
@@ -628,7 +628,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 75,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Le encanta chuparles la sangre a los seres vivos. En ocasiones comparte la preciada colecta con otros congéneres hambrientos."
  },
  {
   "id"      : 43,
@@ -643,7 +643,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 65,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Su nombre científico es Oddium viandantis. Se dice que, cuando cae la noche, puede llegar a desplazarse hasta 300 m con sus dos raíces."
  },
  {
   "id"      : 44,
@@ -658,7 +658,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 75,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "El fluido que le cae lentamente de la boca no es saliva, sino una especie de néctar que utiliza para atraer a sus presas."
  },
  {
   "id"      : 45,
@@ -673,7 +673,7 @@
   "SpAtk"   : 110,
   "SpDef"   : 90,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "El capullo florece de golpe con un chasquido, tras lo cual comienza a desprender un polen alergénico y venenoso."
  },
  {
   "id"      : 46,
@@ -688,7 +688,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 55,
   "Speed"   : 25,
-  "descrip" : ""
+  "descrip" : "Escarba en el suelo para extraer nutrientes de las raíces de los árboles, que las setas del lomo absorben después casi por completo."
  },
  {
   "id"      : 47,
@@ -703,7 +703,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 80,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Tras largo tiempo absorbiendo la energía del huésped, la seta parásita del lomo es la que parece controlar la voluntad de este Pokémon."
  },
  {
   "id"      : 48,
@@ -718,7 +718,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 55,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Rezuma veneno por todo su cuerpo. De noche, atrapa y come pequeños Pokémon insecto atraídos por la luz."
  },
  {
   "id"      : 49,
@@ -733,7 +733,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 75,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Tiene las alas cubiertas de escamas. Cada vez que las bate, esparce un polvillo sumamente venenoso."
  },
  {
   "id"      : 50,
@@ -748,7 +748,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 45,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Vive 1 m por debajo del suelo, donde se alimenta de raíces. A veces también aparece en la superficie."
  },
  {
   "id"      : 51,
@@ -763,7 +763,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 70,
   "Speed"   : 120,
-  "descrip" : ""
+  "descrip" : "Sus tres cabezas suben y bajan para remover la tierra cercana y facilitar así la excavación."
  },
  {
   "id"      : 52,
@@ -778,7 +778,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Durante el día, se dedica a dormir. De noche, vigila su territorio con un brillo en los ojos."
  },
  {
   "id"      : 53,
@@ -793,7 +793,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 65,
   "Speed"   : 115,
-  "descrip" : ""
+  "descrip" : "Aunque es muy admirado por el pelaje, es difícil de entrenar como mascota porque enseguida suelta arañazos."
  },
  {
   "id"      : 54,
@@ -808,7 +808,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 50,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Padece continuamente dolores de cabeza. Cuando son muy fuertes, empieza a usar misteriosos poderes."
  },
  {
   "id"      : 55,
@@ -823,7 +823,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 80,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Cuando nada a toda velocidad usando sus largas extremidades palmeadas, su frente comienza a brillar."
  },
  {
   "id"      : 56,
@@ -838,7 +838,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 45,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Vive en grupos en las copas de los árboles. Si pierde de vista a su manada, se siente solo y se enfada."
  },
  {
   "id"      : 57,
@@ -853,7 +853,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 70,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Se pone furioso si nota que alguien lo está mirando. Persigue a cualquiera que establezca contacto visual con él."
  },
  {
   "id"      : 58,
@@ -868,7 +868,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 50,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "De naturaleza valiente y honrada, se enfrenta sin miedo a enemigos más grandes y fuertes."
  },
  {
   "id"      : 59,
@@ -883,7 +883,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 80,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Cuenta un antiguo pergamino que la gente se quedaba fascinada al verlo correr por las praderas."
  },
  {
   "id"      : 60,
@@ -898,7 +898,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "La espiral que tiene en el vientre son sus vísceras, visibles a través de la piel. Cuando acaba de comer, se ven de manera aún más nítida."
  },
  {
   "id"      : 61,
@@ -913,7 +913,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Aunque puede vivir en tierra firme gracias a que sus extremidades inferiores se han desarrollado, por algún motivo prefiere el medio acuático."
  },
  {
   "id"      : 62,
@@ -928,7 +928,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 90,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Aunque puede nadar de forma hábil y enérgica utilizando todos sus músculos, por algún motivo prefiere vivir en tierra firme."
  },
  {
   "id"      : 63,
@@ -943,7 +943,7 @@
   "SpAtk"   : 105,
   "SpDef"   : 55,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Es capaz de usar sus poderes psíquicos aun estando dormido. Al parecer, el contenido del sueño influye en sus facultades."
  },
  {
   "id"      : 64,
@@ -958,7 +958,7 @@
   "SpAtk"   : 120,
   "SpDef"   : 70,
   "Speed"   : 105,
-  "descrip" : ""
+  "descrip" : "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada."
  },
  {
   "id"      : 65,
@@ -973,7 +973,7 @@
   "SpAtk"   : 135,
   "SpDef"   : 95,
   "Speed"   : 120,
-  "descrip" : ""
+  "descrip" : "Posee una capacidad intelectual fuera de lo común que le permite recordar todo lo sucedido desde el instante de su nacimiento."
  },
  {
   "id"      : 66,
@@ -988,7 +988,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 35,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Es una masa de músculos y, pese a su pequeño tamaño, tiene fuerza de sobra para levantar en brazos a 100 personas."
  },
  {
   "id"      : 67,
@@ -1003,7 +1003,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 60,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Su musculoso cuerpo es tan fuerte que usa un cinto antifuerza para controlar sus movimientos."
  },
  {
   "id"      : 68,
@@ -1018,7 +1018,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 85,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Mueve sus cuatro brazos a tal velocidad que resultan imposibles de ver. Puede asestar hasta mil puñetazos en dos segundos."
  },
  {
   "id"      : 69,
@@ -1033,7 +1033,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 30,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Si detecta algún movimiento a su alrededor, sea cuando sea, reacciona enseguida extendiendo sus finas lianas en esa dirección."
  },
  {
   "id"      : 70,
@@ -1048,7 +1048,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 45,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Rezuma un fluido neutralizante que impide que su propio ácido lo disuelva."
  },
  {
   "id"      : 71,
@@ -1063,7 +1063,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 70,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Deja que sus presas se le acerquen a la boca, atraídas por el aroma a néctar. Una vez dentro, las disuelve con su ácido."
  },
  {
   "id"      : 72,
@@ -1078,7 +1078,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 100,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Cuando baja la marea, se pueden encontrar Tentacool deshidratados junto a la orilla."
  },
  {
   "id"      : 73,
@@ -1093,7 +1093,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 120,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "En muy raras ocasiones, cuando se produce una aparición masiva de Tentacruel, los Pokémon pez de los alrededores se esfuman sin dejar rastro."
  },
  {
   "id"      : 74,
@@ -1108,7 +1108,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 20,
-  "descrip" : ""
+  "descrip" : "En reposo parece una roca normal, pero responde agitando los puños con agresividad si se pisa por error."
  },
  {
   "id"      : 75,
@@ -1123,7 +1123,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 45,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Camina muy lentamente, por lo que se desplaza rodando, sin importarle lo que pueda haber en su camino."
  },
  {
   "id"      : 76,
@@ -1138,7 +1138,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 65,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Está cubierto por un duro caparazón formado por losas de piedra. Lo muda una vez al año para aumentar de tamaño."
  },
  {
   "id"      : 77,
@@ -1153,7 +1153,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 65,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Apenas una hora después de nacer, ya le crecen la cola y la crin de fuego, que le confieren un aspecto magnífico."
  },
  {
   "id"      : 78,
@@ -1168,7 +1168,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 80,
   "Speed"   : 105,
-  "descrip" : ""
+  "descrip" : "Su crin de fuego centellea cuando galopa como una flecha a velocidades que llegan a alcanzar los 240 km/h."
  },
  {
   "id"      : 79,
@@ -1183,7 +1183,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 15,
-  "descrip" : ""
+  "descrip" : "Increíblemente lento y torpe. Tarda cinco segundos en sentir dolor si lo atacan."
  },
  {
   "id"      : 80,
@@ -1198,7 +1198,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 80,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Según parece, cuando Slowpoke fue a pescar al mar, un Shellder le mordió la cola y así evolucionó a Slowbro."
  },
  {
   "id"      : 81,
@@ -1213,7 +1213,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 55,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Las unidades laterales crean ondas electromagnéticas que contrarrestan la gravedad y le permiten flotar."
  },
  {
   "id"      : 82,
@@ -1228,7 +1228,7 @@
   "SpAtk"   : 120,
   "SpDef"   : 70,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Tres Magnemite se enlazan mediante una intensa fuerza magnética. Provoca un fuerte pitido en los oídos a quien se le acerque."
  },
  {
   "id"      : 83,
@@ -1243,7 +1243,7 @@
   "SpAtk"   : 58,
   "SpDef"   : 62,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "No puede vivir sin el puerro que lleva, así que lo protege de sus atacantes con todas sus fuerzas."
  },
  {
   "id"      : 84,
@@ -1258,7 +1258,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 35,
   "Speed"   : 75,
-  "descrip" : ""
+  "descrip" : "Sus cabezas gemelas comparten la misma información genética y combaten juntas al unísono."
  },
  {
   "id"      : 85,
@@ -1273,7 +1273,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "Ahora cuenta con tres corazones y tres pares de pulmones. No alcanza las velocidades de Doduo, pero es capaz de correr durante más tiempo."
  },
  {
   "id"      : 86,
@@ -1288,7 +1288,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 70,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "La protuberancia que tiene en la cabeza es tan dura que la usa para abrirse paso a cabezazos por el hielo de los icebergs."
  },
  {
   "id"      : 87,
@@ -1303,7 +1303,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 95,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Duerme en aguas poco profundas durante el día y, por la noche, cuando baja la temperatura del agua, nada en busca de comida."
  },
  {
   "id"      : 88,
@@ -1318,7 +1318,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 50,
   "Speed"   : 25,
-  "descrip" : ""
+  "descrip" : "Formados a partir de lodo, los Grimer se juntan en lugares sucios para aumentar el número de gérmenes de su cuerpo."
  },
  {
   "id"      : 89,
@@ -1333,7 +1333,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 100,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Está cubierto por un repugnante lodo. Es tan tóxico que hasta su rastro es venenoso."
  },
  {
   "id"      : 90,
@@ -1348,7 +1348,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 25,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Está metido en una concha más dura que el diamante, pero tiene un cuerpo muy blando."
  },
  {
   "id"      : 91,
@@ -1363,7 +1363,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 45,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "A los Cloyster que viven en las fuertes corrientes marinas les crecen largas y afiladas púas en la concha."
  },
  {
   "id"      : 92,
@@ -1378,7 +1378,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 35,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Su estrategia consiste en envolver al rival con su cuerpo gaseoso y envenenarlo a través de la piel."
  },
  {
   "id"      : 93,
@@ -1393,7 +1393,7 @@
   "SpAtk"   : 115,
   "SpDef"   : 55,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Le gusta acechar en la oscuridad y tocarles el hombro a sus víctimas con su mano gaseosa. Estas se quedan temblando para siempre."
  },
  {
   "id"      : 94,
@@ -1408,7 +1408,7 @@
   "SpAtk"   : 130,
   "SpDef"   : 75,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "Para quitarle la vida a su presa, se desliza en su sombra y espera su oportunidad en silencio."
  },
  {
   "id"      : 95,
@@ -1423,7 +1423,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 45,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Al abrirse paso bajo tierra, va absorbiendo todo lo que encuentra. Eso hace que su cuerpo sea así de sólido"
  },
  {
   "id"      : 96,
@@ -1438,7 +1438,7 @@
   "SpAtk"   : 43,
   "SpDef"   : 90,
   "Speed"   : 42,
-  "descrip" : ""
+  "descrip" : "Recuerda todos los sueños que engulle. Raramente come sueños de adultos porque los de los niños están más ricos."
  },
  {
   "id"      : 97,
@@ -1453,7 +1453,7 @@
   "SpAtk"   : 73,
   "SpDef"   : 115,
   "Speed"   : 67,
-  "descrip" : ""
+  "descrip" : "Cuando mira al enemigo, usa diversos poderes psíquicos como la hipnosis."
  },
  {
   "id"      : 98,
@@ -1468,7 +1468,7 @@
   "SpAtk"   : 25,
   "SpDef"   : 25,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Es fácil encontrarlo cerca del mar. Las largas pinzas que tiene vuelven a crecer si se las quitan de su sitio."
  },
  {
   "id"      : 99,
@@ -1483,7 +1483,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 75,
-  "descrip" : ""
+  "descrip" : "La pinza mayor posee una fuerza devastadora, pero es tan pesada que le cuesta usarla con precisión."
  },
  {
   "id"      : 100,
@@ -1498,7 +1498,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 55,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Se mueve rodando. Si el terreno es irregular, una chispa provocada por algún bache lo hará explotar."
  },
  {
   "id"      : 101,
@@ -1513,7 +1513,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 80,
   "Speed"   : 150,
-  "descrip" : ""
+  "descrip" : "Cuanta más energía almacena, mayor velocidad alcanza, aunque aumenta también el riesgo de que explote."
  },
  {
   "id"      : 102,
@@ -1528,7 +1528,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 45,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Si alguien confunde a una de sus cabezas con un huevo y la toca, se reagrupa con las otras para atacar todas juntas."
  },
  {
   "id"      : 103,
@@ -1543,7 +1543,7 @@
   "SpAtk"   : 125,
   "SpDef"   : 75,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Se lo llama la Selva Andante. Cada fruto tiene una cara distinta y voluntad propia."
  },
  {
   "id"      : 104,
@@ -1558,7 +1558,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 50,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Cuando llora al acordarse de su madre fallecida, su llanto resuena en el cráneo que lleva en la cabeza."
  },
  {
   "id"      : 105,
@@ -1573,7 +1573,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 80,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Ha evolucionado tras fortalecerse y superar su pena. Ahora lucha con arrojo blandiendo su hueso a modo de arma."
  },
  {
   "id"      : 106,
@@ -1588,7 +1588,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 110,
   "Speed"   : 87,
-  "descrip" : ""
+  "descrip" : "Endurece los músculos de las plantas de los pies en el momento en el que impactan contra su rival para potenciar al máximo sus patadas."
  },
  {
   "id"      : 107,
@@ -1603,7 +1603,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 110,
   "Speed"   : 76,
-  "descrip" : ""
+  "descrip" : "Acorrala a sus enemigos con combinaciones de puñetazos con ambos puños, para luego darles el golpe de gracia con un directo a 500 km/h."
  },
  {
   "id"      : 108,
@@ -1618,7 +1618,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 75,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Si sus lametones no se tratan a tiempo, su saliva pegajosa y urticante puede provocar picores persistentes"
  },
  {
   "id"      : 109,
@@ -1633,7 +1633,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 45,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Su cuerpo, con forma de globo y poco grosor, encierra gases muy tóxicos que pueden ocasionar explosiones espontáneas de gran magnitud."
  },
  {
   "id"      : 110,
@@ -1648,7 +1648,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 70,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Diluir sus venenosos gases internos lo máximo posible permite fabricar perfumes de alta gama."
  },
  {
   "id"      : 111,
@@ -1663,7 +1663,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 25,
-  "descrip" : ""
+  "descrip" : "Puede controlar un territorio de hasta 10 km de radio, pero, cuando se pone a correr, parece olvidársele dónde empieza y dónde acaba."
  },
  {
   "id"      : 112,
@@ -1678,7 +1678,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 45,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Hace chocar el cuerno con el de sus congéneres para afilarlo. Es capaz de horadar diamantes en bruto con él."
  },
  {
   "id"      : 113,
@@ -1693,7 +1693,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 105,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Un generoso Pokémon que pone huevos muy nutritivos y se los da a personas o Pokémon heridos."
  },
  {
   "id"      : 114,
@@ -1708,7 +1708,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 40,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Sus lianas no dejan de crecer aunque se le desprendan. Aún se desconoce qué aspecto tiene sin ellas."
  },
  {
   "id"      : 115,
@@ -1723,7 +1723,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 80,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Aunque lleve una cría en el marsupio, su juego de pies no pierde ligereza. Abruma al rival con ráfagas de ágiles puñetazos."
  },
  {
   "id"      : 116,
@@ -1738,7 +1738,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 25,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Si es atacado por un enemigo, por muy grande que sea, nada veloz a un lugar seguro gracias a su fornida aleta dorsal."
  },
  {
   "id"      : 117,
@@ -1753,7 +1753,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 45,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "En esta especie, es el macho quien se ocupa de cuidar a las crías, a las que defiende con sus púas venenosas de cualquiera que se les acerque."
  },
  {
   "id"      : 118,
@@ -1768,7 +1768,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 50,
   "Speed"   : 63,
-  "descrip" : ""
+  "descrip" : "Sus aletas pectorales, caudal y dorsal ondean gráciles en el agua. Por eso se le llama el Bailarín Acuático."
  },
  {
   "id"      : 119,
@@ -1783,7 +1783,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 80,
   "Speed"   : 68,
-  "descrip" : ""
+  "descrip" : "En otoño gana algo de peso para atraer a posibles parejas y se cubre de llamativos colores."
  },
  {
   "id"      : 120,
@@ -1798,7 +1798,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 55,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "A finales de verano, se pueden ver grupos de Staryu en la orilla de la playa sincronizando el brillo de sus núcleos a ritmo regular."
  },
  {
   "id"      : 121,
@@ -1813,7 +1813,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 85,
   "Speed"   : 115,
-  "descrip" : ""
+  "descrip" : "Su órgano central, conocido como núcleo, brilla con los colores del arcoíris cuando se dispone a liberar sus potentes poderes psíquicos."
  },
  {
   "id"      : 122,
@@ -1828,7 +1828,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 120,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Un experto de la pantomima capaz de crear paredes invisibles pero sólidas solo con sus gestos."
  },
  {
   "id"      : 123,
@@ -1843,7 +1843,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 80,
   "Speed"   : 105,
-  "descrip" : ""
+  "descrip" : "Avanza por la hierba con sus afiladas guadañas, más rápido de lo que el ojo humano puede percibir."
  },
  {
   "id"      : 124,
@@ -1858,7 +1858,7 @@
   "SpAtk"   : 115,
   "SpDef"   : 95,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "En cierta parte de Galar se conocía a Jynx como la Reina del Hielo y se reverenciaba con cierto temor."
  },
  {
   "id"      : 125,
@@ -1873,7 +1873,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 85,
   "Speed"   : 105,
-  "descrip" : ""
+  "descrip" : "Su cuerpo descarga electricidad constantemente, por lo que eriza el cabello a cualquiera que se le acerque."
  },
  {
   "id"      : 126,
@@ -1888,7 +1888,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 85,
   "Speed"   : 93,
-  "descrip" : ""
+  "descrip" : "Fue descubierto junto al cráter de un volcán. Escupe llamaradas y su temperatura corporal alcanza los 1200 ºC."
  },
  {
   "id"      : 127,
@@ -1903,7 +1903,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 70,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Los Pinsir se juzgan entre ellos por la robustez de la cornamenta. Cuanto más imponente sea, más agradará a sus congéneres del sexo opuesto."
  },
  {
   "id"      : 128,
@@ -1918,7 +1918,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 70,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "Cuando ve a un enemigo, se fustiga con las colas y carga ferozmente contra él."
  },
  {
   "id"      : 129,
@@ -1933,7 +1933,7 @@
   "SpAtk"   : 15,
   "SpDef"   : 20,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Un Pokémon desvalido y patético. A veces es capaz de saltar alto, pero rara vez más de 2 m."
  },
  {
   "id"      : 130,
@@ -1948,7 +1948,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 100,
   "Speed"   : 81,
-  "descrip" : ""
+  "descrip" : "Cuando aparece, monta en cólera. No deja de estar furioso hasta que lo destruye todo."
  },
  {
   "id"      : 131,
@@ -1963,7 +1963,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 95,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Surca los mares transportando gente sobre el lomo. Al parecer, a veces entona un melodioso canto si está de buen humor."
  },
  {
   "id"      : 132,
@@ -1978,7 +1978,7 @@
   "SpAtk"   : 48,
   "SpDef"   : 48,
   "Speed"   : 48,
-  "descrip" : ""
+  "descrip" : "Su habilidad para transformarse es perfecta, pero, si se le hace reír, perderá la fuerza y no podrá mantenerse transformado."
  },
  {
   "id"      : 133,
@@ -1993,7 +1993,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 65,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Es capaz de evolucionar de muchas maneras para adaptarse sin problemas a cualquier medio."
  },
  {
   "id"      : 134,
@@ -2008,7 +2008,7 @@
   "SpAtk"   : 110,
   "SpDef"   : 95,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Vive cerca del agua. Su cola termina en una aleta parecida a la de un pez, por lo que hay gente que lo confunde con una sirena."
  },
  {
   "id"      : 135,
@@ -2023,7 +2023,7 @@
   "SpAtk"   : 110,
   "SpDef"   : 95,
   "Speed"   : 130,
-  "descrip" : ""
+  "descrip" : "Concentra la débil actividad eléctrica de sus células para lanzar dañinas descargas."
  },
  {
   "id"      : 136,
@@ -2038,7 +2038,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 110,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Calienta el aire que inhala en su saca de fuego y lo expulsa a 1700 ºC."
  },
  {
   "id"      : 137,
@@ -2053,7 +2053,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 75,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Un Pokémon artificial que no respira, por lo que se le supone la capacidad de desenvolverse sin problemas en cualquier entorno."
  },
  {
   "id"      : 138,
@@ -2068,7 +2068,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 55,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Varios ejemplares han escapado o bien han sido liberados tras su restauración, lo que comienza a suscitar una serie de problemas."
  },
  {
   "id"      : 139,
@@ -2083,7 +2083,7 @@
   "SpAtk"   : 115,
   "SpDef"   : 70,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Se cree que se extinguió porque el excesivo tamaño y peso de su concha le impedían moverse con rapidez para capturar presas."
  },
  {
   "id"      : 140,
@@ -2098,7 +2098,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 45,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Un Pokémon casi extinto. Cada tres días, muda el caparazón, que se va endureciendo de forma progresiva."
  },
  {
   "id"      : 141,
@@ -2113,7 +2113,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 70,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Despedaza a las presas que atrapa para sorber sus fluidos y deja los restos para que otros Pokémon den buena cuenta de ellos"
  },
  {
   "id"      : 142,
@@ -2128,7 +2128,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 75,
   "Speed"   : 130,
-  "descrip" : ""
+  "descrip" : "Un feroz Pokémon de la época prehistórica al que no bastan todos los avances tecnológicos actuales para regenerar a la perfección."
  },
  {
   "id"      : 143,
@@ -2143,7 +2143,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 110,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Este Pokémon es un glotón que lo único que hace aparte de comer es dormir. Puede ingerir hasta 400 kg de comida en un solo día."
  },
  {
   "id"      : 144,
@@ -2158,7 +2158,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 125,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Una de las aves legendarias. Es capaz de generar ventiscas congelando la humedad del aire."
  },
  {
   "id"      : 145,
@@ -2173,7 +2173,7 @@
   "SpAtk"   : 125,
   "SpDef"   : 90,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Una de las aves legendarias. Según dicen, vive en los nubarrones y controla los rayos a su antojo."
  },
  {
   "id"      : 146,
@@ -2188,7 +2188,7 @@
   "SpAtk"   : 125,
   "SpDef"   : 85,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Una de las aves legendarias. Dicen que su presencia anuncia la llegada de la primavera."
  },
  {
   "id"      : 147,
@@ -2203,7 +2203,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Durante la etapa de crecimiento, muda muchas veces de piel y se protege mediante una cascada."
  },
  {
   "id"      : 148,
@@ -2218,7 +2218,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 70,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Dicen que, cuando su cuerpo desprende un aura, el tiempo empieza a cambiar inmediatamente."
  },
  {
   "id"      : 149,
@@ -2233,7 +2233,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 100,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Dicen que viven en una isla en algún lugar del océano que solo ellos habitan."
  },
  {
   "id"      : 150,
@@ -2248,7 +2248,7 @@
   "SpAtk"   : 154,
   "SpDef"   : 90,
   "Speed"   : 130,
-  "descrip" : ""
+  "descrip" : "Su ADN es casi el mismo que el de Mew. Sin embargo, su tamaño y carácter son muy diferentes."
  },
  {
   "id"      : 151,
@@ -2263,7 +2263,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 100,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Si se observa a través de un microscopio, puede distinguirse cuán corto, fino y delicado es el pelaje de este Pokémon."
  },
  {
   "id"      : 152,
@@ -2278,7 +2278,7 @@
   "SpAtk"   : 49,
   "SpDef"   : 65,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Le encanta tomar el sol. Usa la hoja que tiene en la cabeza para localizar sitios cálidos."
  },
  {
   "id"      : 153,
@@ -2293,7 +2293,7 @@
   "SpAtk"   : 63,
   "SpDef"   : 80,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Su cuello desprende un aroma especiado que, por alguna razón, incita a combatir a quienes lo huelen."
  },
  {
   "id"      : 154,
@@ -2308,7 +2308,7 @@
   "SpAtk"   : 83,
   "SpDef"   : 100,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Estar a su lado produce una sensación de frescor similar a la de un relajante paseo por el bosque."
  },
  {
   "id"      : 155,
@@ -2323,7 +2323,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 50,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Suele estar encorvado. Si se enfada o se asusta, lanzará llamas por el lomo."
  },
  {
   "id"      : 156,
@@ -2338,7 +2338,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 65,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Antes de empezar a luchar, le da la espalda al rival para alardear del alcance y la fuerza de sus llamas."
  },
  {
   "id"      : 157,
@@ -2353,7 +2353,7 @@
   "SpAtk"   : 109,
   "SpDef"   : 85,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Posee una técnica secreta y devastadora que consiste en atacar frotando su pelaje ardiente para provocar explosiones."
  },
  {
   "id"      : 158,
@@ -2368,7 +2368,7 @@
   "SpAtk"   : 44,
   "SpDef"   : 48,
   "Speed"   : 43,
-  "descrip" : ""
+  "descrip" : "Sus desarrolladas y potentes mandíbulas pueden triturar cualquier cosa, por lo que hasta su propio Entrenador debe andarse con cuidado."
  },
  {
   "id"      : 159,
@@ -2383,7 +2383,7 @@
   "SpAtk"   : 59,
   "SpDef"   : 63,
   "Speed"   : 58,
-  "descrip" : ""
+  "descrip" : "Sus colmillos están curvados hacia dentro, por lo que, una vez que muerde a una presa, esta no tiene forma de escapar."
  },
  {
   "id"      : 160,
@@ -2398,7 +2398,7 @@
   "SpAtk"   : 79,
   "SpDef"   : 83,
   "Speed"   : 78,
-  "descrip" : ""
+  "descrip" : "Tras morder a su víctima con sus enormes y potentes mandíbulas, agita la cabeza con fuerza para despedazarla."
  },
  {
   "id"      : 161,
@@ -2413,7 +2413,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 45,
   "Speed"   : 20,
-  "descrip" : ""
+  "descrip" : "Un Pokémon muy precavido. Su cola se mueve grácilmente, pero al ser tan musculosa resulta dura al tacto."
  },
  {
   "id"      : 162,
@@ -2428,7 +2428,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 55,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Cuida de sus crías en una madriguera larga y estrecha. Cuando crecen, las lleva al exterior y les enseña a vivir de forma independiente."
  },
  {
   "id"      : 163,
@@ -2443,7 +2443,7 @@
   "SpAtk"   : 36,
   "SpDef"   : 56,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Mece la cabeza a un ritmo constante gracias a su reloj interno, el cual no pierde su extraordinaria precisión en ningún momento."
  },
  {
   "id"      : 164,
@@ -2458,7 +2458,7 @@
   "SpAtk"   : 86,
   "SpDef"   : 96,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Posee unos ojos especialmente adaptados que le permiten aprovechar incluso la luz más tenue para ver en la oscuridad con total claridad."
  },
  {
   "id"      : 165,
@@ -2473,7 +2473,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 80,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Este Pokémon no soporta el frío. En Alola, sin embargo, se encuentra en su elemento y se lo puede ver revoloteando vivaracho por doquier."
  },
  {
   "id"      : 166,
@@ -2488,7 +2488,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 110,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Se dice que los motivos que luce en el dorso guardan relación con las estrellas, aunque esta teoría sigue siendo todo un misterio."
  },
  {
   "id"      : 167,
@@ -2503,7 +2503,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Espera inmóvil hasta que se hace de noche, incluso cuando hay una presa atrapada en la telaraña que teje con su hilo."
  },
  {
   "id"      : 168,
@@ -2518,7 +2518,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 70,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Segrega de forma continua por el abdomen una hebra de un hilo especial cuyo extremo conecta con el nido."
  },
  {
   "id"      : 169,
@@ -2533,7 +2533,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 80,
   "Speed"   : 130,
-  "descrip" : ""
+  "descrip" : "Sus patas se han convertido en alas. Se lanza sobre su presa en un vuelo silencioso a alta velocidad y le clava los colmillos en la nuca."
  },
  {
   "id"      : 170,
@@ -2548,7 +2548,7 @@
   "SpAtk"   : 56,
   "SpDef"   : 56,
   "Speed"   : 67,
-  "descrip" : ""
+  "descrip" : "Vive en lo más profundo del océano, donde ya no alcanza la luz. Se comunica con los de su especie emitiendo luces con las antenas"
  },
  {
   "id"      : 171,
@@ -2563,7 +2563,7 @@
   "SpAtk"   : 76,
   "SpDef"   : 76,
   "Speed"   : 67,
-  "descrip" : ""
+  "descrip" : "Las esferas luminiscentes con las que atrae a sus presas son en realidad el resultado de la mutación parcial de su aleta dorsal."
  },
  {
   "id"      : 172,
@@ -2578,7 +2578,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 35,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "No se le da muy bien el almacenamiento de electricidad. A la mínima, descarga energía sin darse cuenta."
  },
  {
   "id"      : 173,
@@ -2593,7 +2593,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 55,
   "Speed"   : 15,
-  "descrip" : ""
+  "descrip" : "Se dice que, cuando este Pokémon observa atentamente el cielo nocturno durante una lluvia de estrellas, está rememorando su hogar natal."
  },
  {
   "id"      : 174,
@@ -2608,7 +2608,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 20,
   "Speed"   : 15,
-  "descrip" : ""
+  "descrip" : "Su cuerpo suave y elástico desprende un aroma ligeramente dulce. Cuando empieza a botar, no puede parar."
  },
  {
   "id"      : 175,
@@ -2623,7 +2623,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 65,
   "Speed"   : 20,
-  "descrip" : ""
+  "descrip" : "El cascarón parece estar lleno de alegría. Dicen que trae buena suerte si se le trata con cariño."
  },
  {
   "id"      : 176,
@@ -2638,7 +2638,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 105,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Dicen que se le aparece a la gente de buen corazón y la inunda de felicidad."
  },
  {
   "id"      : 177,
@@ -2653,7 +2653,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 45,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Trepa con gran habilidad por el tronco de los árboles, donde aprovecha para picotear los brotes nuevos."
  },
  {
   "id"      : 178,
@@ -2668,7 +2668,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 70,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Dicen que se mantiene prácticamente inmóvil y en silencio porque observa el pasado y el futuro al mismo tiempo."
  },
  {
   "id"      : 179,
@@ -2683,7 +2683,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 45,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Cuando almacena electricidad estática en su cuerpo, la lana dobla su volumen. Quien la toque recibirá una descarga."
  },
  {
   "id"      : 180,
@@ -2698,7 +2698,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 60,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Como almacena tanta electricidad, en algunas partes de su cuerpo no le crece ni la lana."
  },
  {
   "id"      : 181,
@@ -2713,7 +2713,7 @@
   "SpAtk"   : 115,
   "SpDef"   : 90,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "El brillo de su cola es visible desde lejos. En la antigüedad, se usaba mucho como faro."
  },
  {
   "id"      : 182,
@@ -2728,7 +2728,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 100,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Se ha vuelto diurno gracias a la influencia de la Piedra Solar. Le gusta bailar en lugares bañados por el sol."
  },
  {
   "id"      : 183,
@@ -2743,7 +2743,7 @@
   "SpAtk"   : 20,
   "SpDef"   : 50,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Tiene un pelaje que repele el agua, por lo que está seco incluso después de bañarse."
  },
  {
   "id"      : 184,
@@ -2758,7 +2758,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 80,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Sus largas orejas son unos sensores excepcionales que le permiten diferenciar e identificar lo que oye dentro del agua."
  },
  {
   "id"      : 185,
@@ -2773,7 +2773,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 65,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Aunque pretende ser un árbol, en su composición se parece más a una roca que a una planta."
  },
  {
   "id"      : 186,
@@ -2788,7 +2788,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 100,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Cuando su grito resuena, acuden a su llamada Poliwag y Poliwhirl de todos los rincones."
  },
  {
   "id"      : 187,
@@ -2803,7 +2803,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 55,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Recorre largas distancias arrastrado por el viento. Se desconoce la procedencia exacta de los ejemplares que habitan en Paldea."
  },
  {
   "id"      : 188,
@@ -2818,7 +2818,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 65,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Al parecer, los admiradores de este Pokémon son capaces de determinar su lugar de nacimiento por el aroma que desprende la flor de su cabeza."
  },
  {
   "id"      : 189,
@@ -2833,7 +2833,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 95,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "Viaja arrastrado por los vientos estacionales hasta agotar sus esporas de algodón, momento que marca el final de su viaje y de su ciclo vital."
  },
  {
   "id"      : 190,
@@ -2848,7 +2848,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 55,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Vive en las copas de árboles de gran tamaño. Cuando salta de rama en rama, utiliza la cola con destreza para equilibrarse."
  },
  {
   "id"      : 191,
@@ -2863,7 +2863,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Cae de repente del cielo por las mañanas. Como sabe que es débil, solo se dedica a nutrirse hasta que evoluciona."
  },
  {
   "id"      : 192,
@@ -2878,7 +2878,7 @@
   "SpAtk"   : 105,
   "SpDef"   : 85,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "De día, corre histérico de un lado a otro, pero, cuando se pone el sol, se detiene por completo."
  },
  {
   "id"      : 193,
@@ -2893,7 +2893,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 45,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Vigila su territorio deteniéndose de vez en cuando, batiendo las alas a gran velocidad para mantenerse suspendido en el aire."
  },
  {
   "id"      : 194,
@@ -2908,7 +2908,7 @@
   "SpAtk"   : 25,
   "SpDef"   : 25,
   "Speed"   : 15,
-  "descrip" : ""
+  "descrip" : "Está cubierto por una membrana mucosa transparente. El contacto directo provoca escozor y entumecimiento."
  },
  {
   "id"      : 195,
@@ -2923,7 +2923,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 65,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Este Pokémon de carácter tranquilo nada despreocupado y siempre termina chocando de cabeza contra el casco de los barcos."
  },
  {
   "id"      : 196,
@@ -2938,7 +2938,7 @@
   "SpAtk"   : 130,
   "SpDef"   : 95,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "Al predecir el siguiente movimiento de su rival, los extremos de su cola bífida tiemblan ligeramente."
  },
  {
   "id"      : 197,
@@ -2953,7 +2953,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 130,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Si se expone al aura de la luna, los anillos de su cuerpo relucen y adquiere un poder misterioso."
  },
  {
   "id"      : 198,
@@ -2968,7 +2968,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 42,
   "Speed"   : 91,
-  "descrip" : ""
+  "descrip" : "Temido y odiado por muchos, dicen que trae la desgracia a todos aquellos que lo ven por la noche."
  },
  {
   "id"      : 199,
@@ -2983,7 +2983,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 110,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Al ser mordido en la cabeza, Slowpoke absorbió unas toxinas que liberaron su poder oculto."
  },
  {
   "id"      : 200,
@@ -2998,7 +2998,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 85,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Sorprende a la gente en mitad de la noche y acumula su miedo como energía."
  },
  {
   "id"      : 201,
@@ -3013,7 +3013,7 @@
   "SpAtk"   : 72,
   "SpDef"   : 48,
   "Speed"   : 48,
-  "descrip" : ""
+  "descrip" : "Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada."
  },
  {
   "id"      : 202,
@@ -3028,7 +3028,7 @@
   "SpAtk"   : 33,
   "SpDef"   : 58,
   "Speed"   : 33,
-  "descrip" : ""
+  "descrip" : "Odia la luz y las sacudidas. Si le atacan, infla su cuerpo para contraatacar con más ímpetu."
  },
  {
   "id"      : 203,
@@ -3043,7 +3043,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 65,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "El minúsculo cerebro que tiene en la cola es en realidad un órgano importante dotado de potentes poderes psíquicos."
  },
  {
   "id"      : 204,
@@ -3058,7 +3058,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 35,
   "Speed"   : 15,
-  "descrip" : ""
+  "descrip" : "Le gusta engrosar su coraza añadiendo cortezas de árbol. El aumento de peso no le molesta."
  },
  {
   "id"      : 205,
@@ -3073,7 +3073,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Se le suele ver enganchado al tronco de un árbol grande. Cuando comienza la acción, dispara trozos de su coraza."
  },
  {
   "id"      : 206,
@@ -3088,7 +3088,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 65,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Construye laberintos en lugares oscuros. Si alguien lo descubre, huye cavando un agujero con la cola."
  },
  {
   "id"      : 207,
@@ -3103,7 +3103,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 65,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Construyen sus nidos en precipicios escarpados, a los que regresan dando pequeños saltos una vez que han dado por concluido su planeo."
  },
  {
   "id"      : 208,
@@ -3118,7 +3118,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 65,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Según dicen, si un Onix vive más de 100 años, su cuerpo adquiere una composición que recuerda a la de los diamantes."
  },
  {
   "id"      : 209,
@@ -3133,7 +3133,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "En realidad es muy cobarde. Gruñe con desaforo en un intento por disimular su miedo."
  },
  {
   "id"      : 210,
@@ -3148,7 +3148,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "En el fondo es muy tímido y asustadizo. Cuando lo atacan, agita las extremidades frenéticamente con la intención de ahuyentar al enemigo."
  },
  {
   "id"      : 211,
@@ -3163,7 +3163,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 55,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Si comienza a beber agua para hincharse, es señal de amenaza. Ataca al rival arrojando las púas tóxicas que le recubren el cuerpo."
  },
  {
   "id"      : 212,
@@ -3178,7 +3178,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 80,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Las pinzas que posee contienen acero y pueden hacer trizas cualquier objeto por duro que sea."
  },
  {
   "id"      : 213,
@@ -3193,7 +3193,7 @@
   "SpAtk"   : 10,
   "SpDef"   : 230,
   "Speed"   : 5,
-  "descrip" : ""
+  "descrip" : "Almacena bayas dentro de su concha. Para evitar ataques, se esconde inmóvil bajo las rocas."
  },
  {
   "id"      : 214,
@@ -3208,7 +3208,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 95,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Le encanta la savia dulce y usa su cuerno para lanzar por los aires a cualquiera que se acerque a ella."
  },
  {
   "id"      : 215,
@@ -3223,7 +3223,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 75,
   "Speed"   : 115,
-  "descrip" : ""
+  "descrip" : "Este Pokémon es muy astuto. Se vale de la oscuridad de la noche para atacar a su presa."
  },
  {
   "id"      : 216,
@@ -3238,7 +3238,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Sigue con sigilo a los Combee para localizar su colmena. Consume abundantes cantidades de miel, que recoge impregnando las zarpas."
  },
  {
   "id"      : 217,
@@ -3253,7 +3253,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 75,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Su expresión dura y adusta se convierte en una sonrisa rebosante de felicidad en cuanto saborea la miel que tanto le gusta."
  },
  {
   "id"      : 218,
@@ -3268,7 +3268,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 40,
   "Speed"   : 20,
-  "descrip" : ""
+  "descrip" : "Si se enfría, su cuerpo de magma puede llegar a resquebrajarse, pero le basta un baño de lava para que se regenere"
  },
  {
   "id"      : 219,
@@ -3283,7 +3283,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 80,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Habita cerca de cráteres volcánicos. Almacena energía ígnea en el interior de la coraza, la cual está formada por magma enfriado y solidificado."
  },
  {
   "id"      : 220,
@@ -3298,7 +3298,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Usa la punta del hocico para escarbar el suelo en busca de alimento. Ni siquiera la tierra congelada le supone obstáculo alguno."
  },
  {
   "id"      : 221,
@@ -3313,7 +3313,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Su tupido pelaje lo protege del frío. Sus colmillos de hielo se engruesan cuando nieva."
  },
  {
   "id"      : 222,
@@ -3328,7 +3328,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 95,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Es incapaz de vivir en aguas contaminadas. Muchos ejemplares habitan en los cristalinos mares del sur."
  },
  {
   "id"      : 223,
@@ -3343,7 +3343,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 35,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Los chorros de agua que escupe pueden alcanzar a presas en movimiento a una distancia de hasta 100 m."
  },
  {
   "id"      : 224,
@@ -3358,7 +3358,7 @@
   "SpAtk"   : 105,
   "SpDef"   : 75,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Tiene querencia por los agujeros, hasta el punto de ocupar los que han hecho otros para anidar y dormir en ellos."
  },
  {
   "id"      : 225,
@@ -3373,7 +3373,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 45,
   "Speed"   : 75,
-  "descrip" : ""
+  "descrip" : "Transporta comida durante todo el día. Según dicen, muchos desaparecidos han sobrevivido gracias a ella."
  },
  {
   "id"      : 226,
@@ -3388,7 +3388,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 140,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Tras ganar velocidad nadando, aprovecha las olas para proyectarse y recorrer planeando hasta 100 m de distancia."
  },
  {
   "id"      : 227,
@@ -3403,7 +3403,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 70,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Su robusto cuerpo metálico parece pesado, pero en realidad es fino y ligero, lo que le permite volar a 300 km/h."
  },
  {
   "id"      : 228,
@@ -3418,7 +3418,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 50,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Tiene suficiente inteligencia para cazar en manada. Se comunica con los demás a través de diversos aullidos."
  },
  {
   "id"      : 229,
@@ -3433,7 +3433,7 @@
   "SpAtk"   : 110,
   "SpDef"   : 80,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Si alguien se quema con las llamas que lanza por la boca, el dolor no desaparecerá nunca."
  },
  {
   "id"      : 230,
@@ -3448,7 +3448,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 95,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Se dice que duerme en el fondo del océano para recargar energía y que crea remolinos cuando despierta."
  },
  {
   "id"      : 231,
@@ -3463,7 +3463,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Vive en hoyos que cava en la ribera de los ríos. Tras retozar en el lodo, no se queda tranquilo hasta haberse lavado bien el cuerpo."
  },
  {
   "id"      : 232,
@@ -3478,7 +3478,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Su dura piel podría resistir el choque contra un coche sin sufrir un rasguño. La lluvia, sin embargo, es su punto débil."
  },
  {
   "id"      : 233, 
@@ -3491,7 +3491,7 @@
   "SpAtk"   : 105,
   "SpDef"   : 95,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Pokémon artificial evolucionado con tecnología de vanguardia. En ocasiones muestra reacciones que no forman parte de su código."
  },
  {
   "id"      : 234,
@@ -3506,7 +3506,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 65,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Antaño habitaba en entornos inhóspitos, por lo que sus poderes psíquicos eran supuestamente más potentes aún que en la actualidad."
  },
  {
   "id"      : 235,
@@ -3521,7 +3521,7 @@
   "SpAtk"   : 20,
   "SpDef"   : 45,
   "Speed"   : 75,
-  "descrip" : ""
+  "descrip" : "Cuando un ejemplar alcanza la edad adulta, es costumbre que sus congéneres le impriman la marca de sus patas en el lomo."
  },
  {
   "id"      : 236,
@@ -3536,7 +3536,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 35,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Este Pokémon tan decidido combate contra todo tipo de rivales en su búsqueda de un estilo de lucha propio."
  },
  {
   "id"      : 237,
@@ -3551,7 +3551,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 110,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Su especialidad son las patadas danzarinas. El cuerno que tiene en la cabeza está hecho del mismo material que el pelo y las garras."
  },
  {
   "id"      : 238,
@@ -3566,7 +3566,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 65,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "En cuanto se le ensucia la cara, aunque sea un poco, se la lava con agua. En el resto del cuerpo, la suciedad no parece importarle mucho."
  },
  {
   "id"      : 239,
@@ -3581,7 +3581,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 55,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Adora los rayos más violentos. Cuando se carga de electricidad, la cavidad entre sus cuernos emite una luz blanquecina."
  },
  {
   "id"      : 240,
@@ -3596,7 +3596,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 55,
   "Speed"   : 83,
-  "descrip" : ""
+  "descrip" : "Cada vez que inspira y espira, este Pokémon deja escapar chispas por la boca y por las fosas nasales."
  },
  {
   "id"      : 241,
@@ -3611,7 +3611,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 70,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Debido a la nutritiva leche que produce, ha contribuido al bienestar de humanos y Pokémon desde tiempos inmemoriales."
  },
  {
   "id"      : 242,
@@ -3626,7 +3626,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 135,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Cualquiera que pruebe un poco de huevo de Blissey, se volverá más amable y agradable con todos."
  },
  {
   "id"      : 243,
@@ -3641,7 +3641,7 @@
   "SpAtk"   : 115,
   "SpDef"   : 100,
   "Speed"   : 115,
-  "descrip" : ""
+  "descrip" : "Raikou tiene la velocidad del rayo. Los rugidos de este Pokémon emiten ondas de choque que se esparcen vibrando por el aire y sacuden el suelo como si fueran auténticas descargas de rayo."
  },
  {
   "id"      : 244,
@@ -3656,7 +3656,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 75,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Entei contiene el fulgor del magma en su interior. Se cree que este Pokémon nació de la erupción de un volcán. Escupe numerosas ráfagas de fuego que devoran y reducen a cenizas todo lo que tocan."
  },
  {
   "id"      : 245,
@@ -3671,7 +3671,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 115,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Suicune emana la pureza de los manantiales. Suele corretear por el campo con gran elegancia. Este Pokémon tiene el poder de purificar el agua contaminada."
  },
  {
   "id"      : 246,
@@ -3686,7 +3686,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 50,
   "Speed"   : 41,
-  "descrip" : ""
+  "descrip" : "Nacido en las profundidades subterráneas, este Pokémon se convierte en pupa al comer la cantidad de tierra equivalente a una montaña."
  },
  {
   "id"      : 247,
@@ -3701,7 +3701,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 70,
   "Speed"   : 51,
-  "descrip" : ""
+  "descrip" : "Esta pupa vuela propulsándose con los gases sometidos a altas presiones que encierra en el interior de su cuerpo."
  },
  {
   "id"      : 248,
@@ -3716,7 +3716,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 100,
   "Speed"   : 61,
-  "descrip" : ""
+  "descrip" : "Tiene tanta fuerza que puede cambiar el paisaje. Su naturaleza insolente le hace ser muy egoísta."
  },
  {
   "id"      : 249,
@@ -3731,7 +3731,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 154,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "La fuerza que tiene Lugia en las alas es devastadora; con nada que las bata es capaz de derribar edificios enteros. Por eso mismo, prefiere vivir donde no haya nadie, en lo más profundo del mar."
  },
  {
   "id"      : 250,
@@ -3746,7 +3746,7 @@
   "SpAtk"   : 110,
   "SpDef"   : 154,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "El plumaje de Ho-Oh contiene siete colores que pueden apreciarse según el ángulo desde el que les dé la luz. Dicen que sus plumas dan felicidad a quienes las llevan y, también, que este Pokémon vive a los pies del arco iris."
  },
  {
   "id"      : 251,
@@ -3761,7 +3761,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 100,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Este Pokémon vino del futuro haciendo un viaje en el tiempo. Hay quien piensa que, mientras Celebi siga apareciendo, hay un futuro brillante y esperanzador."
  },
  {
   "id"      : 252,
@@ -3776,7 +3776,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 55,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Tiene pequeñas púas en las plantas de los pies que le permiten andar por techos y paredes sin caerse."
  },
  {
   "id"      : 253,
@@ -3791,7 +3791,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 65,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Los desarrollados músculos de sus extremidades inferiores le proporcionan una tremenda agilidad y una portentosa capacidad de salto."
  },
  {
   "id"      : 254,
@@ -3806,7 +3806,7 @@
   "SpAtk"   : 105,
   "SpDef"   : 85,
   "Speed"   : 120,
-  "descrip" : ""
+  "descrip" : "Corretea ágil y veloz por la selva y emplea las afiladas hojas de sus brazos para darles el golpe de gracia a sus presas."
  },
  {
   "id"      : 255,
@@ -3821,7 +3821,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 50,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Posee una saca de fuego en el abdomen, cuya llama arderá durante toda su vida. El calor que desprende resulta muy agradable al abrazarlo."
  },
  {
   "id"      : 256,
@@ -3836,7 +3836,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 60,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Propina unas patadas demoledoras. Profiere potentes gritos para aguzar su concentración"
  },
  {
   "id"      : 257,
@@ -3851,7 +3851,7 @@
   "SpAtk"   : 110,
   "SpDef"   : 70,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Ante un rival difícil, expulsa llamas por las muñecas. Tiene mucha fuerza en las patas; hasta puede saltar edificios."
  },
  {
   "id"      : 258,
@@ -3866,7 +3866,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Puede reducir a añicos grandes rocas. Descansa enterrado en el lodo del lecho de los ríos."
  },
  {
   "id"      : 259,
@@ -3881,7 +3881,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 70,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Vive en terrenos cubiertos de lodo viscoso, lo que contribuye a que sus patas se fortalezcan y se vuelvan extremadamente robustas."
  },
  {
   "id"      : 260,
@@ -3896,7 +3896,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 90,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Con sus brazos duros como una roca puede partir pedruscos gigantescos en mil pedazos de un solo golpe."
  },
  {
   "id"      : 261,
@@ -3911,7 +3911,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Enseña sus enormes colmillos y ladra con fuerza para intimidar a sus rivales, lo cual no es más que una manera de esconder su cobardía."
  },
  {
   "id"      : 262,
@@ -3926,7 +3926,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Siguen las órdenes del líder al pie de la letra. Gracias a la eficacia de su trabajo en equipo, ninguna presa se les escapa."
  },
  {
   "id"      : 263,
@@ -3941,7 +3941,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 41,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados."
  },
  {
   "id"      : 264,
@@ -3956,7 +3956,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 61,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Carga contra sus presas a más de 100 km/h, pero, como solo puede correr en línea recta, falla a menudo."
  },
  {
   "id"      : 265,
@@ -3971,7 +3971,7 @@
   "SpAtk"   : 20,
   "SpDef"   : 30,
   "Speed"   : 20,
-  "descrip" : ""
+  "descrip" : "Wurmple usa las púas del lomo para raspar los troncos de los árboles, quitarles la corteza y beber la savia que emanan. Este Pokémon tiene unas ventosas rematándole los pies, con las que se adhiere al cristal sin resbalarse."
  },
  {
   "id"      : 266,
@@ -3986,7 +3986,7 @@
   "SpAtk"   : 25,
   "SpDef"   : 25,
   "Speed"   : 15,
-  "descrip" : ""
+  "descrip" : "Silcoon usa la seda que produce para aferrarse a la rama de un árbol y sujetarse bien. Se queda ahí colgado a la espera de su evolución, mientras lo observa todo a través de dos pequeños agujeros en su capullo de seda."
  },
  {
   "id"      : 267,
@@ -4001,7 +4001,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 50,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "La comida favorita de Beautifly es el dulce polen de las flores. Si quieres ver a este Pokémon, deja una maceta con flores al lado de la ventana y verás cómo aparece un ejemplar de Beautifly en busca de polen."
  },
  {
   "id"      : 268,
@@ -4016,7 +4016,7 @@
   "SpAtk"   : 25,
   "SpDef"   : 25,
   "Speed"   : 15,
-  "descrip" : ""
+  "descrip" : "Cascoon forma el capullo que lo protege enrollándose por completo en la seda que libera por la boca. Cuando está totalmente recubierto, se prepara para evolucionar en el interior del capullo."
  },
  {
   "id"      : 269,
@@ -4031,7 +4031,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 90,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Los Dustox se acercan a la luz de forma instintiva. De hecho, se agrupan en enjambres alrededor de las luces de las ciudades y causan estragos en las hojas de los árboles que están a pie de calle para alimentarse."
  },
  {
   "id"      : 270,
@@ -4046,7 +4046,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 50,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "La hoja que tiene en la cabeza puede repeler la suciedad, por lo que permanece limpia aunque transporte un Pokémon lleno de lodo."
  },
  {
   "id"      : 271,
@@ -4061,7 +4061,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 70,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "En las antiguas leyendas de Noroteo se cuenta que es la reencarnación de un niño amante de las travesuras."
  },
  {
   "id"      : 272,
@@ -4076,7 +4076,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 100,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Todo su cuerpo cuenta con la capacidad de producir energía al percibir ondas sonoras de música alegre."
  },
  {
   "id"      : 273,
@@ -4091,7 +4091,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Pretenden ser una bellota para que los Pokémon pájaro se los lleven volando de un lado a otro y así expandir su hábitat."
  },
  {
   "id"      : 274,
@@ -4106,7 +4106,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 40,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Vive tranquilamente en lo profundo del bosque. Se lleva la hoja de la cabeza a la boca y silba para advertir a quienes invaden su territorio."
  },
  {
   "id"      : 275,
@@ -4121,7 +4121,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 60,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Se dice que, cuando agita sus abanicos de hojas subido a la copa de algún árbol milenario, soplan vientos gélidos y da comienzo el invierno."
  },
  {
   "id"      : 276,
@@ -4136,7 +4136,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Taillow se mantiene firme ante sus rivales, sean lo fuertes que sean. Este valiente Pokémon seguirá mostrándose desafiante, aunque pierda en combate. Además, si se enfada, se pondrá a gritar con energía."
  },
  {
   "id"      : 277,
@@ -4151,7 +4151,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 50,
   "Speed"   : 125,
-  "descrip" : ""
+  "descrip" : "Swellow vuela muy alto dibujando elegantes arcos en el cielo. Este Pokémon se sumerge en el agua con rapidez y eficacia en cuanto detecta una presa. Con las garras, atrapa a la desdichada víctima y no la deja huir."
  },
  {
   "id"      : 278,
@@ -4166,7 +4166,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 30,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Aprovecha las corrientes ascendentes para ganar altura como si de un planeador se tratase. Suele llevar comida en el pico."
  },
  {
   "id"      : 279,
@@ -4181,7 +4181,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 70,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Vuela transportando pequeños Pokémon en el pico. A veces, se queda flotando en el agua para descansar las alas."
  },
  {
   "id"      : 280,
@@ -4196,7 +4196,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 35,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Gracias a los cuernos rojos de su cabeza, puede captar lo que sienten las personas."
  },
  {
   "id"      : 281,
@@ -4211,7 +4211,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 55,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Con sus poderes psíquicos puede deformar el espacio a su alrededor y predecir el futuro."
  },
  {
   "id"      : 282,
@@ -4226,7 +4226,7 @@
   "SpAtk"   : 125,
   "SpDef"   : 115,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Para proteger a su Entrenador, emplea todo su poder psíquico en crear un pequeño agujero negro."
  },
  {
   "id"      : 283,
@@ -4241,7 +4241,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 52,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Vive en estanques, pero, cuando se desata una tormenta, puede aparecer en los charcos que se forman en las ciudades."
  },
  {
   "id"      : 284,
@@ -4256,7 +4256,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 82,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Sus cuatro alas le permiten volar en cualquier dirección a su antojo."
  },
  {
   "id"      : 285,
@@ -4271,7 +4271,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 60,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Prefiere los sitios húmedos. De día está tranquilamente en el bosque, a la sombra. Expulsa polvo tóxico por la cabeza."
  },
  {
   "id"      : 286,
@@ -4286,7 +4286,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Esparce esporas venenosas muy nocivas que aturden a sus enemigos al inhalarlas y luego les asesta puñetazos de gran intensidad."
  },
  {
   "id"      : 287,
@@ -4301,7 +4301,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 35,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Se pasa 20 horas al día durmiendo. Una de sus habilidades es hacer que le entre sueño a quien lo mire."
  },
  {
   "id"      : 288,
@@ -4316,7 +4316,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 55,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Si no puede estar en continuo movimiento, su nivel de estrés se dispara y puede llegar a enfermar."
  },
  {
   "id"      : 289,
@@ -4331,7 +4331,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 65,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Es el Pokémon más vago que hay. Aun así, puede liberar de una vez una cantidad tremenda de energía acumulada."
  },
  {
   "id"      : 290,
@@ -4346,7 +4346,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Vivir bajo tierra durante tanto tiempo lo ha dejado prácticamente ciego. Las antenas que tiene le ayudan a orientarse."
  },
  {
   "id"      : 291,
@@ -4361,7 +4361,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 160,
-  "descrip" : ""
+  "descrip" : "Escuchar su zumbido de forma continuada provoca jaquecas persistentes. Se mueve con tanta rapidez que es casi imposible verlo."
  },
  {
   "id"      : 292,
@@ -4376,7 +4376,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 30,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Es un Pokémon muy peculiar; aparece de repente en una Poké Ball cuando Nincada evoluciona."
  },
  {
   "id"      : 293,
@@ -4391,7 +4391,7 @@
   "SpAtk"   : 51,
   "SpDef"   : 23,
   "Speed"   : 28,
-  "descrip" : ""
+  "descrip" : "Su grito llega a superar los 100 decibelios y provoca a quien lo oiga un dolor de cabeza que puede durar un día entero."
  },
  {
   "id"      : 294,
@@ -4406,7 +4406,7 @@
   "SpAtk"   : 71,
   "SpDef"   : 43,
   "Speed"   : 48,
-  "descrip" : ""
+  "descrip" : "A través de las orejas, que le sirven de altavoces, emite ondas sonoras capaces de echar abajo una casa."
  },
  {
   "id"      : 295,
@@ -4421,7 +4421,7 @@
   "SpAtk"   : 91,
   "SpDef"   : 73,
   "Speed"   : 68,
-  "descrip" : ""
+  "descrip" : "En la antigüedad, los bramidos de Exploud se utilizaban como medio de comunicación entre pueblos alejados."
  },
  {
   "id"      : 296,
@@ -4436,7 +4436,7 @@
   "SpAtk"   : 20,
   "SpDef"   : 30,
   "Speed"   : 25,
-  "descrip" : ""
+  "descrip" : "A base de duro entrenamiento se hace cada vez más fuerte. Es tan resistente que puede soportar cualquier ataque."
  },
  {
   "id"      : 297,
@@ -4451,7 +4451,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 60,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Le encanta medir sus fuerzas. Es tan fuerte que puede detener un tren en marcha de un manotazo."
  },
  {
   "id"      : 298,
@@ -4466,7 +4466,7 @@
   "SpAtk"   : 20,
   "SpDef"   : 40,
   "Speed"   : 20,
-  "descrip" : ""
+  "descrip" : "Rebota como una pelota. Para luchar contra enemigos más grandes, agita la cola en el aire."
  },
  {
   "id"      : 299,
@@ -4481,7 +4481,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 90,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Los Nosepass tienen una nariz brújula infalible, por lo que los Entrenadores viajeros suelen llevar uno consigo."
  },
  {
   "id"      : 300,
@@ -4496,7 +4496,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 35,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "A Skitty le encanta mover cosas e ir detrás de ellas. Es de todos sabido que se dedica a ir detrás de su propia cola y que, al final, acaba mareándose."
  },
  {
   "id"      : 301,
@@ -4511,7 +4511,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 55,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Delcatty prefiere llevar una vida independiente y hacer lo que se le antoje. Como este Pokémon come y duerme según vea en cada momento, no se puede decir que tenga unos hábitos regulares en el día a día."
  },
  {
   "id"      : 302,
@@ -4526,7 +4526,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 65,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Hace su guarida en cuevas oscuras. Usa sus afiladas garras para desenterrar las gemas que se come."
  },
  {
   "id"      : 303,
@@ -4541,7 +4541,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 55,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Con su cara inocente hace que el rival se confíe y, al bajar la guardia, le da un mordisco con sus enormes fauces del que no se puede liberar."
  },
  {
   "id"      : 304,
@@ -4556,7 +4556,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 40,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "Se alimenta de minerales de hierro o, en ocasiones, de vías de tren para producir la coraza de acero que le protege el cuerpo."
  },
  {
   "id"      : 305,
@@ -4571,7 +4571,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Habita en zonas ricas en hierro y con numerosos manantiales, por lo que en el pasado las disputas territoriales con los humanos eran frecuentes."
  },
  {
   "id"      : 306,
@@ -4586,7 +4586,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Sus cuernos duros y afilados pueden perforar hasta las planchas de hierro más gruesas. Derriba a sus rivales cargando contra ellos."
  },
  {
   "id"      : 307,
@@ -4601,7 +4601,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 55,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Practica yoga a diario y no se pierde ni una sesión. Mediante la meditación, aumenta su fuerza interior."
  },
  {
   "id"      : 308,
@@ -4616,7 +4616,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 75,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Puede prever los movimientos de su rival usando sus poderes psíquicos, fortalecidos por el yoga."
  },
  {
   "id"      : 309,
@@ -4631,7 +4631,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 40,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo."
  },
  {
   "id"      : 310,
@@ -4646,7 +4646,7 @@
   "SpAtk"   : 105,
   "SpDef"   : 60,
   "Speed"   : 105,
-  "descrip" : ""
+  "descrip" : "La electricidad estimula su musculatura para que pueda moverse a gran velocidad y le ayuda a recuperarse del dolor muscular rápidamente."
  },
  {
   "id"      : 311,
@@ -4661,7 +4661,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 75,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Anima a sus compañeros con un alegre chisporroteo. Para absorber electricidad, se sube a los postes de teléfono."
  },
  {
   "id"      : 312,
@@ -4676,7 +4676,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 85,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "La electricidad de Minun y Plusle es buena para la circulación y para desentumecer los músculos."
  },
  {
   "id"      : 313,
@@ -4691,7 +4691,7 @@
   "SpAtk"   : 47,
   "SpDef"   : 85,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Vive cerca de estanques de agua clara. De noche, hace parpadear la luz de la cola para comunicarse con otros de su especie."
  },
  {
   "id"      : 314,
@@ -4706,7 +4706,7 @@
   "SpAtk"   : 73,
   "SpDef"   : 85,
   "Speed"   : 85,
-  "descrip" : ""
+  "descrip" : "Con su dulce aroma guía a los Volbeat para trazar con ellos más de 200 dibujos distintos en el cielo nocturno."
  },
  {
   "id"      : 315,
@@ -4721,7 +4721,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 80,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Las flores que tiene emanan un aroma relajante. Cuanto más intenso, mejor es su estado de salud."
  },
  {
   "id"      : 316,
@@ -4736,7 +4736,7 @@
   "SpAtk"   : 43,
   "SpDef"   : 53,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Su estómago es capaz de digerir cualquier cosa. Al hacerlo, produce gases de una pestilencia nauseabunda."
  },
  {
   "id"      : 317,
@@ -4751,7 +4751,7 @@
   "SpAtk"   : 73,
   "SpDef"   : 83,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Se traga todo lo que le quepa en su enorme boca. Sus jugos gástricos pueden digerir cualquier cosa."
  },
  {
   "id"      : 318,
@@ -4766,7 +4766,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 20,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Nunca aborda a su presa en solitario, sino que espera a que lleguen sus semejantes para atacar en grupo."
  },
  {
   "id"      : 319,
@@ -4781,7 +4781,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 40,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "En cuanto detecta el olor de una presa, expele agua marina para propulsarse hacia delante y atacar a una velocidad de 120 km/h."
  },
  {
   "id"      : 320,
@@ -4796,7 +4796,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 35,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Wailmer se come una tonelada de Wishiwashi cada día. Le gusta llamar la atención expulsando chorros de agua marina por su espiráculo."
  },
  {
   "id"      : 321,
@@ -4811,7 +4811,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 45,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Puede dejar fuera de combate a sus oponentes con el impacto de su enorme cuerpo al caer en el agua tras uno de sus saltos."
  },
  {
   "id"      : 322,
@@ -4826,7 +4826,7 @@
   "SpAtk"   : 65,
   "SpDef"   : 45,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Magma a 1200 ºC le recorre el cuerpo. Cuando se enfría, el magma se solidifica y lo vuelve lento."
  },
  {
   "id"      : 323,
@@ -4841,7 +4841,7 @@
   "SpAtk"   : 105,
   "SpDef"   : 75,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Vive en cráteres de volcanes. Es famoso por las jorobas de su lomo, que entran en erupción cada diez años."
  },
  {
   "id"      : 324,
@@ -4856,7 +4856,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 70,
   "Speed"   : 20,
-  "descrip" : ""
+  "descrip" : "Quema carbón en su caparazón para obtener energía. Si se ve amenazado, despide un hollín negro que lo ayuda a huir."
  },
  {
   "id"      : 325,
@@ -4871,7 +4871,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 80,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Si dejara de saltar, se debilitaría. La perla que lleva en la cabeza amplifica sus poderes psíquicos."
  },
  {
   "id"      : 326,
@@ -4886,7 +4886,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 110,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Para controlar a su rival usa unos curiosos pasos de baile, antaño muy populares en el extranjero."
  },
  {
   "id"      : 327,
@@ -4901,7 +4901,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Se mueve tambaleándose de un lado para otro y termina mareado si camina durante un largo período."
  },
  {
   "id"      : 328,
@@ -4916,7 +4916,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 45,
   "Speed"   : 10,
-  "descrip" : ""
+  "descrip" : "Habita desiertos áridos. Cava nidos con forma de embudo, en los que espera pacientemente a que caiga su presa."
  },
  {
   "id"      : 329,
@@ -4931,7 +4931,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Las alas de Vibrava están subdesarrolladas. Más que para volar, las frota para crear ondas ultrasónicas con las que ataca a sus enemigos."
  },
  {
   "id"      : 330,
@@ -4946,7 +4946,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 80,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Se lo conoce como el Alma del Desierto. Levanta tormentas de arena al batir las alas y se oculta en su interior."
  },
  {
   "id"      : 331,
@@ -4961,7 +4961,7 @@
   "SpAtk"   : 85,
   "SpDef"   : 40,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Prefiere entornos inhóspitos, como los desiertos. Puede sobrevivir 30 días sin beber gracias al agua que almacena en el interior de su cuerpo."
  },
  {
   "id"      : 332,
@@ -4976,7 +4976,7 @@
   "SpAtk"   : 115,
   "SpDef"   : 60,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Persiguen en grupo a los viajeros del desierto y los acechan hasta que el cansancio los agote."
  },
  {
   "id"      : 333,
@@ -4991,7 +4991,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 75,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Está continuamente acicalándose las alas de algodón que tiene. Si se ensucia, se da un baño para limpiarse enseguida."
  },
  {
   "id"      : 334,
@@ -5006,7 +5006,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 105,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Si establece un vínculo con una persona, la envuelve con sus alas suaves y bellas y le canta en susurros."
  },
  {
   "id"      : 335,
@@ -5021,7 +5021,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 60,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Le une una relación de enemistad con Seviper. Al toparse con uno, alarga sus afiladas zarpas para intimidarlo."
  },
  {
   "id"      : 336,
@@ -5036,7 +5036,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 60,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Usa rocas para afilarse la cola en forma de espada. Sale de la hierba de repente y ataca con sus colmillos tóxicos."
  },
  {
   "id"      : 337,
@@ -5051,7 +5051,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 85,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Se piensa que las fases lunares tienen relación con la fluctuación de su poder. Se vuelve activo las noches de luna llena."
  },
  {
   "id"      : 338,
@@ -5066,7 +5066,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 65,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Al girar emite una luz como la del sol, con la que consigue deslumbrar a sus enemigos."
  },
  {
   "id"      : 339,
@@ -5081,7 +5081,7 @@
   "SpAtk"   : 46,
   "SpDef"   : 41,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Sus bigotes son muy sensibles y le sirven de radar. Puede detectar la posición de su presa incluso en el agua turbia de los lodazales."
  },
  {
   "id"      : 340,
@@ -5096,7 +5096,7 @@
   "SpAtk"   : 76,
   "SpDef"   : 71,
   "Speed"   : 60,
-  "descrip" : ""
+  "descrip" : "Protege su territorio por encima de todo. Si se acerca un enemigo, lo ataca con violentos temblores de tierra."
  },
  {
   "id"      : 341,
@@ -5111,7 +5111,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 35,
   "Speed"   : 35,
-  "descrip" : ""
+  "descrip" : "Esta criatura, procedente del extranjero, es resistente y se reproduce con rapidez, incluso en ríos sucios o contaminados."
  },
  {
   "id"      : 342,
@@ -5126,7 +5126,7 @@
   "SpAtk"   : 90,
   "SpDef"   : 55,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "De naturaleza combativa, agarra con las pinzas y arroja por los aires a todo aquel Pokémon que ose aventurarse en su territorio."
  },
  {
   "id"      : 343,
@@ -5141,7 +5141,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 70,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Se mueve girando una única extremidad. Se han avistado algunos ejemplares capaces de hacerlo cabeza abajo."
  },
  {
   "id"      : 344,
@@ -5156,7 +5156,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 120,
   "Speed"   : 75,
-  "descrip" : ""
+  "descrip" : "Al parecer, este misterioso Pokémon nació a partir de una figurilla de barro creada por una civilización de hace más de 20 000 años."
  },
  {
   "id"      : 345,
@@ -5171,7 +5171,7 @@
   "SpAtk"   : 61,
   "SpDef"   : 87,
   "Speed"   : 23,
-  "descrip" : ""
+  "descrip" : "Este Pokémon se regeneró a partir de un fósil. Habitaba en los mares cálidos hace unos cien millones de años."
  },
  {
   "id"      : 346,
@@ -5186,7 +5186,7 @@
   "SpAtk"   : 81,
   "SpDef"   : 107,
   "Speed"   : 43,
-  "descrip" : ""
+  "descrip" : "Sus cortas patas le impiden desplazarse con rapidez, pero puede triplicar la longitud de sus tentáculos y cuello para atrapar a presas lejanas."
  },
  {
   "id"      : 347,
@@ -5201,7 +5201,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 50,
   "Speed"   : 75,
-  "descrip" : ""
+  "descrip" : "Este Pokémon se regeneró a partir de un fósil. Habitaba en los mares de hace cien millones de años. Atrapaba a sus presas con sus dos pinzas."
  },
  {
   "id"      : 348,
@@ -5216,7 +5216,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 80,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Tras evolucionar, pasó a vivir en tierra firme. Posee tal fuerza en la parte inferior del cuerpo que un solo coletazo puede resultar devastador."
  },
  {
   "id"      : 349,
@@ -5231,7 +5231,7 @@
   "SpAtk"   : 10,
   "SpDef"   : 55,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Este Pokémon es tan resistente que puede vivir sin problema hasta en las aguas más sucias, pero no es muy popular a causa de su aspecto."
  },
  {
   "id"      : 350,
@@ -5246,7 +5246,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 125,
   "Speed"   : 81,
-  "descrip" : ""
+  "descrip" : "Sus preciosas escamas tienen todos los colores del arcoíris y cambian de color según el ángulo de visión."
  },
  {
   "id"      : 351,
@@ -5261,7 +5261,7 @@
   "SpAtk"   : 70,
   "SpDef"   : 70,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Cambia de apariencia en función del tiempo atmosférico, pero se trata más bien de una reacción química ajena a su voluntad."
  },
  {
   "id"      : 352,
@@ -5276,7 +5276,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 120,
   "Speed"   : 40,
-  "descrip" : ""
+  "descrip" : "Cambia de color para fundirse con el paisaje, pero, si pasa desapercibido demasiado tiempo, se enfurruña y no vuelve a hacerse visible."
  },
  {
   "id"      : 353,
@@ -5291,7 +5291,7 @@
   "SpAtk"   : 63,
   "SpDef"   : 33,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Se alimenta de sentimientos como la envidia y el rencor, que capta a través del cuerno de la cabeza."
  },
  {
   "id"      : 354,
@@ -5306,7 +5306,7 @@
   "SpAtk"   : 83,
   "SpDef"   : 63,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Está lleno de rencor porque lo tiraron a la basura cuando era un muñeco. Vive en oscuros callejones."
  },
  {
   "id"      : 355,
@@ -5321,7 +5321,7 @@
   "SpAtk"   : 30,
   "SpDef"   : 90,
   "Speed"   : 25,
-  "descrip" : ""
+  "descrip" : "Al caer la noche, ronda ciudades y pueblos en busca de niños, cuya energía vital adora."
  },
  {
   "id"      : 356,
@@ -5336,7 +5336,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 130,
   "Speed"   : 25,
-  "descrip" : ""
+  "descrip" : "Se lo teme porque, según cuentan, extrae el alma del cuerpo de quienes ven los extraños movimientos de sus manos."
  },
  {
   "id"      : 357,
@@ -5351,7 +5351,7 @@
   "SpAtk"   : 72,
   "SpDef"   : 87,
   "Speed"   : 51,
-  "descrip" : ""
+  "descrip" : "Habita en las junglas tropicales. Le crece un delicioso racimo de fruta dulce en el cuello dos veces al año."
  },
  {
   "id"      : 358,
@@ -5366,7 +5366,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 90,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Se cuelga de ramas y aleros con la ventosa de la cabeza. Tiene siete tipos de gritos diferentes."
  },
  {
   "id"      : 359,
@@ -5381,7 +5381,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 60,
   "Speed"   : 75,
-  "descrip" : ""
+  "descrip" : "Corre por montañas y prados a la velocidad del viento. Su cuerno curvado tiene tal sensibilidad que puede predecir catástrofes naturales."
  },
  {
   "id"      : 360,
@@ -5396,7 +5396,7 @@
   "SpAtk"   : 23,
   "SpDef"   : 48,
   "Speed"   : 23,
-  "descrip" : ""
+  "descrip" : "Suelen ir en grupo. Templan su paciencia jugando a empujarse los unos a los otros."
  },
  {
   "id"      : 361,
@@ -5411,7 +5411,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 50,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Se dice que se reúnen en grupos bajo hojas gigantescas y viven allí en total armonía."
  },
  {
   "id"      : 362,
@@ -5426,7 +5426,7 @@
   "SpAtk"   : 80,
   "SpDef"   : 80,
   "Speed"   : 80,
-  "descrip" : ""
+  "descrip" : "Congela a sus presas instantáneamente con el aire frío que expulsa por la boca y, acto seguido, las devora."
  },
  {
   "id"      : 363,
@@ -5441,7 +5441,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 50,
   "Speed"   : 25,
-  "descrip" : ""
+  "descrip" : "La gruesa capa de grasa bajo la piel le confiere una forma perfectamente esférica. Se desplaza más rápido rodando que caminando."
  },
  {
   "id"      : 364,
@@ -5456,7 +5456,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 70,
   "Speed"   : 45,
-  "descrip" : ""
+  "descrip" : "Vive sobre placas de hielo. Detecta el olor de sus presas mientras nada."
  },
  {
   "id"      : 365,
@@ -5471,7 +5471,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 90,
   "Speed"   : 65,
-  "descrip" : ""
+  "descrip" : "Forman manadas de unos 20 o 30 individuos. Si el grupo se ve atacado por un enemigo, el líder se interpondrá para proteger al resto."
  },
  {
   "id"      : 366,
@@ -5486,7 +5486,7 @@
   "SpAtk"   : 74,
   "SpDef"   : 55,
   "Speed"   : 32,
-  "descrip" : ""
+  "descrip" : "Este Pokémon, que no aparenta ser carnívoro, atrapa a sus presas con ambas conchas y no las suelta hasta que dejan de moverse."
  },
  {
   "id"      : 367,
@@ -5501,7 +5501,7 @@
   "SpAtk"   : 94,
   "SpDef"   : 75,
   "Speed"   : 52,
-  "descrip" : ""
+  "descrip" : "Curiosamente, no es un gran nadador. Agita la cola para atraer a sus presas y, cuando estas se acercan, las engulle de golpe."
  },
  {
   "id"      : 368,
@@ -5516,7 +5516,7 @@
   "SpAtk"   : 114,
   "SpDef"   : 75,
   "Speed"   : 52,
-  "descrip" : ""
+  "descrip" : "Su color de piel varía en base a la temperatura del agua, y los que viven en Alola adoptan colores tan vivos que llegan a deslumbrar."
  },
  {
   "id"      : 369,
@@ -5531,7 +5531,7 @@
   "SpAtk"   : 45,
   "SpDef"   : 65,
   "Speed"   : 55,
-  "descrip" : ""
+  "descrip" : "Es capaz de soportar la alta presión del fondo marino gracias a sus escamas, duras como rocas, y a sus vejigas natatorias llenas de grasa."
  },
  {
   "id"      : 370,
@@ -5546,7 +5546,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 65,
   "Speed"   : 97,
-  "descrip" : ""
+  "descrip" : "Popular por su forma de corazón. En algunos sitios es costumbre que las parejas se regalen Luvdisc."
  },
  {
   "id"      : 371,
@@ -5561,7 +5561,7 @@
   "SpAtk"   : 40,
   "SpDef"   : 30,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Tiene la cabeza dura como el acero y es capaz de destrozar rocas. Su sueño es que le crezcan alas para volar."
  },
  {
   "id"      : 372,
@@ -5576,7 +5576,7 @@
   "SpAtk"   : 60,
   "SpDef"   : 50,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "En el interior de su coraza, las células se transforman a una velocidad vertiginosa para preparar su evolución."
  },
  {
   "id"      : 373,
@@ -5591,7 +5591,7 @@
   "SpAtk"   : 110,
   "SpDef"   : 80,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Feliz de haber desarrollado al fin sus alas y de poder volar por el cielo, calcina con sus llamas todos los campos que sobrevuela."
  },
  {
   "id"      : 374,
@@ -5606,7 +5606,7 @@
   "SpAtk"   : 35,
   "SpDef"   : 60,
   "Speed"   : 30,
-  "descrip" : ""
+  "descrip" : "El magnetismo terrestre y el que emite su cuerpo se repelen, lo que le permite flotar en el aire."
  },
  {
   "id"      : 375,
@@ -5621,7 +5621,7 @@
   "SpAtk"   : 55,
   "SpDef"   : 80,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Está formado por dos Beldum fusionados. Sus dos cerebros están conectados, así que cuenta con poderes psíquicos amplificados."
  },
  {
   "id"      : 376,
@@ -5636,7 +5636,7 @@
   "SpAtk"   : 95,
   "SpDef"   : 90,
   "Speed"   : 70,
-  "descrip" : ""
+  "descrip" : "Dicen que sus cuatro cerebros superan a un superordenador. Vuela plegando las cuatro patas."
  },
  {
   "id"      : 377,
@@ -5651,7 +5651,7 @@
   "SpAtk"   : 50,
   "SpDef"   : 100,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Todo su cuerpo está hecho de roca. Si alguna parte se erosiona, la recompone con más rocas."
  },
  {
   "id"      : 378,
@@ -5666,7 +5666,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 200,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Usa corrientes de aire gélido de hasta -200 ºC para congelar en un instante a cualquiera que se le acerque."
  },
  {
   "id"      : 379,
@@ -5681,7 +5681,7 @@
   "SpAtk"   : 75,
   "SpDef"   : 150,
   "Speed"   : 50,
-  "descrip" : ""
+  "descrip" : "Está hecho de una misteriosa sustancia que, pese a ser más dura que cualquier metal, se contrae y dilata con facilidad."
  },
  {
   "id"      : 380,
@@ -5696,7 +5696,7 @@
   "SpAtk"   : 110,
   "SpDef"   : 130,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "Latias es muy sensible a los sentimientos de la gente. Si detecta algún ápice de hostilidad, desplegará las plumas que tiene por todo el cuerpo y se pondrá a chillar para intimidar al enemigo."
  },
  {
   "id"      : 381,
@@ -5711,7 +5711,7 @@
   "SpAtk"   : 130,
   "SpDef"   : 110,
   "Speed"   : 110,
-  "descrip" : ""
+  "descrip" : "Latios tiene la habilidad de hacer que los demás vean algo que él ha visto o imaginado. Este Pokémon es muy inteligente. Es capaz de entender el lenguaje humano."
  },
  {
   "id"      : 382,
@@ -5726,7 +5726,7 @@
   "SpAtk"   : 150,
   "SpDef"   : 140,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "Kyogre se sirve de la energía de la naturaleza para realizar su Regresión Primigenia y recobrar su apariencia primitiva. Con tal poder, puede desencadenar tempestades para expandir los océanos."
  },
  {
   "id"      : 383,
@@ -5741,7 +5741,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 90,
   "Speed"   : 90,
-  "descrip" : ""
+  "descrip" : "A Groudon siempre se le ha descrito como el Pokémon que expandió los continentes. Varias leyendas cuentan que libró combates contra Kyogre en repetidas ocasiones para tener el control de la energía de la naturaleza."
  },
  {
   "id"      : 384,
@@ -5756,7 +5756,7 @@
   "SpAtk"   : 150,
   "SpDef"   : 90,
   "Speed"   : 95,
-  "descrip" : ""
+  "descrip" : "Dicen que Rayquaza ha vivido durante millones de años. Las leyendas cuentan que puso fin al continuo enfrentamiento entre Groudon y Kyogre."
  },
  {
   "id"      : 385,
@@ -5771,7 +5771,7 @@
   "SpAtk"   : 100,
   "SpDef"   : 100,
   "Speed"   : 100,
-  "descrip" : ""
+  "descrip" : "Cuenta la leyenda que Jirachi hará realidad cualquier deseo que se le escriba en las notas que lleva en la cabeza cuando las lea tras salir de su letargo. Si este Pokémon siente peligro, luchará sin haber llegado a despertarse."
  },
  {
   "id"      : 386,
@@ -5786,7 +5786,7 @@
   "SpAtk"   : 150,
   "SpDef"   : 50,
   "Speed"   : 150,
-  "descrip" : ""
+  "descrip" : "Tras estar expuesto a un rayo láser, el ADN de un virus espacial sufrió una mutación y dio origen a Deoxys. Según parece, el órgano cristalino que este Pokémon tiene en el torso es el cerebro."
  },
  {
   "names"   : "Deoxys Attack Forme",
