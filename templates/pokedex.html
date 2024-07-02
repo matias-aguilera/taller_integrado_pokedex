@@ -9,6 +9,7 @@
      <table >
          <tr>
              <th>ID</th>
+             <th>Sprite</th>
              <th>Nombre</th>
              <th>Tipo</th>
          </tr>
@@ -20,8 +21,15 @@
                         {{ poke.id }}
                     </a>
                  </td>
+                 <td>
+                    <a href="{{ url_for('poke_prev',dex_id=poke.id) }}">
+                        <img src="/static/sprites/{{ poke.id }}.png" alt="">
+                    </a>
+                 </td>
                  <td style="text-align: center;">
-                     {{ poke.names }}
+                    <a href="{{ url_for('poke_prev',dex_id=poke.id) }}">
+                        {{ poke.names }}
+                    </a>
                  </td>
                  <td style="text-align: center;">
                      {{ poke.types }}
