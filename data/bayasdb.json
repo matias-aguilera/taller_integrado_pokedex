@@ -1,0 +1,233 @@
+{
+ "datos": [
+
+{
+    "id"      : 1,
+    "img"     : "",
+    "name"   : "Baya Algama",
+    "descrip" : "Al usarla con un Pokémon, lo vuelve más amistoso, pero también reduce su ataque de base."
+},
+{
+    "id"      : 2,
+    "img"     : "",
+    "name"   : "Baya Andano",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 3,
+    "img"     : "",
+    "name"   : "Baya Ango",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para restaurar algunos PS en un momento de apuro. Su sabor puede causar confusión si no les gusta."
+    },
+{
+    "id"      : 4,
+    "img"     : "",
+    "name"   : "Baya Aostan",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la dulzura. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 5,
+    "img"     : "",
+    "name"   : "Baya Arabol",
+    "descrip" : "Si la lleva un Pokémon, le aumenta mucho una característica en un momento de apuro."
+},
+{
+    "id"      : 6,
+    "img"     : "",
+    "name"   : "Baya Aranja",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para restaurar 10 PS."
+},
+{
+    "id"      : 7,
+    "img"     : "",
+    "name"   : "Baya Aricoc",
+    "descrip" : "Si la lleva un Pokémon, le aumenta la defensa especial en un momento de apuro."
+},
+{
+    "id"      : 8,
+    "img"     : "",
+    "name"   : "Baya Aslac",
+    "descrip" : "Si la lleva un Pokémon, le aumenta la velocidad en un momento de apuro."
+},
+{
+    "id"      : 9,
+    "img"     : "",
+    "name"   : "Baya Caquic",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para librarse de la confusión."
+},
+{
+    "id"      : 10,
+    "img"     : "",
+    "name"   : "Baya Enigma",
+    "descrip" : "Si la lleva un Pokémon, le restaura los PS cuando le alcanza un ataque supereficaz."
+},
+{
+    "id"      : 11,
+    "img"     : "",
+    "name"   : "Baya Frambu",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian el carisma. Es de color rojizo y sabor picante."
+},
+{
+    "id"      : 12,
+    "img"     : "",
+    "name"   : "Baya Gonlan",
+    "descrip" : "Si la lleva un Pokémon, le aumenta la defensa en un momento de apuro."
+},
+{
+    "id"      : 13,
+    "img"     : "",
+    "name"   : "Baya Grana",
+    "descrip" : "Al usarla con un Pokémon, lo vuelve más amistoso, pero también reduce sus PS de base."
+},
+{
+    "id"      : 14,
+    "img"     : "",
+    "name"   : "Baya Guaya",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para restaurar algunos PS en un momento de apuro. Su sabor puede causar confusión si no les gusta."
+},
+{
+    "id"      : 15,
+    "img"     : "",
+    "name"   : "Baya Higog",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para restaurar algunos PS en un momento de apuro. Su sabor puede causar confusión si no les gusta."
+},
+{
+    "id"      : 16,
+    "img"     : "",
+    "name"   : "Baya Ispero",
+    "descrip" : "Al usarla con un Pokémon, lo vuelve más amistoso, pero también reduce su defensa de base."
+},
+{
+    "id"      : 17,
+    "img"     : "",
+    "name"   : "Baya Latano",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la dulzura. Es de color rosa y sabor dulce."
+},
+{
+    "id"      : 18,
+    "img"     : "",
+    "name"   : "Baya Lichi",
+    "descrip" : "Si la lleva un Pokémon, le aumenta el ataque en un momento de apuro."
+},
+{
+    "id"      : 19,
+    "img"     : "",
+    "name"   : "Baya Mais",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 20,
+    "img"     : "",
+    "name"   : "Baya Meluce",
+    "descrip" : "Al usarla con un Pokémon, lo vuelve más amistoso, pero también reduce su ataque especial de base."
+},
+{
+    "id"      : 21,
+    "img"     : "",
+    "name"   : "Baya Monli",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la dureza. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 22,
+    "img"     : "",
+    "name"   : "Baya Oram",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la belleza. Es de color azulado y sabor seco."
+},
+{
+    "id"      : 23,
+    "img"     : "",
+    "name"   : "Baya Pabaya",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para restaurar algunos PS en un momento de apuro. Su sabor puede causar confusión si no les gusta."
+},
+{
+    "id"      : 24,
+    "img"     : "",
+    "name"   : "Baya Peragu",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian el ingenio. Es de color verde y sabor amargo."
+},
+{
+    "id"      : 25,
+    "img"     : "",
+    "name"   : "Baya Pinia",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la dureza. Es de color amarillo y sabor ácido."
+},
+{
+    "id"      : 26,
+    "img"     : "",
+    "name"   : "Baya Plama",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 27,
+    "img"     : "",
+    "name"   : "Baya Rautan",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 28,
+    "img"     : "",
+    "name"   : "Baya Rudion",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 29,
+    "img"     : "",
+    "name"   : "Baya Sambia",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 30,
+    "img"     : "",
+    "name"   : "Baya Tamate",
+    "descrip" : "Al usarla con un Pokémon, lo vuelve más amistoso, pero también reduce sus velocidad de base."
+},
+{
+    "id"      : 31,
+    "img"     : "",
+    "name"   : "Baya Uvav",
+    "descrip" : "Al usarla con un Pokémon, lo vuelve más amistoso, pero también reduce sus defensa especial de base."
+},
+{
+    "id"      : 32,
+    "img"     : "",
+    "name"   : "Baya Wikano",
+    "descrip" : "Se utiliza en la producción de Pokécubos que potencian la dulzura. Es una baya muy rara en otras regiones."
+},
+{
+    "id"      : 33,
+    "img"     : "",
+    "name"   : "Baya Wiki",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para restaurar algunos PS en un momento de apuro. Su sabor puede causar confusión si no les gusta."
+},
+{
+    "id"      : 34,
+    "img"     : "",
+    "name"   : "Baya Yapati",
+    "descrip" : "Si la lleva un Pokémon, le aumenta el ataque especial en un momento de apuro."
+},
+{
+    "id"      : 35,
+    "img"     : "",
+    "name"   : "Baya Zanama",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para restaurar 10 PP de un movimiento."
+},
+{
+    "id"      : 36,
+    "img"     : "",
+    "name"   : "Baya Zidra",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para restaurar algunos PS."
+},
+{
+    "id"      : 37,
+    "img"     : "",
+    "name"   : "Baya Ziuela",
+    "descrip" : "Los Pokémon pueden llevarla y usarla para recuperarse de problemas de estado."
+},
+{
+    "id"      : 38,
+    "img"     : "",
+    "name"   : "Baya Zonlan",
+    "descrip" : "Si la lleva un Pokémon, le aumenta la probabilidad de asestar un golpe crítico en un momento de apuro."
+}
+ ]
+}

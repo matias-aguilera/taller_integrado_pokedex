@@ -1,0 +1,749 @@
+{
+"datos": [
+ {
+  "id"      : 1,
+  "img"     : "",
+  "name"   : "Poción",
+  "descrip" : "Medicina en espray que cura heridas y restaura 20 PS de un Pokémon"
+ },
+ {
+    "id"      : 2,
+    "img"     : "",
+    "name"   : "Antídoto",
+    "descrip" : "Medicina en espray que contrarresta los efectos del veneno en un Pokémon."
+},
+{
+    "id"      : 3,
+    "img"     : "",
+    "name"   : "Antiquemar",
+    "descrip" : "Medicina en espray que cura las quemaduras a un Pokémon."
+},
+{
+    "id"      : 4,
+    "img"     : "",
+    "name"   : "Antihielo",
+    "descrip" : "Medicina en espray que descongela a un Pokémon."
+},
+{
+    "id"      : 5,
+    "img"     : "",
+    "name"   : "Despertar",
+    "descrip" : "Medicina en espray que libera a un Pokémon de las garras del sueño."
+},
+{
+    "id"      : 6,
+    "img"     : "",
+    "name"   : "Antiparalizador",
+    "descrip" : "Medicina en espray que cura a un Pokémon paralizado."
+},
+{
+    "id"      : 7,
+    "img"     : "",
+    "name"   : "Restaurar todo",
+    "descrip" : "Medicina que restaura todos los PS y cura todos los problemas de estado de un Pokémon."
+},
+{
+    "id"      : 8,
+    "img"     : "",
+    "name"   : "Poción máxima",
+    "descrip" : "Medicina en espray que cura heridas y restaura todos los PS de un Pokémon."
+},
+{
+    "id"      : 9,
+    "img"     : "",
+    "name"   : "Hiperpoción",
+    "descrip" : "Medicina en espray que cura heridas y restaura 120 PS de un Pokémon."
+},
+{
+    "id"      : 10,
+    "img"     : "",
+    "name"   : "Superpoción",
+    "descrip" : "Medicina en espray que cura heridas y restaura 60 PS de un Pokémon."
+},
+{
+    "id"      : 11,
+    "img"     : "",
+    "name"   : "Cura total",
+    "descrip" : "Medicina en espray que cura todos los problemas de estado de un Pokémon."
+},
+{
+    "id"      : 12,
+    "img"     : "",
+    "name"   : "Revivir",
+    "descrip" : "Medicina que reanima a un Pokémon debilitado y le devuelve la mitad de sus PS"
+},
+{
+    "id"      : 13,
+    "img"     : "",
+    "name"   : "Revivir máximo",
+    "descrip" : "Medicina que reanima a un Pokémon debilitado y le devuelve todos sus PS."
+},
+{
+    "id"      : 14,
+    "img"     : "",
+    "name"   : "Agua fresca",
+    "descrip" : "Agua de alto contenido mineral que restaura 30 PS de un Pokémon."
+},
+{
+    "id"      : 15,
+    "img"     : "",
+    "name"   : "Refresco",
+    "descrip" : "Chispeante bebida gaseosa que restaura 50 PS de un Pokémon."
+},
+{
+    "id"      : 16,
+    "img"     : "",
+    "name"   : "Limonada",
+    "descrip" : "Bebida muy dulce que restaura 70 PS de un Pokémon"
+},
+{
+    "id"      : 17,
+    "img"     : "",
+    "name"   : "Leche Mu-mu",
+    "descrip" : "Leche de alto valor nutritivo que restaura 100 PS de un Pokémon."
+},
+{
+    "id"      : 18,
+    "img"     : "",
+    "name"   : "Polvo energía",
+    "descrip" : "Polvo medicinal muy amargo que restaura 60 PS de un Pokémon."
+},
+{
+    "id"      : 19,
+    "img"     : "",
+    "name"   : "Raíz energía",
+    "descrip" : "Raíz muy amarga que restaura 120 PS de un Pokémon"
+},
+{
+    "id"      : 20,
+    "img"     : "",
+    "name"   : "Polvo curación",
+    "descrip" : "Polvo medicinal muy amargo que cura todos los problemas de estado de un Pokémon."
+},
+{
+    "id"      : 21,
+    "img"     : "",
+    "name"   : "Hierba revivir",
+    "descrip" : "Hierba medicinal muy amarga que reanima a un Pokémon debilitado y restaura todos sus PS."
+},
+{
+    "id"      : 22,
+    "img"     : "",
+    "name"   : "Éter ",
+    "descrip" : "Restaura 10 PP del movimiento elegido de un Pokémon."
+},
+{
+    "id"      : 23,
+    "img"     : "",
+    "name"   : "Éter máximo ",
+    "descrip" : "Restaura completamente los PP del movimiento elegido de un Pokémon."
+},
+{
+    "id"      : 24,
+    "img"     : "",
+    "name"   : "Elixir ",
+    "descrip" : "Restaura 10 PP de todos los movimientos aprendidos por el Pokémon elegido."
+},
+{
+    "id"      : 25,
+    "img"     : "",
+    "name"   : "Elixir máximo",
+    "descrip" : "Restaura completamente los PP de todos los movimientos aprendidos por el Pokémon elegido."
+},
+{
+    "id"      : 26,
+    "img"     : "",
+    "name"   : "Galleta lava",
+    "descrip" : "Dulce típico de Pueblo Lavacalda que cura todos los problemas de estado de un Pokémon."
+},
+{
+    "id"      : 27,
+    "img"     : "",
+    "name"   : "Flauta azul",
+    "descrip" : "Una flauta de cristal azul cuyas notas despiertan a un Pokémon del sueño."
+},
+{
+    "id"      : 28,
+    "img"     : "",
+    "name"   : "Flauta amarilla",
+    "descrip" : "Una flauta de cristal amarillo cuyas notas sacan a un Pokémon de la confusión."
+},
+{
+    "id"      : 29,
+    "img"     : "",
+    "name"   : "Flauta roja",
+    "descrip" : "Una flauta de cristal rojo cuyas notas hacen volver en sí a un Pokémon enamorado."
+},
+{
+    "id"      : 30,
+    "img"     : "",
+    "name"   : "Flauta negra",
+    "descrip" : "Una flauta de cristal negro cuyas notas atraen a Pokémon salvajes de nivel más alto al lugar en el que se usa."
+},
+{
+    "id"      : 31,
+    "img"     : "",
+    "name"   : "Flauta blanca",
+    "descrip" : "Una flauta de cristal blanco cuyas notas atraen a Pokémon salvajes de nivel más bajo al lugar en el que se usa."
+},
+{
+    "id"      : 32,
+    "img"     : "",
+    "name"   : "Zumo de baya",
+    "descrip" : "Zumo de bayas 100% natural que restaura 20 PS de un Pokémon."
+},
+{
+    "id"      : 33,
+    "img"     : "",
+    "name"   : "Ceniza sagrada",
+    "descrip" : "Reanima completamente a todos los Pokémon debilitados y restaura todos sus PS"
+},
+{
+    "id"      : 34,
+    "img"     : "",
+    "name"   : "Sal cardumen",
+    "descrip" : "Una sal muy fina que se encuentra en la Cueva Cardumen."
+},
+{
+    "id"      : 35,
+    "img"     : "",
+    "name"   : "Concha cardumen",
+    "descrip" : "Concha que se encuentra en la Cueva Cardumen."
+},
+{
+    "id"      : 36,
+    "img"     : "",
+    "name"   : "Más PS",
+    "descrip" : "Nutritiva bebida que aumenta los PS de base de un Pokémon."
+},
+{
+    "id"      : 37,
+    "img"     : "",
+    "name"   : "Proteína",
+    "descrip" : "Nutritiva bebida que aumenta el ataque de base de un Pokémon."
+},
+{
+    "id"      : 38,
+    "img"     : "",
+    "name"   : "Hierro",
+    "descrip" : "Nutritiva bebida que aumenta la defensa de base de un Pokémon."
+},
+{
+    "id"      : 39,
+    "img"     : "",
+    "name"   : "Carburante",
+    "descrip" : "Nutritiva bebida que aumenta la velocidad de base de un Pokémon."
+},
+{
+    "id"      : 40,
+    "img"     : "",
+    "name"   : "Calcio",
+    "descrip" : "Nutritiva bebida que aumenta el ataque especial de base de un Pokémon."
+},
+{
+    "id"      : 41,
+    "img"     : "",
+    "name"   : "Caramelo raro",
+    "descrip" : "Caramelo energético que sube a un Pokémon de nivel."
+},
+{
+    "id"      : 42,
+    "img"     : "",
+    "name"   : "Más PP",
+    "descrip" : "Aumenta ligeramente los PP máximos del movimiento elegido de un Pokémon."
+},
+{
+    "id"      : 43,
+    "img"     : "",
+    "name"   : "Zinc",
+    "descrip" : "Nutritiva bebida que aumenta la defensa especial de base de un Pokémon."
+},
+{
+    "id"      : 44,
+    "img"     : "",
+    "name"   : "PP máximos",
+    "descrip" : "Aumenta hasta el límite los PP máximos del movimiento elegido de un Pokémon."
+},
+{
+    "id"      : 45,
+    "img"     : "",
+    "name"   : "Ataque X",
+    "descrip" : "Aumenta mucho el ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+},
+{
+    "id"      : 46,
+    "img"     : "",
+    "name"   : "Defensa X",
+    "descrip" : "Aumenta mucho la defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+},
+{
+    "id"      : 47,
+    "img"     : "",
+    "name"   : "Ataque especial X",
+    "descrip" : "Aumenta mucho el ataque especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+},
+{
+    "id"      : 48,
+    "img"     : "",
+    "name"   : "Velocidad X",
+    "descrip" : "Aumenta mucho la velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+},
+{
+    "id"      : 49,
+    "img"     : "",
+    "name"   : "Precisión X",
+    "descrip" : "Aumenta mucho la precisión en combate. Al cambiar de Pokémon, el efecto desaparece."
+},
+{
+    "id"      : 50,
+    "img"     : "",
+    "name"   : "Crítico X",
+    "descrip" : "Aumenta mucho la probabilidad de asestar un golpe crítico en combate. Solo se puede usar una vez y, al cambiar de Pokémon, el efecto desaparece."
+},
+{
+    "id"      : 51,
+    "img"     : "",
+    "name"   : "Protección X",
+    "descrip" : "Evita que reduzcan las características de un Pokémon y sus aliados durante cinco turnos."
+},
+{
+    "id"      : 52,
+    "img"     : "",
+    "name"   : "Pokémuñeco",
+    "descrip" : "Un muñeco que atrae la atención de los Pokémon. Es útil para huir de un combate contra un Pokémon salvaje."
+},
+{
+    "id"      : 53,
+    "img"     : "",
+    "name"   : "Cola Skitty",
+    "descrip" : "Un objeto que atrae la atención de los Pokémon. Es útil para huir de un combate contra un Pokémon salvaje."
+},
+{
+    "id"      : 54,
+    "img"     : "",
+    "name"   : "Superrepelente",
+    "descrip" : "Evita encuentros con Pokémon salvajes de nivel bajo durante más tiempo que un Repelente."
+},
+{
+    "id"      : 55,
+    "img"     : "",
+    "name"   : "Repelente máximo",
+    "descrip" : "Evita encuentros con Pokémon salvajes de nivel bajo durante más tiempo que un Superrepelente."
+},
+{
+    "id"      : 56,
+    "img"     : "",
+    "name"   : "Cuerda huida",
+    "descrip" : "Cuerda larga y resistente que sirve para huir de cuevas y sitios cerrados en general. Puede usarse tantas veces como se quiera"
+},
+{
+    "id"      : 57,
+    "img"     : "",
+    "name"   : "Repelente",
+    "descrip" : "Evita encuentros con Pokémon salvajes de nivel bajo durante un corto período de tiempo."
+},
+{
+    "id"      : 58,
+    "img"     : "",
+    "name"   : "Piedra solar",
+    "descrip" : "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol."
+},
+{
+    "id"      : 59,
+    "img"     : "",
+    "name"   : "Piedra lunar",
+    "descrip" : "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es oscura como el cielo nocturno."
+},
+{
+    "id"      : 60,
+    "img"     : "",
+    "name"   : "Piedra fuego",
+    "descrip" : "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es amarilla con una marca naranja."
+},
+{
+    "id"      : 61,
+    "img"     : "",
+    "name"   : "Piedra trueno",
+    "descrip" : "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene grabado un rayo."
+},
+{
+    "id"      : 62,
+    "img"     : "",
+    "name"   : "Piedra agua",
+    "descrip" : "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es de color azul."
+},
+{
+    "id"      : 63,
+    "img"     : "",
+    "name"   : "Piedra hoja",
+    "descrip" : "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene grabada una hoja."
+},
+{
+    "id"      : 64,
+    "img"     : "",
+    "name"   : "Miniseta",
+    "descrip" : "Una pequeña seta que es poco común y bastante popular entre determinados grupos de gourmets."
+},
+{
+    "id"      : 65,
+    "img"     : "",
+    "name"   : "Seta grande",
+    "descrip" : "Una gran seta que es poco común y muy popular entre determinados grupos de gourmets."
+},
+{
+    "id"      : 66,
+    "img"     : "",
+    "name"   : "Perla grande",
+    "descrip" : "Brillante perla plateada de gran tamaño que puede venderse a buen precio en las tiendas"
+},
+{
+    "id"      : 67,
+    "img"     : "",
+    "name"   : "Perla",
+    "descrip" : "Brillante perla pequeña y plateada que no alcanza un buen precio en las tiendas."
+},
+{
+    "id"      : 68,
+    "img"     : "",
+    "name"   : "Polvo estelar",
+    "descrip" : "Bonita arena roja de tacto sedoso que no alcanza un buen precio en las tiendas."
+},
+{
+    "id"      : 69,
+    "img"     : "",
+    "name"   : "Trozo estrella",
+    "descrip" : "Fragmento de una bonita gema roja que puede venderse a buen precio en las tiendas."
+},
+{
+    "id"      : 70,
+    "img"     : "",
+    "name"   : "Pepita",
+    "descrip" : "Pepita de oro puro que desprende un brillo espectacular. Puede venderse a buen precio en las tiendas."
+},
+{
+    "id"      : 71,
+    "img"     : "",
+    "name"   : "Escama corazón",
+    "descrip" : "Una bella y rara escama con forma de corazón que más de uno apreciará si se la entregas."
+},
+{
+    "id"      : 72,
+    "img"     : "",
+    "name"   : "Polvo brillo",
+    "descrip" : "Lanza un destello que reduce la precisión del rival. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 73,
+    "img"     : "",
+    "name"   : "Hierba blanca",
+    "descrip" : "Restaura cualquier característica reducida en combate. Es de un solo uso y debe llevarla un Pokémon."
+},
+{
+    "id"      : 74,
+    "img"     : "",
+    "name"   : "Brazal firme",
+    "descrip" : "Sólido y pesado brazal que reduce la velocidad en combate, pero permite que las características aumenten más rápidamente. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 75,
+    "img"     : "",
+    "name"   : "Repartir experiencia",
+    "descrip" : "Al activar el dispositivo, todos los Pokémon de tu equipo ganan puntos de experiencia tras los combates."
+},
+{
+    "id"      : 76,
+    "img"     : "",
+    "name"   : "Garra rápida",
+    "descrip" : "Garra ligera y afilada que permite que el Pokémon que la lleve ataque a veces el primero."
+},
+{
+    "id"      : 77,
+    "img"     : "",
+    "name"   : "Cascabel alivio",
+    "descrip" : "Un cascabel con un tañido calmante que reconforta al Pokémon que lo lleva y lo vuelve más amistoso."
+},
+{
+    "id"      : 78,
+    "img"     : "",
+    "name"   : "Hierba mental",
+    "descrip" : "El Pokémon que la lleva se libera de los efectos que le restringen qué movimientos puede utilizar. Es de un solo uso."
+},
+{
+    "id"      : 79,
+    "img"     : "",
+    "name"   : "Cinta elección",
+    "descrip" : "Una cinta muy particular que aumenta el ataque, pero solo permite usar un movimiento. Debe llevarla un Pokémon."
+},
+{
+    "id"      : 80,
+    "img"     : "",
+    "name"   : "Roca del rey",
+    "descrip" : "El Pokémon que la lleva puede amedrentar al objetivo al que inflige daño con un ataque."
+},
+{
+    "id"      : 81,
+    "img"     : "",
+    "name"   : "Polvo plata",
+    "descrip" : "Polvo de brillo argénteo que potencia los movimientos de tipo bicho. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 82,
+    "img"     : "",
+    "name"   : "Moneda amuleto",
+    "descrip" : "Si el Pokémon que la lleva lucha en un combate, se duplica el dinero ganado."
+},
+{
+    "id"      : 83,
+    "img"     : "",
+    "name"   : "Amuleto",
+    "descrip" : "Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes."
+},
+{
+    "id"      : 84,
+    "img"     : "",
+    "name"   : "Rocío bondad",
+    "descrip" : "Un orbe fantástico que potencia los movimientos de tipo psíquico y dragón."
+},
+{
+    "id"      : 85,
+    "img"     : "",
+    "name"   : "Diente marino",
+    "descrip" : "Tiene el brillo afilado de la plata y aumenta el ataque especial. Debe llevarlo Clamperl."
+},
+{
+    "id"      : 86,
+    "img"     : "",
+    "name"   : "Escama marina",
+    "descrip" : "Tiene un débil brillo rosado y aumenta la defensa especial. Debe llevarlo Clamperl."
+},
+{
+    "id"      : 87,
+    "img"     : "",
+    "name"   : "Bola de humo",
+    "descrip" : "Permite huir siempre de combates contra Pokémon salvajes. Debe llevarla un Pokémon."
+},
+{
+    "id"      : 88,
+    "img"     : "",
+    "name"   : "Piedra eterna",
+    "descrip" : "El Pokémon que lleva esta piedra mágica no evoluciona."
+},
+{
+    "id"      : 89,
+    "img"     : "",
+    "name"   : "Banda aguante",
+    "descrip" : "El Pokémon que la lleva a veces resiste los golpes que potencialmente lo debilitarían y se queda con 1 PS."
+},
+{
+    "id"      : 90,
+    "img"     : "",
+    "name"   : "Huevo suerte",
+    "descrip" : "Huevo lleno de felicidad que aumenta ligeramente los puntos de experiencia del Pokémon que lo lleva."
+},
+{
+    "id"      : 91,
+    "img"     : "",
+    "name"   : "Periscopio",
+    "descrip" : "Su lente permite detectar los puntos débiles de un Pokémon y aumentar con ello la probabilidad de asestar un golpe crítico. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 92,
+    "img"     : "",
+    "name"   : "Revestimiento metálico",
+    "descrip" : "Película metálica que potencia los movimientos de tipo acero. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 93,
+    "img"     : "",
+    "name"   : "Restos",
+    "descrip" : "Este objeto restaura gradualmente durante el combate los PS del Pokémon que lo lleva."
+},
+{
+    "id"      : 94,
+    "img"     : "",
+    "name"   : "Escama dragón",
+    "descrip" : "Una gruesa y resistente escama que a veces llevan los Pokémon de tipo dragón."
+},
+{
+    "id"      : 95,
+    "img"     : "",
+    "name"   : "Bola luminosa",
+    "descrip" : "Asombrosa esfera que aumenta el ataque y el ataque especial. Debe llevarla Pikachu"
+},
+{
+    "id"      : 96,
+    "img"     : "",
+    "name"   : "Arena fina",
+    "descrip" : "La suavidad de la arena potencia los movimientos de tipo tierra. Debe llevarla un Pokémon."
+},
+{
+    "id"      : 97,
+    "img"     : "",
+    "name"   : "Piedra dura",
+    "descrip" : "La robustez de la piedra potencia los movimientos de tipo roca. Debe llevarla un Pokémon."
+},
+{
+    "id"      : 98,
+    "img"     : "",
+    "name"   : "Semilla milagro",
+    "descrip" : "La vitalidad de la semilla potencia los movimientos de tipo planta. Debe llevarla un Pokémon."
+},
+{
+    "id"      : 99,
+    "img"     : "",
+    "name"   : "Gafas de sol",
+    "descrip" : "Potencian los movimientos de tipo siniestro. Debe llevarlas un Pokémon."
+},
+{
+    "id"      : 100,
+    "img"     : "",
+    "name"   : "Cinturón negro",
+    "descrip" : "Aumenta la concentración y potencia los movimientos de tipo lucha. Debe llevarlo un Pokémon"
+},
+{
+    "id"      : 101,
+    "img"     : "",
+    "name"   : "Imán",
+    "descrip" : "Su potente magnetismo potencia los movimientos de tipo eléctrico. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 102,
+    "img"     : "",
+    "name"   : "Agua mística",
+    "descrip" : "Gema con forma de gota de agua que potencia los movimientos de tipo agua. Debe llevarla un Pokémon."
+},
+{
+    "id"      : 103,
+    "img"     : "",
+    "name"   : "Pico afilado",
+    "descrip" : "Pico largo y afilado que potencia los movimientos de tipo volador. Debe llevarlo un Pokémon"
+},
+{
+    "id"      : 104,
+    "img"     : "",
+    "name"   : "Pico afilado",
+    "descrip" : "Pico largo y afilado que potencia los movimientos de tipo volador. Debe llevarlo un Pokémon"
+},
+{
+    "id"      : 105,
+    "img"     : "",
+    "name"   : "Flecha venenosa",
+    "descrip" : "Pequeña flecha venenosa que potencia los movimientos de tipo veneno. Debe llevarla un Pokémon."
+},
+{
+    "id"      : 106,
+    "img"     : "",
+    "name"   : "Antiderretir",
+    "descrip" : "Fragmento de hielo que repele el calor y potencia los movimientos de tipo hielo. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 107,
+    "img"     : "",
+    "name"   : "Hechizo",
+    "descrip" : "Misterioso y siniestro objeto que potencia los movimientos de tipo fantasma. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 108,
+    "img"     : "",
+    "name"   : "Cuchara torcida",
+    "descrip" : "Cuchara imbuida de energía telequinética que potencia los movimientos de tipo psíquico. Debe llevarla un Pokémon."
+},
+{
+    "id"      : 109,
+    "img"     : "",
+    "name"   : "Carbón",
+    "descrip" : "Actúa como combustible y potencia los movimientos de tipo fuego. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 110,
+    "img"     : "",
+    "name"   : "Colmillo dragón",
+    "descrip" : "Colmillo afilado de gran dureza que potencia los movimientos de tipo dragón. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 111,
+    "img"     : "",
+    "name"   : "Pañuelo de seda",
+    "descrip" : "Colmillo afilado de gran dureza que potencia los movimientos de tipo dragón. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 112,
+    "img"     : "",
+    "name"   : "Mejora",
+    "descrip" : "Peculiar dispositivo fabricado en Silph S. A. que contiene todo tipo de datos."
+   
+},
+{
+    "id"      : 113,
+    "img"     : "",
+    "name"   : "Cascabel concha",
+    "descrip" : "Cada vez que el portador inflige daño, recupera algunos PS. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 114,
+    "img"     : "",
+    "name"   : "Incienso marino",
+    "descrip" : "Incienso de exótico aroma que potencia los movimientos de tipo agua. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 115,
+    "img"     : "",
+    "name"   : "Incienso suave",
+    "descrip" : "Su peculiar aroma reduce la precisión del rival. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 116,
+    "img"     : "",
+    "name"   : "Puño suerte",
+    "descrip" : "Un guante que aumenta la probabilidad de asestar un golpe crítico. Debe llevarlo Chansey."
+},
+{
+    "id"      : 117,
+    "img"     : "",
+    "name"   : "Polvo metálico",
+    "descrip" : "Polvo muy fino, pero a la vez poderoso, que aumenta la defensa. Debe llevarlo Ditto."
+},
+{
+    "id"      : 118,
+    "img"     : "",
+    "name"   : "Hueso grueso",
+    "descrip" : "Extraño tipo de hueso que potencia los ataques físicos. Debe llevarlo Cubone o Marowak."
+},
+{
+    "id"      : 119,
+    "img"     : "",
+    "name"   : "Puerro",
+    "descrip" : "Puerro muy largo y duro que aumenta la probabilidad de asestar un golpe crítico. Debe llevarlo Farfetch'd."
+},
+{
+    "id"      : 120,
+    "img"     : "",
+    "name"   : "Pañuelo rojo",
+    "descrip" : "Aumenta el carisma en los concursos. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 121,
+    "img"     : "",
+    "name"   : "Pañuelo azul",
+    "descrip" : "Aumenta la belleza en los concursos. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 122,
+    "img"     : "",
+    "name"   : "Pañuelo rosa",
+    "descrip" : "Aumenta la dulzura en los concursos. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 123,
+    "img"     : "",
+    "name"   : "Pañuelo verde",
+    "descrip" : "Aumenta el ingenio en los concursos. Debe llevarlo un Pokémon."
+},
+{
+    "id"      : 124,
+    "img"     : "",
+    "name"   : "Pañuelo amarillo",
+    "descrip" : "Aumenta la dureza en los concursos. Debe llevarlo un Pokémon."
+}
+]
+}
