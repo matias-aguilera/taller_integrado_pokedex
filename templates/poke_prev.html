@@ -5,9 +5,10 @@
 
 <article>
     <h1>
-        {{ poke.names}}
+        {{ poke.names }}
     </h1>
+    <img src="/static/pkms/{{ poke.id }}.png" alt="">
+    <p>{{ poke.descrip }}</p>
 </article>
-
 {% endblock %}
 

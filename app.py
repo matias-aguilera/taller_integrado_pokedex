@@ -24,7 +24,7 @@ def poke_prev(dex_id):
 @app.route("/pokedex/")
 def pokedex():
     pokedexdb = loaddb()
-    return render_template("pokedex.html", dex=pokedexdb, n = 12)
+    return render_template("pokedex.html", dex=pokedexdb, n = 151)
 
 @app.route("/items/")
 def items():
