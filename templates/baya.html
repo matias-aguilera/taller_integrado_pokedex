@@ -1,0 +1,15 @@
+{% extends "base_template.html" %}
+
+{% block title %}{{bayainfo.name}} - {% endblock %}
+{% block content %}
+
+<article>
+    <h1>
+        {{ bayainfo.name }}
+    </h1>
+    <img src="/static/bayas/{{bayainfo.id}}_{{bayainfo.name}}_EP.png" alt="">
+    <p>
+        {{ bayainfo.descrip}}
+    </p>
+</article>
+{% endblock %}

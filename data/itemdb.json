@@ -129,19 +129,19 @@
 {
     "id"      : 22,
     "img"     : "_EP.png",
-    "name"   : "Éter ",
+    "name"   : "Éter",
     "descrip" : "Restaura 10 PP del movimiento elegido de un Pokémon."
 },
 {
     "id"      : 23,
     "img"     : "_EP.png",
-    "name"   : "Éter máximo ",
+    "name"   : "Éter máximo",
     "descrip" : "Restaura completamente los PP del movimiento elegido de un Pokémon."
 },
 {
     "id"      : 24,
     "img"     : "_EP.png",
-    "name"   : "Elixir ",
+    "name"   : "Elixir",
     "descrip" : "Restaura 10 PP de todos los movimientos aprendidos por el Pokémon elegido."
 },
 {
@@ -614,12 +614,6 @@
 },
 {
     "id"      : 103,
-    "img"     : "_EP.png",
-    "name"   : "Pico afilado",
-    "descrip" : "Pico largo y afilado que potencia los movimientos de tipo volador. Debe llevarlo un Pokémon"
-},
-{
-    "id"      : 104,
     "img"     : "_EP.png",
     "name"   : "Pico afilado",
     "descrip" : "Pico largo y afilado que potencia los movimientos de tipo volador. Debe llevarlo un Pokémon"

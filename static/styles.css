@@ -117,3 +117,10 @@ table a :visited{
 .imgsmall{
     height: 20px;
 }
+
+.miembro {
+    display: inline-block;
+    vertical-align: top; 
+    text-align: center;  
+    margin: 10px;        
+}

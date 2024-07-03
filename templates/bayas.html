@@ -1,11 +1,26 @@
 {% extends "base_template.html" %}
 
-{% block title %}test{% endblock %}
+{% block title %}Objetos - {% endblock %}
 {% block content %}
 
-<div>
-    <h3>baya pabaya</h3>
-    <img src="{{ url_for('static', filename='bayas/Baya_Pabaya_EP.png') }}" alt="baya_pabaya" style="width:150px;">
-</div>
-
+<table class="centered">
+    <tr>
+        <th>Nombre</th>
+        <th>Imagen</th>
+    </tr>
+    {% for baya in bayas %}
+        <tr>
+            <td style="text-align: center;">
+                <a href="{{ url_for('baya',bayaname=baya.name) }}">
+                    {{ baya.name }}
+                </a>
+            </td>
+            <td>
+                <a href="{{ url_for('baya',bayaname=baya.name) }}">
+                    <img class="imgsmall" src="/static/bayas/{{baya.id}}_{{baya.name}}_EP.png" alt="">
+                </a>
+            </td>
+        </tr>
+    {% endfor %}
+</table>
 {% endblock %}

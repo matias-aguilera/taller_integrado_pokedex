@@ -42,7 +42,17 @@ def item(itemname):
 
 @app.route("/bayas/")
 def bayas():
-    return render_template("bayas.html")    
+    bayasdb = loaddb("data/bayasdb.json")
+    return render_template("bayas.html", bayas=bayasdb) 
+
+@app.route("/baya/<bayaname>")
+def baya(bayaname):
+    bayasdb = loaddb("data/bayasdb.json")
+    itemquery = next(i for i in bayasdb if i["name"]== bayaname)
+    if itemquery is None:
+        abort(404)
+    return render_template("baya.html", bayainfo = itemquery)
+
 
 @app.route("/extras/")
 def extras():
