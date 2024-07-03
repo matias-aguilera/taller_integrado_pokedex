@@ -1,0 +1,15 @@
+{% extends "base_template.html" %}
+
+{% block title %}{{iteminfo.name}} - {% endblock %}
+{% block content %}
+
+<article>
+    <h1>
+        {{ iteminfo.name }}
+    </h1>
+    <img src="/static/items/{{iteminfo.id}}_{{iteminfo.name}}_EP.png" alt="">
+    <p>
+        {{ iteminfo.descrip}}
+    </p>
+</article>
+{% endblock %}

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}uplaDex{% endblock %}</title>
-    <!-- Enlace a hojas de estilo (CSS) -->
+    <title>{% block title %}{% endblock %}UplaDex</title>
+    <link rel="shortcut icon" href="/static/img_varios/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="{{ url_for('static' , filename='styles.css') }}">
     <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet'>
 
@@ -12,18 +12,19 @@
 <body>
     <!-- Header -->
     <header>
-        
-       <div class="pokeball">
-           <h1>uplaDex</h1>
-       </div>
+        <a href="{{url_for('index')}}" class="nodecoration">
+            <div class="pokeball">
+                <h1>UplaDex</h1>
+            </div>
+        </a>
    
         <nav>
             <ul>
                 <li><a href="{{ url_for('index') }}">Inicio</a></li>
                 <li><a href="{{ url_for('pokedex') }}">Pokedex</a></li>
                 <li><a href="{{ url_for('items') }}">Items</a></li>
-                <li><a href="{{ url_for('bayas') }}">bayas</a></li>
-                <li><a href="{{ url_for('pokemon') }}">Pokémon</a></li>
+                <li><a href="{{ url_for('bayas') }}">Bayas</a></li>
+                <li><a href="{{ url_for('extras') }}">Extras</a></li>
             </ul>
         </nav>
     </header>
@@ -38,6 +39,7 @@
     <!-- Footer -->
     <footer>
         <p>&copy; uplaDex</p>
+        <p>Matias Aguilera - Luis Tapia</p>
     </footer>
 </body>
 </html>

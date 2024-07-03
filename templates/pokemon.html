@@ -1,11 +1,24 @@
 {% extends "base_template.html" %}
 
-{% block title %}test{% endblock %}
+{% block title %}{{poke.names}} - {% endblock %}
 {% block content %}
 
-<div>
-    <h3>ditto</h3>
-    <img src="{{ url_for('static', filename='pkms/132.png') }}" alt="ditto" style="width:150px;">
-</div>
-
+<article class="pokebackground">
+    <h1>
+        #{{poke.id}} {{ poke.names }}
+    </h1>
+    <img src="/static/pkms/{{ poke.id }}.png" alt="" class="pokerounded"><br>
+    {% if poke.type2=="" %}
+        <img src="/static/types/spanish/{{poke.type1}}.png">
+    {% else %}
+        <img src="/static/types/spanish/{{poke.type1}}.png">
+        <img src="/static/types/spanish/{{poke.type2}}.png">
+    {% endif %}
+    
+    
+    <p>{{ poke.descrip }}</p>
+    <p></p>
+    <p></p>
+</article>
 {% endblock %}
+
