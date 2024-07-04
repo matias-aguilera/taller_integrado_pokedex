@@ -1,0 +1,21 @@
+{% extends "base_template.html" %}
+
+{% block title %}test{% endblock %}
+{% block content %}
+
+<div>
+    <h3>cuantos pokemons nuevos hay en cada region</h3>
+    <img src="{{ url_for('static', filename='graficos/pkm_gen.JPG') }}" alt="grafico" style="width:700px;">
+</div>
+
+
+<div>
+
+    <h3>cuantos pokemons puros hay de cada tipo?</h3>
+    <img src="{{ url_for('static', filename='graficos/cantidad de pkms.JPG') }}" alt="grafico" style="width:700px;">
+
+
+</div>
+
+
+{% endblock %}

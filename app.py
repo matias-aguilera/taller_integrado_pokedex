@@ -57,6 +57,11 @@ def baya(bayaname):
 @app.route("/extras/")
 def extras():
     return render_template("extras.html")
+
+
+@app.route("/datos/")
+def datos():
+    return render_template("datos.html")    
 #@app.route("/p/<string:slug>/")
 #def show_post(slug):
 #    return render_template("post_view.html", slug_title=slug)
