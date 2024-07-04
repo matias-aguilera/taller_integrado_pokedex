@@ -84,6 +84,7 @@ article p{
     border-radius: 300px;
     width: 90%;
     max-width: 475px;
+    width: 75%;
     background: #ffffff;
 }
 
@@ -123,4 +124,18 @@ table a :visited{
     vertical-align: top; 
     text-align: center;  
     margin: 10px;        
+}
+.imgmedium{
+    width: 700px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.indexarticle{
+    display: block;
+    border-radius: 10px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff;
 }
